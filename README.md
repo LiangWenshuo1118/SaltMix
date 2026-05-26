@@ -1,81 +1,81 @@
 # SaltMix
 
-面向熔盐热物性与输运性质的物理启发神经模型代码库。项目围绕密度、粘度、表面张力和电导率四类性质，使用一元/二元体系训练，在三元及以上体系上评估混合阶数外推能力。
+Physics-inspired neural models for molten-salt thermophysical and transport properties. SaltMix trains on unary and binary systems for density, viscosity, surface tension, and electrical conductivity, then evaluates mixture-order extrapolation on ternary and higher-order systems.
 
-## 项目内容
+## Repository Contents
 
-- `salt_property/`: 核心 Python 包，包含数据预处理、化学式解析、模型、训练、评估和推理入口。
-- `configs/`: 各性质和模型变体的 YAML 配置。
-- `data/`: 整理后的 Janz 相关 JSON 数据和 Janz 原始 PDF。Janz 页面 PNG 不随仓库发布；MSTDB-TP 数据本体不随仓库发布，仅保留官方获取说明。
-- `tests/`: CLI、预处理、解析和模型行为的单元测试。
-- `docs/`: 论文草稿、补充材料和结果文档。
-- `outputs/`: 精选训练产物和处理后的结果汇总；远程 bundle 不随仓库发布。
+- `salt_mix/`: Core Python package for preprocessing, chemistry parsing, modeling, training, evaluation, and inference.
+- `configs/`: YAML configurations for each property and model variant.
+- `data/`: Curated Janz JSON data, the original Janz PDF, and the MSTDB-TP access pointer.
+- `tests/`: Unit tests for the CLI, preprocessing, parsing, and model behavior.
+- `docs/`: English manuscript, supporting information, selected result documents, figures, and the compiled manuscript PDF.
+- `outputs/`: Selected best-model training artifacts and processed result summaries.
 
-## 模型概览
+## Model Overview
 
-所有模型共享组分级 Transformer 编码器。每个盐组分会被解析为结构化 token，并与摩尔分数、温度一起输入模型。
+All models share a component-level Transformer encoder. Each salt component is parsed into structured tokens and supplied to the model with mole fraction and temperature.
 
-支持的输出结构包括：
+Supported output structures include:
 
-- `use_phy: true`, `use_rk: true`: composition-weighted + Redlich-Kister style pair correction。
-- `use_phy: true`, `use_rk: false`: composition-weighted 模型。
-- `use_phy: false`: Set Transformer pooling 后直接预测的无显式物理偏置模型。
-- `use_linear: true`: 用于密度和表面张力的线性温度约束模型。
-- `use_arrhenius: true`: 用于粘度和电导率的 Arrhenius 温度约束模型。
+- `use_phy: true`, `use_rk: true`: composition-weighted prediction with Redlich-Kister-style pair correction.
+- `use_phy: true`, `use_rk: false`: composition-weighted prediction.
+- `use_phy: false`: direct prediction after Set Transformer pooling.
+- `use_linear: true`: linear temperature-constrained models for density and surface tension.
+- `use_arrhenius: true`: Arrhenius temperature-constrained models for viscosity and electrical conductivity.
 
-密度和表面张力在原始性质空间训练；粘度和电导率在自然对数空间训练，并在评估和预测时同时输出原始值与 log 值。
+Density and surface tension are trained in the original property space. Viscosity and electrical conductivity are trained in natural-log space, with metrics and predictions reported in both original and log spaces.
 
-## 环境安装
+## Installation
 
-本仓库目前没有打包为 `pip install` 项目，推荐直接从仓库根目录用 `PYTHONPATH` 运行。
+SaltMix is currently run directly from the repository root with `PYTHONPATH`.
 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
-python -m pip install -r requirements-remote.txt
+python -m pip install -r requirements.txt
 export PYTHONPATH="$PWD"
 ```
 
-依赖列表很小：
+Core dependencies:
 
 - `numpy`
 - `pandas`
 - `PyYAML`
 - `torch`
 
-## 快速开始
+## Quick Start
 
-以密度模型为例：
+Example workflow for density:
 
 ```bash
 export PYTHONPATH="$PWD"
 
-python -m salt_property preprocess \
+python -m salt_mix preprocess \
   --config configs/density_config.yaml \
   --property density
 
-python -m salt_property train \
+python -m salt_mix train \
   --config configs/density_config.yaml \
   --property density
 
-python -m salt_property eval \
+python -m salt_mix eval \
   --config configs/density_config.yaml \
   --property density
 ```
 
-`train` 会在缺少预处理产物时自动先运行 `preprocess`。默认输出目录由配置文件中的 `training.output_dir` 决定。
+`train` automatically runs preprocessing first when the required preprocessed files are missing. The default output directory is controlled by `training.output_dir` in each configuration file.
 
-## 支持的性质与配置
+## Properties and Configurations
 
-| Property | 默认 RK 配置 | 温度约束配置 | 默认输出目录 |
+| Property | Default RK configuration | Temperature-constrained configuration | Default output directory |
 | --- | --- | --- | --- |
 | `density` | `configs/density_config.yaml` | `configs/density_linear_config.yaml` | `outputs/density_results` |
 | `viscosity` | `configs/viscosity_config.yaml` | `configs/viscosity_arrhenius_config.yaml` | `outputs/viscosity_results` |
 | `surface_tension` | `configs/surface_tension_config.yaml` | `configs/surface_tension_linear_config.yaml` | `outputs/surface_tension_results` |
 | `electrical_conductivity` | `configs/electrical_conductivity_config.yaml` | `configs/electrical_conductivity_arrhenius_config.yaml` | `outputs/electrical_conductivity_results` |
 
-CLI 的 `--property` 只能使用：
+The CLI `--property` value must be one of:
 
 ```text
 density
@@ -84,17 +84,17 @@ surface_tension
 electrical_conductivity
 ```
 
-Arrhenius 变体仍使用原性质名。例如：
+Arrhenius variants still use the base property name:
 
 ```bash
-python -m salt_property train \
+python -m salt_mix train \
   --config configs/viscosity_arrhenius_config.yaml \
   --property viscosity
 ```
 
-## 数据预处理
+## Data Preprocessing
 
-预处理会读取配置中的原始数据目录，例如：
+Preprocessing reads raw data directories from the selected configuration, for example:
 
 ```yaml
 data:
@@ -103,16 +103,16 @@ data:
   temperatures_per_record: 5
 ```
 
-处理逻辑包括：
+The preprocessing pipeline:
 
-- 解析温度区间、组成区间和性质关联式。
-- 过滤有机盐、氧化物、硫化物以及配置中显式排除的体系。
-- 将一元和二元体系划分为训练集/验证集。
-- 将三元及以上体系作为测试集，用于 mixture-order extrapolation。
-- 按温度和组成采样展开 record-level 数据。
-- 构建组分 token 词表。
+- Parses temperature ranges, composition ranges, and property correlation equations.
+- Filters organic salts, oxides, sulfides, and systems explicitly excluded by configuration.
+- Splits unary and binary systems into training and validation sets.
+- Uses ternary and higher-order systems as the mixture-order extrapolation test set.
+- Samples record-level data by temperature and composition.
+- Builds the component-token vocabulary.
 
-预处理产物写入 `training.output_dir`：
+Preprocessed files are written to `training.output_dir`:
 
 - `train_samples.json`
 - `val_samples.json`
@@ -121,25 +121,25 @@ data:
 - `vocab.json`
 - `summary.json`
 
-## 训练与评估产物
+## Training and Evaluation Artifacts
 
-训练过程使用 AdamW、EMA 权重和 early stopping。训练与评估会生成：
+Training uses AdamW, exponential moving average weights, and early stopping. Training and evaluation produce:
 
-- `best_model.pt`: 验证集最优 EMA checkpoint。
-- `epoch_metrics.csv`: 每个 epoch 的训练/验证指标。
-- `metrics.json`: 验证集和三元及以上测试集指标。
-- `val_predictions.csv`: 验证集预测。
-- `test_predictions.csv`: 测试集预测。
+- `best_model.pt`: best validation EMA checkpoint.
+- `epoch_metrics.csv`: per-epoch training and validation metrics.
+- `metrics.json`: validation and ternary-or-higher test metrics.
+- `val_predictions.csv`: validation-set predictions.
+- `test_predictions.csv`: test-set predictions.
 
-对于粘度和电导率，`metrics.json` 中会同时包含原始值空间指标和 log-space 指标。
+For viscosity and electrical conductivity, `metrics.json` includes both original-value and log-space metrics.
 
-本仓库包含整理后的 Janz JSON 数据和 `data/Janz_1988/Janz.pdf`。MSTDB-TP 相关 CSV/JSON 文件未随仓库发布；如需运行依赖 MSTDB-TP 的补充分析，请访问官方链接 https://msd.ornl.gov/ 获取数据，并放回配置或脚本期望的位置。
+The repository includes curated Janz JSON data and `data/Janz_1988/Janz.pdf`. MSTDB-TP CSV/JSON data files are not redistributed here; `data/mstdb-tp-v4/README.md` points to the official ORNL access page at https://msd.ornl.gov/.
 
-## 推理
+## Inference
 
-推理输入是 raw-data-style JSON 数组。预测时 `equation` 和 `unit` 可以留空，但 `system`、`composition` 和 `temperature` 必须存在。
+Inference input is a raw-data-style JSON array. The `equation` and `unit` fields may be empty, while `system`, `composition`, and `temperature` are required.
 
-示例 `examples/predict_input.json`：
+Example input:
 
 ```json
 [
@@ -156,49 +156,37 @@ data:
 ]
 ```
 
-运行预测：
+Run prediction:
 
 ```bash
-python -m salt_property predict \
+python -m salt_mix predict \
   --config configs/viscosity_config.yaml \
   --property viscosity \
-  --input examples/predict_input.json \
+  --input path/to/predict_input.json \
   --output outputs/predict/viscosity_predictions.csv
 ```
 
-如果未传 `--checkpoint`，默认读取配置输出目录中的 `best_model.pt`。
+When `--checkpoint` is omitted, prediction reads `best_model.pt` from the configured output directory.
 
-## 批量预测工具
-
-`tools/` 中有面向论文最终模型目录的批量预测脚本。MSTDB-TP 输入路径仅作为示例，实际文件不随仓库发布：
-
-```bash
-python tools/predict_mstdb_density_models.py \
-  --input data/density/density_raw.mstdb-tp-v4.json \
-  --output outputs/mstdb_density_predictions.csv
-```
-
-这些脚本读取 raw-data-style JSON，并依赖特定的历史输出目录和 checkpoint 布局。MSTDB-TP 输入文件需要用户自行准备；如果只是训练新模型，优先使用 `python -m salt_property predict`。
-
-## 测试
+## Testing
 
 ```bash
 export PYTHONPATH="$PWD"
 python3 -m unittest discover tests
 ```
 
-测试覆盖：
+Tests cover:
 
-- CLI 分发。
-- 温度、组成和关联式解析。
-- 组分化学式 token 化。
-- RK、linear、Arrhenius 和 no-physics 模型分支。
-- 预测输出字段和 log-space 指标。
+- CLI dispatch.
+- Temperature, composition, and correlation-equation parsing.
+- Component chemical-formula tokenization.
+- RK, linear, Arrhenius, and no-physics model branches.
+- Prediction output fields and log-space metrics.
 
-## 相关文档
+## Documents
 
 - [docs/Salt_en.md](docs/Salt_en.md): English manuscript draft.
 - [docs/Salt_SI.md](docs/Salt_SI.md): English supporting-information draft.
 - [docs/jctc-latex-template/manuscript_en.pdf](docs/jctc-latex-template/manuscript_en.pdf): English manuscript PDF.
-- [docs/Janz-data-corrections.md](docs/Janz-data-corrections.md): Janz 数据修正记录。
-- `data/mstdb-tp-v4/README.md` 提供 MSTDB-TP 官方获取入口。
+- [docs/jctc-latex-template/manuscript_en.tex](docs/jctc-latex-template/manuscript_en.tex): English manuscript LaTeX source.
+- [docs/Janz-data-corrections.md](docs/Janz-data-corrections.md): Janz data-correction record.

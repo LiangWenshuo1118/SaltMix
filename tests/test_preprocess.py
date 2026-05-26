@@ -6,10 +6,10 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from salt_property.chemistry import classify_component, decompose_component
-from salt_property.preprocess import preprocess_from_config
-from salt_property.inference import _prediction_rows
-from salt_property.properties import (
+from salt_mix.chemistry import classify_component, decompose_component
+from salt_mix.preprocess import preprocess_from_config
+from salt_mix.inference import _prediction_rows
+from salt_mix.properties import (
     evaluate_property_targets,
     parse_arrhenius_equation,
     parse_composition,

@@ -9,7 +9,7 @@ import unittest
 
 class ModelSmokeTests(unittest.TestCase):
     def test_resolve_model_rk_order_uses_explicit_use_rk_flag(self):
-        from salt_property.config_utils import (
+        from salt_mix.config_utils import (
             normalize_rk_order,
             resolve_model_rk_order,
             resolve_model_temperature_law,
@@ -55,7 +55,7 @@ class ModelSmokeTests(unittest.TestCase):
         try:
             import torch
             from salt_density.model import DensityRKModel
-            from salt_property.model import PropertyRKModel
+            from salt_mix.model import PropertyRKModel
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -76,7 +76,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_property_model_rk_order_none_skips_pair_head(self):
         try:
             import torch
-            from salt_property.model import PropertyRKModel
+            from salt_mix.model import PropertyRKModel
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -108,7 +108,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_property_model_rk_terms_are_permutation_invariant(self):
         try:
             import torch
-            from salt_property.model import PropertyRKModel
+            from salt_mix.model import PropertyRKModel
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -145,7 +145,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_property_model_without_physics_uses_pooled_direct_head(self):
         try:
             import torch
-            from salt_property.model import PropertyRKModel
+            from salt_mix.model import PropertyRKModel
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -201,7 +201,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_set_transformer_pool_is_permutation_invariant(self):
         try:
             import torch
-            from salt_property.model import SetTransformerPool
+            from salt_mix.model import SetTransformerPool
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -221,7 +221,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_property_model_arrhenius_route_uses_raw_kelvin_temperature(self):
         try:
             import torch
-            from salt_property.model import PropertyRKModel
+            from salt_mix.model import PropertyRKModel
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -284,7 +284,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_property_model_arrhenius_route_builds_symmetric_pair_mixture(self):
         try:
             import torch
-            from salt_property.model import PropertyRKModel
+            from salt_mix.model import PropertyRKModel
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -344,7 +344,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_property_model_arrhenius_route_is_permutation_invariant(self):
         try:
             import torch
-            from salt_property.model import PropertyRKModel
+            from salt_mix.model import PropertyRKModel
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -386,7 +386,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_property_model_linear_route_uses_raw_kelvin_temperature(self):
         try:
             import torch
-            from salt_property.model import PropertyRKModel
+            from salt_mix.model import PropertyRKModel
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -449,7 +449,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_property_model_linear_route_is_permutation_invariant(self):
         try:
             import torch
-            from salt_property.model import PropertyRKModel
+            from salt_mix.model import PropertyRKModel
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -492,7 +492,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_viscosity_eval_reports_exp_of_log_predictions(self):
         try:
             import torch
-            from salt_property.train import build_dataloader, evaluate_model
+            from salt_mix.train import build_dataloader, evaluate_model
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -538,7 +538,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_density_eval_uses_unified_output_fields(self):
         try:
             import torch
-            from salt_property.train import build_dataloader, evaluate_model
+            from salt_mix.train import build_dataloader, evaluate_model
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -572,7 +572,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_electrical_conductivity_eval_reports_exp_of_log_predictions(self):
         try:
             import torch
-            from salt_property.train import build_dataloader, evaluate_model
+            from salt_mix.train import build_dataloader, evaluate_model
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -621,7 +621,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_surface_tension_eval_uses_unified_output_fields(self):
         try:
             import torch
-            from salt_property.train import build_dataloader, evaluate_model
+            from salt_mix.train import build_dataloader, evaluate_model
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -653,7 +653,7 @@ class ModelSmokeTests(unittest.TestCase):
         self.assertIsNone(predictions[0]["target_log_value"])
 
     def test_write_epoch_history_outputs_density_csv(self):
-        from salt_property.train import write_epoch_history
+        from salt_mix.train import write_epoch_history
 
         history = [
             {
@@ -693,7 +693,7 @@ class ModelSmokeTests(unittest.TestCase):
         self.assertNotIn("rmse_log", csv_text)
 
     def test_write_epoch_history_outputs_log_metric_csv(self):
-        from salt_property.train import write_epoch_history
+        from salt_mix.train import write_epoch_history
 
         history = [
             {
@@ -733,7 +733,7 @@ class ModelSmokeTests(unittest.TestCase):
         self.assertNotIn("val_rmse,val_mae", csv_text)
 
     def test_compute_metrics_reports_pearson_r(self):
-        from salt_property.train import compute_metrics
+        from salt_mix.train import compute_metrics
 
         positive = compute_metrics([1.0, 2.0, 3.0], [10.0, 20.0, 30.0])
         negative = compute_metrics([1.0, 2.0, 3.0], [30.0, 20.0, 10.0])
@@ -744,7 +744,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_build_loss_fn_log_cosh_or_skip(self):
         try:
             import torch
-            from salt_property.train import build_loss_fn
+            from salt_mix.train import build_loss_fn
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -759,7 +759,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_update_ema_state_or_skip(self):
         try:
             import torch
-            from salt_property.train import clone_state_dict, update_ema_state
+            from salt_mix.train import clone_state_dict, update_ema_state
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -778,7 +778,7 @@ class ModelSmokeTests(unittest.TestCase):
     def test_evaluate_with_state_restores_model_or_skip(self):
         try:
             import torch
-            from salt_property.train import build_dataloader, build_loss_fn, clone_state_dict, evaluate_with_state
+            from salt_mix.train import build_dataloader, build_loss_fn, clone_state_dict, evaluate_with_state
         except ModuleNotFoundError:
             self.skipTest("torch is not available locally")
             return
@@ -822,7 +822,7 @@ class ModelSmokeTests(unittest.TestCase):
         self.assertAlmostEqual(float(model.scale.detach().cpu()), 1.0, places=6)
 
     def test_csv_safe_rows_converts_none_to_nan(self):
-        from salt_property.train import csv_safe_rows
+        from salt_mix.train import csv_safe_rows
 
         rows = [
             {"prediction_value": 1.0, "prediction_log_value": None, "target_log_value": None},
@@ -834,7 +834,7 @@ class ModelSmokeTests(unittest.TestCase):
         self.assertEqual(safe_rows[0]["target_log_value"], "nan")
 
     def test_dataset_preserves_quaternary_components(self):
-        from salt_property.dataset import load_encoded_split
+        from salt_mix.dataset import load_encoded_split
 
         sample = {
             "record_id": "Q1",
@@ -863,7 +863,7 @@ class ModelSmokeTests(unittest.TestCase):
         self.assertEqual(len(encoded["token_ids"]), 4)
 
     def test_dataset_standardizes_temperature_from_train_summary(self):
-        from salt_property.dataset import load_encoded_split
+        from salt_mix.dataset import load_encoded_split
 
         train_sample = {
             "record_id": "D1",

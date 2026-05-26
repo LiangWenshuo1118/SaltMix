@@ -76,7 +76,8 @@ docs/jctc-latex-template/*.synctex.gz
 docs/jctc-latex-template/figures/*.svg
 docs/jctc-latex-template/figures-SI/*.svg
 
-# Keep only the English article in the remote repository
+# Keep local Chinese README/manuscript copies out of the remote repository
+README.zh.md
 docs/Salt.md
 docs/Salt_zh.md
 docs/jctc-latex-template/acs-manuscript.bib
