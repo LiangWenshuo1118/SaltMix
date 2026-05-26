@@ -1,0 +1,535 @@
+[
+  {
+    "index": "EXP_DEN_P038_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2",
+      "composition": "100 mol%",
+      "equation": "d = 5.133 - 0.001117 T",
+      "temperature": "673-973 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-CsI",
+      "composition": "0-100 mol%",
+      "equation": "d = 4.2631 - 0.0011824 T",
+      "temperature": "930-1040 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-CsI",
+      "composition": "21.5-78.5 mol%",
+      "equation": "d = 4.4331 - 0.0012026 T",
+      "temperature": "880-1020 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-CsI",
+      "composition": "41.5-58.5 mol%",
+      "equation": "d = 4.6243 - 0.0012543 T",
+      "temperature": "750-1000 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-CsI",
+      "composition": "60.7-39.3 mol%",
+      "equation": "d = 4.8803 - 0.0013478 T",
+      "temperature": "830-980 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-CsI",
+      "composition": "84.4-15.6 mol%",
+      "equation": "d = 5.0443 - 0.0013043 T",
+      "temperature": "760-960 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-CsI",
+      "composition": "100-0 mol%",
+      "equation": "d = 5.078 - 0.0010668 T",
+      "temperature": "770-950 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-KI",
+      "composition": "0-100 mol%",
+      "equation": "d = 3.37 - 9.6 x 10^-4 T",
+      "temperature": "970-1070 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-KI",
+      "composition": "15.0-85.0 mol%",
+      "equation": "d = 3.767 - 0.001092 T",
+      "temperature": "890-1070 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-KI",
+      "composition": "33.3-66.7 mol%",
+      "equation": "d = 4.074 - 0.001115 T",
+      "temperature": "690-1070 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-KI",
+      "composition": "50.0-50.0 mol%",
+      "equation": "d = 4.454 - 0.001222 T",
+      "temperature": "490-970 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-KI",
+      "composition": "66.7-33.3 mol%",
+      "equation": "d = 4.784 - 0.001291 T",
+      "temperature": "610-970 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-KI",
+      "composition": "85.0-15.0 mol%",
+      "equation": "d = 4.965 - 0.00117 T",
+      "temperature": "650-970 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-KI",
+      "composition": "100.0-0.0 mol%",
+      "equation": "d = 5.133 - 0.001117 T",
+      "temperature": "670-970 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-NaI",
+      "composition": "42.0-58.0 mol%",
+      "equation": "d = 4.4989 - 0.0011834 T",
+      "temperature": "800-920 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-NaI",
+      "composition": "75.7-24.3 mol%",
+      "equation": "d = 4.9069 - 0.0011052 T",
+      "temperature": "660-850 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdI2-NaI",
+      "composition": "100-0 mol%",
+      "equation": "d = 5.078 - 0.0010668 T",
+      "temperature": "770-950 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "25-75 mol%",
+      "equation": "d = 2.6569 - 9.3947 x 10^-4 T",
+      "temperature": "560-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "30-70 mol%",
+      "equation": "d = 2.6994 - 9.3947 x 10^-4 T",
+      "temperature": "535-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "35-65 mol%",
+      "equation": "d = 2.7439 - 9.3947 x 10^-4 T",
+      "temperature": "495-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "40-60 mol%",
+      "equation": "d = 2.7909 - 9.3947 x 10^-4 T",
+      "temperature": "480-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "45-55 mol%",
+      "equation": "d = 2.8407 - 9.3947 x 10^-4 T",
+      "temperature": "475-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "45.5-54.5 mol%",
+      "equation": "d = 2.8458 - 9.3947 x 10^-4 T",
+      "temperature": "475-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "50-50 mol%",
+      "equation": "d = 2.8936 - 9.3947 x 10^-4 T",
+      "temperature": "475-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "55-45 mol%",
+      "equation": "d = 2.95 - 9.3947 x 10^-4 T",
+      "temperature": "475-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "60-40 mol%",
+      "equation": "d = 3.0103 - 9.3947 x 10^-4 T",
+      "temperature": "465-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "65-35 mol%",
+      "equation": "d = 3.0748 - 9.3947 x 10^-4 T",
+      "temperature": "480-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "70-30 mol%",
+      "equation": "d = 3.1437 - 9.3947 x 10^-4 T",
+      "temperature": "535-570 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(PO3)2",
+      "composition": "100 mol%",
+      "equation": "d = 3.4974 - 1.865 x 10^-4 T",
+      "temperature": "1200-1260 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3",
+      "composition": "100 mol%",
+      "equation": "d = 4.248 - 9.2 x 10^-4 T",
+      "temperature": "1123-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl",
+      "composition": "10-90 mol%",
+      "equation": "d = 2.574 - 6.95 x 10^-4 T",
+      "temperature": "1075-1170 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl",
+      "composition": "20-80 mol%",
+      "equation": "d = 2.868 - 6.99 x 10^-4 T",
+      "temperature": "1075-1170 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl",
+      "composition": "25-75 mol%",
+      "equation": "d = 3.062 - 7.59 x 10^-4 T",
+      "temperature": "1075-1170 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl",
+      "composition": "40-60 mol%",
+      "equation": "d = 3.306 - 7.72 x 10^-4 T",
+      "temperature": "1075-1170 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl",
+      "composition": "55-45 mol%",
+      "equation": "d = 3.521 - 7.85 x 10^-4 T",
+      "temperature": "1075-1170 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl",
+      "composition": "70-30 mol%",
+      "equation": "d = 3.829 - 8.85 x 10^-4 T",
+      "temperature": "1075-1170 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl",
+      "composition": "85-15 mol%",
+      "equation": "d = 4.016 - 8.86 x 10^-4 T",
+      "temperature": "1075-1170 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.336 - 0.001 T",
+      "temperature": "1095-1170 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl*NaCl",
+      "composition": "2.9-97.1 mol%",
+      "equation": "d = 2.3846 - 7.1999 x 10^-4 T",
+      "temperature": "973-1123 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl*NaCl",
+      "composition": "6.3-93.7 mol%",
+      "equation": "d = 2.5838 - 8.6 x 10^-4 T",
+      "temperature": "973-1123 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P038_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CeCl3-KCl*NaCl",
+      "composition": "15.2-84.8 mol%",
+      "equation": "d = 2.8042 - 9.2 x 10^-4 T",
+      "temperature": "973-1123 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

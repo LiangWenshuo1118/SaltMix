@@ -1,0 +1,69 @@
+starting surface_tension model_setting=phys_true_linear phys=true linear=true rk=false arrhenius=false seed=44 batch_size=64 full_data=true
+{'property': 'surface_tension', 'normalized_records': 1447, 'filtered_records': 208, 'excluded_systems': [], 'validation_ratio': 0.2, 'temperature_interval': None, 'temperature_mean': 1034.5867037103424, 'temperature_std': 248.8768860690135, 'composition_interval': None, 'low_data_learning': False, 'low_data_learning_ratio': 1.0, 'train_records': 1127, 'val_records': 282, 'test_records': 38, 'train_samples_before_low_data': 5579, 'train_samples': 5579, 'val_samples': 1390, 'test_samples': 186, 'systems_train': 307, 'systems_val': 165}
+/usr/local/lib/python3.12/dist-packages/torch/nn/modules/transformer.py:505: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. We recommend specifying layout=torch.jagged when constructing a nested tensor, as this layout receives active development, has better operator coverage, and works with torch.compile. (Triggered internally at /opt/pytorch/pytorch/aten/src/ATen/NestedTensorImpl.cpp:178.)
+  output = torch._nested_tensor_from_mask(
+{'epoch': 1, 'train_loss': 1616.5232051502574, 'val_loss': 900.9588595303622, 'val_rmse': 30.008668206186446, 'val_mae': 23.872714101667885}
+{'epoch': 2, 'train_loss': 611.793946873058, 'val_loss': 214.38274279507723, 'val_rmse': 14.676273067755641, 'val_mae': 10.369906931815388}
+{'epoch': 3, 'train_loss': 468.5797561298717, 'val_loss': 192.71746219288218, 'val_rmse': 13.934503079607778, 'val_mae': 8.371925993445966}
+{'epoch': 4, 'train_loss': 348.7910615747625, 'val_loss': 177.04431880604136, 'val_rmse': 13.366263722257282, 'val_mae': 7.127202768119977}
+{'epoch': 5, 'train_loss': 308.6592991568825, 'val_loss': 165.43259681354868, 'val_rmse': 12.91502098994808, 'val_mae': 6.698846515134084}
+{'epoch': 6, 'train_loss': 341.8790449229154, 'val_loss': 164.3048654903065, 'val_rmse': 12.86853876758941, 'val_mae': 6.41764776929677}
+{'epoch': 7, 'train_loss': 265.1742528568615, 'val_loss': 139.7421260313554, 'val_rmse': 11.87245988073774, 'val_mae': 5.763750287611708}
+{'epoch': 8, 'train_loss': 245.3460107716647, 'val_loss': 120.78447957472368, 'val_rmse': 11.034409870267666, 'val_mae': 5.297096263418952}
+{'epoch': 9, 'train_loss': 254.92483817447317, 'val_loss': 109.58722959865223, 'val_rmse': 10.511182757476456, 'val_mae': 5.025712835188393}
+{'epoch': 10, 'train_loss': 254.64883901856163, 'val_loss': 110.03508628498425, 'val_rmse': 10.522337326990835, 'val_mae': 5.600305444731129}
+{'epoch': 11, 'train_loss': 239.04989264228126, 'val_loss': 90.705528606068, 'val_rmse': 9.546611844718207, 'val_mae': 4.879664526740424}
+{'epoch': 12, 'train_loss': 257.66210371797735, 'val_loss': 91.46453419598666, 'val_rmse': 9.588337179397536, 'val_mae': 4.6772852726119885}
+{'epoch': 13, 'train_loss': 257.3475004976446, 'val_loss': 83.14697876843539, 'val_rmse': 9.14121648764768, 'val_mae': 4.5261930808746555}
+{'epoch': 14, 'train_loss': 214.67901921272278, 'val_loss': 77.30964348532937, 'val_rmse': 8.81503359675319, 'val_mae': 4.285734607504426}
+{'epoch': 15, 'train_loss': 207.61844942786476, 'val_loss': 81.06732164729725, 'val_rmse': 9.026504282263648, 'val_mae': 4.283681183410206}
+{'epoch': 16, 'train_loss': 224.26226234436035, 'val_loss': 76.53441143035889, 'val_rmse': 8.767660102547865, 'val_mae': 4.350181063645177}
+{'epoch': 17, 'train_loss': 256.88175363974136, 'val_loss': 83.9575143293901, 'val_rmse': 9.18384472990412, 'val_mae': 4.649662498089907}
+{'epoch': 18, 'train_loss': 205.42814553867686, 'val_loss': 79.67802147431807, 'val_rmse': 8.940681580225139, 'val_mae': 4.392899789055474}
+{'epoch': 19, 'train_loss': 203.5377426147461, 'val_loss': 72.69278303059664, 'val_rmse': 8.522345814442716, 'val_mae': 4.366337684247133}
+{'epoch': 20, 'train_loss': 211.9097512852062, 'val_loss': 64.727191621607, 'val_rmse': 8.046687236878729, 'val_mae': 4.415827096623483}
+{'epoch': 21, 'train_loss': 207.02567690069026, 'val_loss': 71.9526387127963, 'val_rmse': 8.482732556388731, 'val_mae': 4.226382761893513}
+{'epoch': 22, 'train_loss': 186.09341057864103, 'val_loss': 65.5959320935336, 'val_rmse': 8.09276241166722, 'val_mae': 4.089993664858152}
+{'epoch': 23, 'train_loss': 212.98297735777768, 'val_loss': 61.69257554140958, 'val_rmse': 7.850555833971948, 'val_mae': 4.0770074309204976}
+{'epoch': 24, 'train_loss': 203.271621725776, 'val_loss': 66.10588390176946, 'val_rmse': 8.130707838424879, 'val_mae': 4.177267524664351}
+{'epoch': 25, 'train_loss': 188.21145844459534, 'val_loss': 66.86437407406893, 'val_rmse': 8.182190793150287, 'val_mae': 4.3294286165306035}
+{'epoch': 26, 'train_loss': 191.5606090372259, 'val_loss': 60.02395458654924, 'val_rmse': 7.73714390561924, 'val_mae': 3.8417218379837146}
+{'epoch': 27, 'train_loss': 177.18368855389681, 'val_loss': 62.666247996416956, 'val_rmse': 7.904612861840102, 'val_mae': 3.8941042536454233}
+{'epoch': 28, 'train_loss': 195.75997870618647, 'val_loss': 62.89719436385415, 'val_rmse': 7.921188835191955, 'val_mae': 4.141575158757272}
+{'epoch': 29, 'train_loss': 186.02439611608332, 'val_loss': 67.316885471344, 'val_rmse': 8.201491546817016, 'val_mae': 3.9996921594194372}
+{'epoch': 30, 'train_loss': 192.4770246852528, 'val_loss': 61.89293536272916, 'val_rmse': 7.869581739700546, 'val_mae': 3.963100348273627}
+{'epoch': 31, 'train_loss': 153.06342723152855, 'val_loss': 59.3008498061787, 'val_rmse': 7.693079711255415, 'val_mae': 3.8304977581655377}
+{'epoch': 32, 'train_loss': 157.8385872624137, 'val_loss': 56.329312714663416, 'val_rmse': 7.496643293147787, 'val_mae': 3.999027894383712}
+{'epoch': 33, 'train_loss': 157.53999267924917, 'val_loss': 55.84128189086914, 'val_rmse': 7.452654256362322, 'val_mae': 3.916502051044711}
+{'epoch': 34, 'train_loss': 173.62460630590266, 'val_loss': 57.74466302178123, 'val_rmse': 7.5854056944827155, 'val_mae': 4.006100312925929}
+{'epoch': 35, 'train_loss': 141.0439761985432, 'val_loss': 55.33331368186257, 'val_rmse': 7.425041637438495, 'val_mae': 3.973144020794107}
+{'epoch': 36, 'train_loss': 140.08112519437617, 'val_loss': 55.47413071719083, 'val_rmse': 7.43713434566665, 'val_mae': 3.828601337679856}
+{'epoch': 37, 'train_loss': 144.88598890738055, 'val_loss': 54.18326356194236, 'val_rmse': 7.340185332458977, 'val_mae': 3.7508749653109543}
+{'epoch': 38, 'train_loss': 116.14304557713595, 'val_loss': 55.61420943520286, 'val_rmse': 7.429949997050551, 'val_mae': 3.8782190473817235}
+{'epoch': 39, 'train_loss': 149.86681296608666, 'val_loss': 52.13968942382119, 'val_rmse': 7.201419479047634, 'val_mae': 3.580159485082832}
+{'epoch': 40, 'train_loss': 148.25741932608864, 'val_loss': 51.39141065424139, 'val_rmse': 7.151323650966722, 'val_mae': 3.615337906981544}
+{'epoch': 41, 'train_loss': 118.32005995512009, 'val_loss': 50.32151068340648, 'val_rmse': 7.075425579212966, 'val_mae': 3.540741724247555}
+{'epoch': 42, 'train_loss': 105.31022570349954, 'val_loss': 52.13434015620839, 'val_rmse': 7.221553836666693, 'val_mae': 4.037286253455732}
+{'epoch': 43, 'train_loss': 147.92630289901388, 'val_loss': 54.468350410461426, 'val_rmse': 7.376909597750635, 'val_mae': 3.8132259012126237}
+{'epoch': 44, 'train_loss': 118.8354781107469, 'val_loss': 60.809434153816916, 'val_rmse': 7.778878290361177, 'val_mae': 4.142587165009203}
+{'epoch': 45, 'train_loss': 157.02058068188754, 'val_loss': 55.14750467647206, 'val_rmse': 7.437253339399859, 'val_mae': 3.9370678304768294}
+{'epoch': 46, 'train_loss': 124.17595920779489, 'val_loss': 53.17992901802063, 'val_rmse': 7.31402719695149, 'val_mae': 3.6714584487805264}
+{'epoch': 47, 'train_loss': 122.44428167559884, 'val_loss': 53.06867907264016, 'val_rmse': 7.301805104681858, 'val_mae': 3.6362713710867243}
+{'epoch': 48, 'train_loss': 143.03732438520953, 'val_loss': 56.86519809202714, 'val_rmse': 7.547086827610151, 'val_mae': 3.784259694600277}
+{'epoch': 49, 'train_loss': 126.32469390739094, 'val_loss': 55.08374400572343, 'val_rmse': 7.432466235656592, 'val_mae': 3.5844600951928887}
+{'epoch': 50, 'train_loss': 212.24675913290545, 'val_loss': 59.53443800319325, 'val_rmse': 7.668096474663926, 'val_mae': 3.7870748917833508}
+{'epoch': 51, 'train_loss': 192.73877558924934, 'val_loss': 62.66940689086914, 'val_rmse': 7.8762824832207246, 'val_mae': 3.961979798790362}
+{'epoch': 52, 'train_loss': 150.0028249350461, 'val_loss': 61.08782048658891, 'val_rmse': 7.804244457806301, 'val_mae': 3.938218785018372}
+{'epoch': 53, 'train_loss': 108.00205838680267, 'val_loss': 56.45923321897333, 'val_rmse': 7.506217086574841, 'val_mae': 3.716506362475937}
+{'epoch': 54, 'train_loss': 105.80591147596186, 'val_loss': 55.84596662087874, 'val_rmse': 7.459203043541216, 'val_mae': 3.722413756006913}
+{'epoch': 55, 'train_loss': 136.12536111203107, 'val_loss': 54.90637586333535, 'val_rmse': 7.39616786527838, 'val_mae': 3.711053829055896}
+{'epoch': 56, 'train_loss': 113.87729278477755, 'val_loss': 55.25926139137962, 'val_rmse': 7.42743339235712, 'val_mae': 3.84560515314555}
+{'epoch': 57, 'train_loss': 113.3192277171395, 'val_loss': 54.17415842142972, 'val_rmse': 7.355809887121696, 'val_mae': 3.6676860342780464}
+{'epoch': 58, 'train_loss': 105.66039929606698, 'val_loss': 52.06846540624445, 'val_rmse': 7.206848543931336, 'val_mae': 3.493855724746375}
+{'epoch': 59, 'train_loss': 166.22311358018354, 'val_loss': 52.606013709848575, 'val_rmse': 7.245189515078173, 'val_mae': 3.4648440189498793}
+{'epoch': 60, 'train_loss': 126.28011676398191, 'val_loss': 54.66072771765969, 'val_rmse': 7.386286779714982, 'val_mae': 3.7236948658236497}
+{'epoch': 61, 'train_loss': 100.39122713695873, 'val_loss': 52.01288531043313, 'val_rmse': 7.2068248150839205, 'val_mae': 3.5264456796989165}
+{'property': 'surface_tension', 'validation': {'rmse': 7.075425579212966, 'mae': 3.540741724247555, 'pearson_r': 0.9873267235456152, 'rmse_log': None, 'mae_log': None, 'pearson_r_log': None}, 'ternary_test': {'rmse': 7.5148546724145655, 'mae': 4.884529647006784, 'pearson_r': 0.9826878455710117, 'rmse_log': None, 'mae_log': None, 'pearson_r_log': None}}
+/usr/local/lib/python3.12/dist-packages/torch/nn/modules/transformer.py:505: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. We recommend specifying layout=torch.jagged when constructing a nested tensor, as this layout receives active development, has better operator coverage, and works with torch.compile. (Triggered internally at /opt/pytorch/pytorch/aten/src/ATen/NestedTensorImpl.cpp:178.)
+  output = torch._nested_tensor_from_mask(
+{'property': 'surface_tension', 'validation': {'rmse': 7.075425579212966, 'mae': 3.540741724247555, 'pearson_r': 0.9873267235456152, 'rmse_log': None, 'mae_log': None, 'pearson_r_log': None}, 'ternary_test': {'rmse': 7.5148546724145655, 'mae': 4.884529647006784, 'pearson_r': 0.9826878455710117, 'rmse_log': None, 'mae_log': None, 'pearson_r_log': None}}

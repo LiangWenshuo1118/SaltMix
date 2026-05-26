@@ -1,0 +1,652 @@
+[
+  {
+    "index": "EXP_EC_P193_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-PbCl2",
+      "composition": "0.0-100.0 mol%",
+      "equation": "k = 12.297 exp(-13480.65513/RT)",
+      "temperature": "830-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-PbCl2",
+      "composition": "17.2-82.8 mol%",
+      "equation": "k = 10.84 exp(-14080.23236/RT)",
+      "temperature": "730-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-PbCl2",
+      "composition": "38.5-61.5 mol%",
+      "equation": "k = 8.038 exp(-18609.10608/RT)",
+      "temperature": "880-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-PbCl2",
+      "composition": "55.7-44.3 mol%",
+      "equation": "k = 16.712 exp(-21565.11518/RT)",
+      "temperature": "880-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-PbCl2",
+      "composition": "66.6-33.4 mol%",
+      "equation": "k = 23.596 exp(-25511.94842/RT)",
+      "temperature": "780-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-PbCl2",
+      "composition": "73.6-26.4 mol%",
+      "equation": "k = 16.652 exp(-22770.54575/RT)",
+      "temperature": "780-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-RbCl",
+      "composition": "0-100 mol%",
+      "equation": "k = 6.246 exp(-11673.5553/RT)",
+      "temperature": "1020-1190 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-RbCl",
+      "composition": "25-75 mol%",
+      "equation": "k = 5.996 exp(-11774.39139/RT)",
+      "temperature": "1050-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-RbCl",
+      "composition": "50-50 mol%",
+      "equation": "k = 5.772 exp(-11832.54996/RT)",
+      "temperature": "1030-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-RbCl",
+      "composition": "75-25 mol%",
+      "equation": "k = 5.462 exp(-11631.29619/RT)",
+      "temperature": "1060-1150 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-RbCl",
+      "composition": "100-0 mol%",
+      "equation": "k = 6.42 exp(-13253.87854/RT)",
+      "temperature": "950-1090 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ScCl3",
+      "composition": "30-70 mol%",
+      "equation": "k = 4.827 exp(-21443.77716/RT)",
+      "temperature": "1113-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ScCl3",
+      "composition": "40-60 mol%",
+      "equation": "k = 4.635 exp(-19651.32157/RT)",
+      "temperature": "893-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ScCl3",
+      "composition": "50-50 mol%",
+      "equation": "k = 3.846 exp(-17364.30891/RT)",
+      "temperature": "933-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ScCl3",
+      "composition": "60-40 mol%",
+      "equation": "k = 5.02 exp(-19506.13434/RT)",
+      "temperature": "1013-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ScCl3",
+      "composition": "70-30 mol%",
+      "equation": "k = 6.419 exp(-20311.56782/RT)",
+      "temperature": "1073-1213 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ScCl3",
+      "composition": "80-20 mol%",
+      "equation": "k = 5.529 exp(-16960.12775/RT)",
+      "temperature": "1073-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ScCl3",
+      "composition": "90-10 mol%",
+      "equation": "k = 5.712 exp(-14812.44461/RT)",
+      "temperature": "993-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ScCl3",
+      "composition": "100-0 mol%",
+      "equation": "k = 5.281 exp(-11711.21193/RT)",
+      "temperature": "933-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "0-100 mol%",
+      "equation": "k = 17.396 exp(-20874.32523/RT)",
+      "temperature": "1173-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "10-90 mol%",
+      "equation": "k = 13.533 exp(-19975.16859/RT)",
+      "temperature": "1123-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "20-80 mol%",
+      "equation": "k = 9.41 exp(-17829.9959/RT)",
+      "temperature": "1073-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "30-70 mol%",
+      "equation": "k = 10.001 exp(-19683.53891/RT)",
+      "temperature": "1073-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "40-60 mol%",
+      "equation": "k = 8.376 exp(-18883.12632/RT)",
+      "temperature": "1123-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "50-50 mol%",
+      "equation": "k = 7.269 exp(-18052.58842/RT)",
+      "temperature": "1123-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "60-40 mol%",
+      "equation": "k = 7.749 exp(-18831.66226/RT)",
+      "temperature": "1073-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "70-30 mol%",
+      "equation": "k = 7.878 exp(-18645.88955/RT)",
+      "temperature": "1073-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "80-20 mol%",
+      "equation": "k = 6.771 exp(-16330.42521/RT)",
+      "temperature": "1023-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "90-10 mol%",
+      "equation": "k = 6.269 exp(-14442.15442/RT)",
+      "temperature": "973-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-SrCl2",
+      "composition": "100-0 mol%",
+      "equation": "k = 5.259 exp(-11469.37268/RT)",
+      "temperature": "973-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-TiCl3",
+      "composition": "0-50 mol% TiCl3",
+      "equation": "k = 1.457 - 0.05503 C + 0.0023764 C^2 - 5.6712 x 10^-5 C^3 + 5.0044 x 10^-7 C^4",
+      "temperature": "1073 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "0.00-100.00 mol%",
+      "equation": "k = 5.216 exp(-18104.05248/RT)",
+      "temperature": "880-1000 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "7.42-92.58 mol%",
+      "equation": "k = 5.882 exp(-19095.25867/RT)",
+      "temperature": "850-930 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "16.65-83.35 mol%",
+      "equation": "k = 4.459 exp(-17179.37301/RT)",
+      "temperature": "830-950 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "20.71-79.29 mol%",
+      "equation": "k = 3.997 exp(-16473.5204/RT)",
+      "temperature": "860-930 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "22.80-77.20 mol%",
+      "equation": "k = 4.431 exp(-17156.77904/RT)",
+      "temperature": "820-930 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "30.83-69.17 mol%",
+      "equation": "k = 4.236 exp(-17368.07457/RT)",
+      "temperature": "760-940 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "34.48-65.52 mol%",
+      "equation": "k = 5.835 exp(-19858.01463/RT)",
+      "temperature": "690-940 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "35.92-64.08 mol%",
+      "equation": "k = 6.648 exp(-20968.88521/RT)",
+      "temperature": "670-950 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "37.56-62.44 mol%",
+      "equation": "k = 5.719 exp(-19940.85921/RT)",
+      "temperature": "670-950 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "41.14-58.86 mol%",
+      "equation": "k = 2.94 exp(-15141.73092/RT)",
+      "temperature": "840-960 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "43.75-56.25 mol%",
+      "equation": "k = 3.543 exp(-16626.65737/RT)",
+      "temperature": "790-940 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "50.96-49.04 mol%",
+      "equation": "k = 4.263 exp(-18360.11757/RT)",
+      "temperature": "760-960 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "56.11-43.89 mol%",
+      "equation": "k = 3.57 exp(-17003.22367/RT)",
+      "temperature": "820-960 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "61.14-38.86 mol%",
+      "equation": "k = 3.483 exp(-16508.66659/RT)",
+      "temperature": "880-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "66.35-33.65 mol%",
+      "equation": "k = 3.204 exp(-15270.60028/RT)",
+      "temperature": "960-990 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "66.96-33.04 mol%",
+      "equation": "k = 4.399 exp(-17783.97113/RT)",
+      "temperature": "960-990 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "68.87-31.13 mol%",
+      "equation": "k = 3.487 exp(-15678.5471/RT)",
+      "temperature": "940-960 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_049",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "69.57-30.43 mol%",
+      "equation": "k = 3.406 exp(-15289.42859/RT)",
+      "temperature": "930-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P193_050",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-UCl4",
+      "composition": "73.00-27.00 mol%",
+      "equation": "k = 4.365 exp(-16745.90336/RT)",
+      "temperature": "880-960 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

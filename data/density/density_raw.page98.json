@@ -1,0 +1,80 @@
+[
+  {
+    "index": "EXP_DEN_P098_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ZnBr2",
+      "composition": "100 mol%",
+      "equation": "d = 4.113 - 9.59 x 10^-4 T",
+      "temperature": "707-875 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P098_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ZnCl2",
+      "composition": "100 mol%",
+      "equation": "d = 2.8375 - 5.293 x 10^-4 T",
+      "temperature": "590-830 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P098_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ZnI2",
+      "composition": "100 mol%",
+      "equation": "d = 4.856 - 0.00136 T",
+      "temperature": "729-861 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P098_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Zn(PO3)2",
+      "composition": "100 mol%",
+      "equation": "d = 2.8817 - 7.67 x 10^-5 T",
+      "temperature": "1180-1380 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P098_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ZnSO4",
+      "composition": "100 mol%",
+      "equation": "d = 3.591 - 4.7 x 10^-4 T",
+      "temperature": "880-1260 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P098_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ZrCl4",
+      "composition": "100 mol%",
+      "equation": "d = 6.943 - 0.0074646 T",
+      "temperature": "710-765 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

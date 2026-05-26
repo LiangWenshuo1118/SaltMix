@@ -1,0 +1,652 @@
+[
+  {
+    "index": "EXP_EC_P172_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "56-33-11 mol%",
+      "equation": "k = 5.241 exp(-10953.89526/RT)",
+      "temperature": "403-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "58-21-21 mol%",
+      "equation": "k = 5.154 exp(-11120.83965/RT)",
+      "temperature": "393-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "58-31.5-10.5 mol%",
+      "equation": "k = 5.22 exp(-11368.5366/RT)",
+      "temperature": "393-575 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "60-30-10 mol%",
+      "equation": "k = 4.856 exp(-11466.02543/RT)",
+      "temperature": "393-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "60-20-20 mol%",
+      "equation": "k = 5.046 exp(-11337.57448/RT)",
+      "temperature": "403-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "60-30-10 mol%",
+      "equation": "k = 4.5838 exp(-10999.92003/RT)",
+      "temperature": "452-523 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "60-20-20 mol%",
+      "equation": "k = 4.5533 exp(-10730.46592/RT)",
+      "temperature": "452-533 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "60-10-30 mol%",
+      "equation": "k = 4.3811 exp(-10355.15484/RT)",
+      "temperature": "462-512 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "62-19-19 mol%",
+      "equation": "k = 4.98 exp(-11664.35035/RT)",
+      "temperature": "423-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "64-18-18 mol%",
+      "equation": "k = 3.848 exp(-10998.2464/RT)",
+      "temperature": "433-543 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "68-24-8 mol%",
+      "equation": "k = 2.835 exp(-10643.01886/RT)",
+      "temperature": "443-523 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-LiCl-NaCl",
+      "composition": "68-16-16 mol%",
+      "equation": "k = 2.897 exp(-10477.74809/RT)",
+      "temperature": "453-523 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-MgCl2",
+      "composition": "0-100 mol%",
+      "equation": "k = 6.55154 exp(-15294.44948/RT)",
+      "temperature": "1004-1256 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-MgCl2",
+      "composition": "5.0-95.0 mol%",
+      "equation": "k = 6.91943 exp(-17622.04762/RT)",
+      "temperature": "995-1173 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-MgCl2",
+      "composition": "16.2-83.8 mol%",
+      "equation": "k = 0.7743",
+      "temperature": "1229 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-MgCl2",
+      "composition": "18.2-83.8 mol%",
+      "equation": "k = 3.62789 exp(-15141.73092/RT)",
+      "temperature": "981-1158 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-MgCl2",
+      "composition": "29.8-70.2 mol%",
+      "equation": "k = 2.01636 exp(-13377.72701/RT)",
+      "temperature": "968-1068 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-MgCl2",
+      "composition": "36.1-63.9 mol%",
+      "equation": "k = 2.7574 exp(-17604.89293/RT)",
+      "temperature": "955-1064 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-MgCl2",
+      "composition": "68.1-31.9 mol%",
+      "equation": "k = 0.60208 exp(-11772.71776/RT)",
+      "temperature": "631-782 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-MgCl2",
+      "composition": "88.0-12.0 mol%",
+      "equation": "k = 0.0505",
+      "temperature": "631 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-MgCl2",
+      "composition": "88.0-12.0 mol%",
+      "equation": "k = 7.5972 exp(-25885.16746/RT)",
+      "temperature": "510-588 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaBr",
+      "composition": "52.5-47.5 mol%",
+      "equation": "k = 6.1906 exp(-10742.59973/RT)",
+      "temperature": "448-498 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaBr",
+      "composition": "55-45 mol%",
+      "equation": "k = 5.7836 exp(-10932.5565/RT)",
+      "temperature": "448-498 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaBr",
+      "composition": "60-40 mol%",
+      "equation": "k = 5.2282 exp(-11455.98366/RT)",
+      "temperature": "448-498 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaBr",
+      "composition": "65-35 mol%",
+      "equation": "k = 4.557 exp(-11777.32024/RT)",
+      "temperature": "448-498 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaBr",
+      "composition": "70-30 mol%",
+      "equation": "k = 3.527 exp(-11636.73548/RT)",
+      "temperature": "448-498 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaBr",
+      "composition": "75-25 mol%",
+      "equation": "k = 2.492 exp(-11394.05942/RT)",
+      "temperature": "473-498 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "50-50 mol%",
+      "equation": "k = -1.59838 + 0.00601589 T - 3.29411 x 10^-6 T^2",
+      "temperature": "448-673 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "50.0-50.0 mol%",
+      "equation": "k = 6.317 exp(-9993.23279/RT)",
+      "temperature": "460-540 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "50.8-49.2 mol%",
+      "equation": "k = 4.975 exp(-9163.1133/RT)",
+      "temperature": "460-540 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "52-48 mol%",
+      "equation": "k = -1.22339 + 0.0045665 T - 2.1265 x 10^-6 T^2",
+      "temperature": "448-673 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "57.8-42.2 mol%",
+      "equation": "k = 4.829 exp(-10499.92367/RT)",
+      "temperature": "460-540 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "60-40 mol%",
+      "equation": "k = -0.77428 + 0.0027635 T - 9.8104 x 10^-7 T^2",
+      "temperature": "448-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "69-31 mol%",
+      "equation": "k = 2.757 exp(-10018.33721/RT)",
+      "temperature": "420-510 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "69.1-30.9 mol%",
+      "equation": "k = 3.979 exp(-11240.08565/RT)",
+      "temperature": "450-490 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "70-30 mol%",
+      "equation": "k = 3.9313 exp(-11573.13762/RT)",
+      "temperature": "428-482 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "80.6-19.4 mol%",
+      "equation": "k = 1.422 exp(-9838.84061/RT)",
+      "temperature": "480-510 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NaCl",
+      "composition": "81.1-18.9 mol%",
+      "equation": "k = 1.627 exp(-10432.56014/RT)",
+      "temperature": "480-510 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NH4Cl",
+      "composition": "49.9-50.1 mol%",
+      "equation": "k = 16.98 exp(-16989.83464/RT)",
+      "temperature": "570-580 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NH4Cl",
+      "composition": "57.1-42.9 mol%",
+      "equation": "k = 6.826 exp(-13360.57232/RT)",
+      "temperature": "540-560 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NH4Cl",
+      "composition": "70.90-29.10 mol%",
+      "equation": "k = 4.245 exp(-12699.48926/RT)",
+      "temperature": "470-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-NH4Cl",
+      "composition": "79.75-20.25 mol%",
+      "equation": "k = 2.559 exp(-12211.2083/RT)",
+      "temperature": "470-560 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-RbCl",
+      "composition": "70.0-30.0 mol%",
+      "equation": "k = 5.207 exp(-14803.65807/RT)",
+      "temperature": "448-498 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-RbCl",
+      "composition": "75.0-25.0 mol%",
+      "equation": "k = 3.003 exp(-13074.38194/RT)",
+      "temperature": "448-498 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "2.5-97.5 mol%",
+      "equation": "k = 0.02079 exp(-2638.89295/RT)",
+      "temperature": "360-504 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "5-95 mol%",
+      "equation": "k = 0.05541 exp(-3784.49132/RT)",
+      "temperature": "357-505 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "10-90 mol%",
+      "equation": "k = 0.2012 exp(-6030.50009/RT)",
+      "temperature": "353-503 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "15-85 mol%",
+      "equation": "k = 0.271 exp(-5886.98649/RT)",
+      "temperature": "382-513 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_049",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "20-80 mol%",
+      "equation": "k = 0.4935 exp(-7380.69948/RT)",
+      "temperature": "396-499 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P172_050",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "25-75 mol%",
+      "equation": "k = 0.768 exp(-8719.60188/RT)",
+      "temperature": "399-498 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

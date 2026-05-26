@@ -1,0 +1,626 @@
+[
+  {
+    "index": "EXP_EC_P204_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "29.4-70.6 mol%",
+      "equation": "k = 4.461 exp(-7067.73104/RT)",
+      "temperature": "530-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "32.2-67.8 mol%",
+      "equation": "k = 22.449 exp(-14942.56919/RT)",
+      "temperature": "530-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "35.0-65.0 mol%",
+      "equation": "k = 25.867 exp(-15242.98542/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "38.0-62.0 mol%",
+      "equation": "k = 16.206 exp(-12975.63788/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "41.8-58.2 mol%",
+      "equation": "k = 23.649 exp(-14387.76151/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "44.2-55.8 mol%",
+      "equation": "k = 28.714 exp(-15194.45021/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "46.2-53.8 mol%",
+      "equation": "k = 7.109 exp(-8733.82772/RT)",
+      "temperature": "550-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "48.5-51.5 mol%",
+      "equation": "k = 35.892 exp(-16035.86668/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "50.0-50.0 mol%",
+      "equation": "k = 28.67 exp(-15293.61266/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "50.3-49.7 mol%",
+      "equation": "k = 73.101 exp(-19739.18704/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "52.7-47.3 mol%",
+      "equation": "k = 395.05 exp(-27702.30906/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "54.8-45.2 mol%",
+      "equation": "k = 43.029 exp(-17469.74747/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "56.8-43.2 mol%",
+      "equation": "k = 75.574 exp(-19903.62099/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "62.4-37.6 mol%",
+      "equation": "k = 35.576 exp(-16648.41453/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "66.6-33.4 mol%",
+      "equation": "k = 34.107 exp(-17030.83853/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "70.0-30.0 mol%",
+      "equation": "k = 42.742 exp(-18907.39392/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "72.0-28.0 mol%",
+      "equation": "k = 40.002 exp(-17977.69357/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "73.0-27.0 mol%",
+      "equation": "k = 14.75 exp(-12826.68499/RT)",
+      "temperature": "500-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "78.0-22.0 mol%",
+      "equation": "k = 6.312 exp(-9905.78573/RT)",
+      "temperature": "530-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "78.5-21.5 mol%",
+      "equation": "k = 13.211 exp(-13914.9616/RT)",
+      "temperature": "530-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "83.0-17.0 mol%",
+      "equation": "k = 29.706 exp(-18760.95147/RT)",
+      "temperature": "530-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "84.1-15.9 mol%",
+      "equation": "k = 142.88 exp(-27008.17185/RT)",
+      "temperature": "530-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "90.0-10.0 mol%",
+      "equation": "k = 0.7074 exp(-5104.98381/RT)",
+      "temperature": "530-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-NH4Cl",
+      "composition": "94.9-5.1 mol%",
+      "equation": "k = 8.892 exp(-20900.68487/RT)",
+      "temperature": "550-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "0-100 mol%",
+      "equation": "k = 9.416 exp(-13150.53201/RT)",
+      "temperature": "498-523 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "10-90 mol%",
+      "equation": "k = 11.5049 exp(-14922.90406/RT)",
+      "temperature": "460-550 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "20-80 mol%",
+      "equation": "k = 14.3413 exp(-16751.76106/RT)",
+      "temperature": "460-550 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "30-70 mol%",
+      "equation": "k = 19.1285 exp(-18809.48669/RT)",
+      "temperature": "460-550 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "40-60 mol%",
+      "equation": "k = 21.9527 exp(-20231.65208/RT)",
+      "temperature": "460-550 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "50-50 mol%",
+      "equation": "k = 14.7058 exp(-19423.70816/RT)",
+      "temperature": "460-550 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2",
+      "composition": "100 mol%",
+      "equation": "k = 0.0017223 exp(12789.44677/RT)",
+      "temperature": "530-650 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-Hg2I2",
+      "composition": "7.7-92.3 mol%",
+      "equation": "k = 2.852 exp(-7406.64071/RT)",
+      "temperature": "620-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-Hg2I2",
+      "composition": "33.3-66.7 mol%",
+      "equation": "k = 1.681 exp(-4079.88666/RT)",
+      "temperature": "700-840 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-Hg2I2",
+      "composition": "57.4-42.6 mol%",
+      "equation": "k = -3.5028 + 0.011534 T - 7.8529 x 10^-6 T^2",
+      "temperature": "560-880 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-Hg2I2",
+      "composition": "66.5-33.5 mol%",
+      "equation": "k = 1.26239 exp(-4258.54645/RT)",
+      "temperature": "540-760 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-Hg2I2",
+      "composition": "82.5-17.5 mol%",
+      "equation": "k = -2.5845 + 0.0116269 T - 1.40878 x 10^-5 T^2 + 4.8868 x 10^-9 T^3",
+      "temperature": "520-840 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-Hg2I2",
+      "composition": "94.4-5.6 mol%",
+      "equation": "k = -0.6965 + 0.0042089 T - 6.6838 x 10^-6 T^2 + 3.2035 x 10^-9 T^3",
+      "temperature": "540-860 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "47.5-52.5 mol%",
+      "equation": "k = 17.142 exp(-16464.31545/RT)",
+      "temperature": "565-600 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "50-50 mol%",
+      "equation": "k = 13.165 exp(-15318.71708/RT)",
+      "temperature": "565-600 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "52.5-47.5 mol%",
+      "equation": "k = 26.119 exp(-18605.30407/RT)",
+      "temperature": "555-600 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "55-45 mol%",
+      "equation": "k = 28.214 exp(-18658.86017/RT)",
+      "temperature": "545-600 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "60-40 mol%",
+      "equation": "k = 34.636 exp(-19309.48305/RT)",
+      "temperature": "545-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "65-35 mol%",
+      "equation": "k = 28.498 exp(-17796.10493/RT)",
+      "temperature": "545-580 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "70-30 mol%",
+      "equation": "k = 8.052 exp(-11522.92878/RT)",
+      "temperature": "545-580 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "75-25 mol%",
+      "equation": "k = 7.4 exp(-11074.81488/RT)",
+      "temperature": "545-580 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "80-20 mol%",
+      "equation": "k = 6.475 exp(-10463.52226/RT)",
+      "temperature": "545-580 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "90-10 mol%",
+      "equation": "k = 2.402 exp(-7743.03994/RT)",
+      "temperature": "545-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P204_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2-KI",
+      "composition": "100-0 mol%",
+      "equation": "k = 0.009913 exp(5154.35583/RT)",
+      "temperature": "545-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

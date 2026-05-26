@@ -1,0 +1,574 @@
+[
+  {
+    "index": "EXP_ST_P120_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaFCl-NaCl",
+      "composition": "0-100 mol%",
+      "equation": "g = 235.2 - 0.1076 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaFCl-NaCl",
+      "composition": "20-80 mol%",
+      "equation": "g = 181.8 - 0.031 T",
+      "temperature": "1073-1273 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaFCl-NaCl",
+      "composition": "40-60 mol%",
+      "equation": "g = 166.7 - 0.0348 T",
+      "temperature": "1073-1273 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaFCl-NaCl",
+      "composition": "60-40 mol%",
+      "equation": "g = 176.2 - 0.0332 T",
+      "temperature": "1173-1273 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaFCl-NaCl",
+      "composition": "80-20 mol%",
+      "equation": "g = 191.9 - 0.0392 T",
+      "temperature": "1273-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaFCl-NaCl",
+      "composition": "100-0 mol%",
+      "equation": "g = 211.8 - 0.0328 T",
+      "temperature": "1323-1423 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-CaSiO3",
+      "composition": "100-86 CaSiO3 mol%",
+      "equation": "g = 1221 - 28.37 C + 0.21 C^2",
+      "temperature": "1823 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-KCl",
+      "composition": "0-100 mol%",
+      "equation": "g = 167.01 - 0.0635 T",
+      "temperature": "1073-1273 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-KCl",
+      "composition": "5-95 mol%",
+      "equation": "g = 164.52 - 0.0579 T",
+      "temperature": "1073-1273 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-KCl",
+      "composition": "11-89 mol%",
+      "equation": "g = 164.92 - 0.0552 T",
+      "temperature": "1073-1273 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-KCl",
+      "composition": "18-82 mol%",
+      "equation": "g = 169.72 - 0.0575 T",
+      "temperature": "1073-1273 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-KCl",
+      "composition": "25-75 mol%",
+      "equation": "g = 161.86 - 0.0501 T",
+      "temperature": "1123-1298 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-KCl",
+      "composition": "33-67 mol%",
+      "equation": "g = 156.92 - 0.0452 T",
+      "temperature": "1123-1323 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-NaCl",
+      "composition": "0-100 mol%",
+      "equation": "g = 235.2 - 0.1076 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-NaCl",
+      "composition": "10-90 mol%",
+      "equation": "g = 208.3 - 0.07673 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-NaCl",
+      "composition": "20-80 mol%",
+      "equation": "g = 198.3 - 0.064 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-NaCl",
+      "composition": "30-70 mol%",
+      "equation": "g = 182.1 - 0.04627 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-NaCl",
+      "composition": "40-60 mol%",
+      "equation": "g = 207.5 - 0.06253 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-NaCl",
+      "composition": "50-50 mol%",
+      "equation": "g = 197.1 - 0.04589 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-NaCl",
+      "composition": "69-31 mol%",
+      "equation": "g = 219.8 - 0.0532 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaF2-NaCl",
+      "composition": "75-25 mol%",
+      "equation": "g = 230.7 - 0.06697 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaI2",
+      "composition": "100 mol%",
+      "equation": "g = 177.2 - 0.042 T",
+      "temperature": "1099-1231 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO3)2",
+      "composition": "100 mol%",
+      "equation": "g = 147.8 - 0.015 T",
+      "temperature": "873-933 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaO-CaF2",
+      "composition": "18.65-81.35 mol%",
+      "equation": "g = 258",
+      "temperature": "1823 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2",
+      "composition": "100 mol%",
+      "equation": "g = 244.7 - 0.0177 T",
+      "temperature": "1175-1348 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2-KPO3",
+      "composition": "0-100 mol%",
+      "equation": "g = 208.4 - 0.0556 T",
+      "temperature": "1182-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2-KPO3",
+      "composition": "9.2-90.8 mol%",
+      "equation": "g = 174.68 - 0.0274 T",
+      "temperature": "1180-1355 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2-KPO3",
+      "composition": "25-75 mol%",
+      "equation": "g = 220.54 - 0.0558 T",
+      "temperature": "1180-1355 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2-KPO3",
+      "composition": "35-65 mol%",
+      "equation": "g = 203.53 - 0.0404 T",
+      "temperature": "1180-1280 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2-KPO3",
+      "composition": "51-49 mol%",
+      "equation": "g = 219.41 - 0.044 T",
+      "temperature": "1180-1300 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2-KPO3",
+      "composition": "67.2-32.8 mol%",
+      "equation": "g = 235.51 - 0.048 T",
+      "temperature": "1200-1310 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2-KPO3",
+      "composition": "72.4-27.6 mol%",
+      "equation": "g = 210.72 - 0.0261 T",
+      "temperature": "1180-1280 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2-KPO3",
+      "composition": "86.1-13.9 mol%",
+      "equation": "g = 264.04 - 0.0569 T",
+      "temperature": "1180-1300 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2-KPO3",
+      "composition": "95-5 mol%",
+      "equation": "g = 222.49 - 0.0139 T",
+      "temperature": "1180-1355 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(PO3)2-KPO3",
+      "composition": "100-0 mol%",
+      "equation": "g = 244.7 - 0.0177 T",
+      "temperature": "1175-1355 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "15-85 mol%",
+        "equation": "g = 340.8 - 0.12 T",
+      "temperature": "1057-1216 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "25-75 mol%",
+        "equation": "g = 328.5 - 0.13 T",
+      "temperature": "998-1115 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "33-67 mol%",
+        "equation": "g = 295.8 - 0.12 T",
+      "temperature": "773-1073 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "37-63 mol%",
+      "equation": "g = 196",
+      "temperature": "753.2 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "50-50 mol%",
+        "equation": "g = 297.8 - 0.12 T",
+      "temperature": "831-1067 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "67-33 mol%",
+        "equation": "g = 323.5 - 0.13 T",
+      "temperature": "975-1059 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF-ThF4",
+      "composition": "11.8-70.6-17.6 mol%",
+      "equation": "g = 307.1 - 0.0984 T",
+      "temperature": "1063-1124 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF-ThF4",
+      "composition": "18.2-54.5-27.3 mol%",
+      "equation": "g = 266.6 - 0.0446 T",
+      "temperature": "1068-1110 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P120_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF-ThF4",
+      "composition": "22.3-44.4-33.3 mol%",
+      "equation": "g = 286.7 - 0.0886 T",
+      "temperature": "1096-1126 K",
+      "unit": "mN m^-1"
+    }
+  }
+]

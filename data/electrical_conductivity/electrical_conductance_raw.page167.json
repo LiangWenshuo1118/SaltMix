@@ -1,0 +1,613 @@
+[
+  {
+    "index": "EXP_EC_P167_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgI-AlI3",
+      "composition": "8.88-91.12 mol%",
+      "equation": "k = 0.3171 exp(-16565.98835/RT)",
+      "temperature": "470-580 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgI-AlI3",
+      "composition": "71.22-97.86 mol% AlI3",
+      "equation": "k = 0.24586 - 0.0044694 C + 2.001 x 10^-5 C^2",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3",
+      "composition": "100 mol%",
+      "equation": "k = 11.29 exp(-11384.85447/RT)",
+      "temperature": "490-630 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Ba(NO3)2",
+      "composition": "97.44-2.56 mol%",
+      "equation": "k = 10.868 exp(-11443.43145/RT)",
+      "temperature": "540-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Ba(NO3)2",
+      "composition": "98.48-1.52 mol%",
+      "equation": "k = 13.07 exp(-12192.37998/RT)",
+      "temperature": "490-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Ba(NO3)2",
+      "composition": "100-0 mol%",
+      "equation": "k = 12.576 exp(-11828.36589/RT)",
+      "temperature": "490-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Ca(NO3)2",
+      "composition": "88.89-11.11 mol%",
+      "equation": "k = 18.874 exp(-15330.43248/RT)",
+      "temperature": "490-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Ca(NO3)2",
+      "composition": "94.74-5.26 mol%",
+      "equation": "k = 17.162 exp(-14025.00264/RT)",
+      "temperature": "490-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Ca(NO3)2",
+      "composition": "97.44-2.56 mol%",
+      "equation": "k = 13.53 exp(-12548.02593/RT)",
+      "temperature": "490-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Ca(NO3)2",
+      "composition": "98.48-1.52 mol%",
+      "equation": "k = 13.119 exp(-12242.58882/RT)",
+      "temperature": "490-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Ca(NO3)2",
+      "composition": "100-0 mol%",
+      "equation": "k = 12.576 exp(-11828.36589/RT)",
+      "temperature": "490-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "46.1-53.9 mol%",
+      "equation": "k = 108.24 exp(-28564.64589/RT)",
+      "temperature": "523-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "51.8-48.2 mol%",
+      "equation": "k = 168.87 exp(-29819.86689/RT)",
+      "temperature": "483-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "55.0-45.0 mol%",
+      "equation": "k = 169.73 exp(-29242.46523/RT)",
+      "temperature": "463-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "57.1-42.9 mol%",
+      "equation": "k = 266.15 exp(-30819.85962/RT)",
+      "temperature": "443-563 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "59.6-40.4 mol%",
+      "equation": "k = 181.27 exp(-28937.02812/RT)",
+      "temperature": "443-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "62.0-38.0 mol%",
+      "equation": "k = 225.68 exp(-29422.38024/RT)",
+      "temperature": "423-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "64.4-35.6 mol%",
+      "equation": "k = 165.7 exp(-27665.07084/RT)",
+      "temperature": "423-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "66.6-33.4 mol%",
+      "equation": "k = 129.16 exp(-26121.14901/RT)",
+      "temperature": "423-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "68.8-31.2 mol%",
+      "equation": "k = 100.38 exp(-24593.96346/RT)",
+      "temperature": "423-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "70.9-29.1 mol%",
+      "equation": "k = 46.282 exp(-20665.12173/RT)",
+      "temperature": "423-563 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "73.0-27.0 mol%",
+      "equation": "k = 36.952 exp(-19614.92016/RT)",
+      "temperature": "423-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "75.0-25.0 mol%",
+      "equation": "k = 29.784 exp(-18430.82835/RT)",
+      "temperature": "423-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "78.7-21.3 mol%",
+      "equation": "k = 22.55 exp(-16677.70302/RT)",
+      "temperature": "423-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "82.3-17.7 mol%",
+      "equation": "k = 16.441 exp(-14819.97594/RT)",
+      "temperature": "443-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "88.8-11.2 mol%",
+      "equation": "k = 12.982 exp(-12987.35328/RT)",
+      "temperature": "463-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "91.8-8.2 mol%",
+      "equation": "k = 10.892 exp(-11857.65438/RT)",
+      "temperature": "483-583 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Cd(NO3)2",
+      "composition": "100-0 mol%",
+      "equation": "k = 10.678 exp(-11085.69347/RT)",
+      "temperature": "503-543 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-CsNO3",
+      "composition": "0-100 mol%",
+      "equation": "k = 5.8807 exp(-13707.01332/RT)",
+      "temperature": "692-740 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-CsNO3",
+      "composition": "25-75 mol%",
+      "equation": "k = 4.261 exp(-10920.4227/RT)",
+      "temperature": "550-650 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-CsNO3",
+      "composition": "50-50 mol%",
+      "equation": "k = 8.177 exp(-13142.16387/RT)",
+      "temperature": "540-650 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-CsNO3",
+      "composition": "70-30 mol%",
+      "equation": "k = 10.917 exp(-13372.28772/RT)",
+      "temperature": "510-620 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-CsNO3",
+      "composition": "100-0 mol%",
+      "equation": "k = 12.788 exp(-11924.5995/RT)",
+      "temperature": "500-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "10-90 mol%",
+      "equation": "k = 2.959 exp(-9716.24735/RT)",
+      "temperature": "523-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "15-85 mol%",
+      "equation": "k = 2.56 exp(-8460.60795/RT)",
+      "temperature": "498-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "20-80 mol%",
+      "equation": "k = 5.428 exp(-11624.60168/RT)",
+      "temperature": "473-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "25-75 mol%",
+      "equation": "k = 7.358 exp(-13083.16848/RT)",
+      "temperature": "473-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "30-70 mol%",
+      "equation": "k = 9.475 exp(-14335.04223/RT)",
+      "temperature": "448-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "35-65 mol%",
+      "equation": "k = 22.057 exp(-18082.71373/RT)",
+      "temperature": "423-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "37.5-62.5 mol%",
+      "equation": "k = 27.628 exp(-18997.76984/RT)",
+      "temperature": "398-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "40-60 mol%",
+      "equation": "k = 26.046 exp(-18809.90509/RT)",
+      "temperature": "398-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "42-58 mol%",
+      "equation": "k = 35.755 exp(-20103.20113/RT)",
+      "temperature": "398-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "45-55 mol%",
+      "equation": "k = 22.219 exp(-18237.94272/RT)",
+      "temperature": "398-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "46-54 mol%",
+      "equation": "k = 44.695 exp(-21045.45369/RT)",
+      "temperature": "398-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "47.5-52.5 mol%",
+      "equation": "k = 22.272 exp(-18193.59158/RT)",
+      "temperature": "398-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "49-51 mol%",
+      "equation": "k = 44.028 exp(-20955.9146/RT)",
+      "temperature": "398-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P167_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-HgI2",
+      "composition": "50-50 mol%",
+      "equation": "k = 41.75 exp(-20649.64067/RT)",
+      "temperature": "398-548 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

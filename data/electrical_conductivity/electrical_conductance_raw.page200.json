@@ -1,0 +1,535 @@
+[
+  {
+    "index": "EXP_EC_P200_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "69.2-30.8 mol%",
+      "equation": "k = 2.33611 exp(-8107.6398/RT)",
+      "temperature": "553-693 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeO",
+      "composition": "100 mol%",
+      "equation": "k = 6.2500000 x 10^7 exp(-1.7319539358 x 10^5/RT)",
+      "temperature": "1648-1713 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeO",
+      "composition": "100 mol%",
+      "equation": "k = 1482.3 exp(-22375.15114/RT)",
+      "temperature": "1713-1773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeS",
+      "composition": "100 mol%",
+      "equation": "k = 677.7 exp(9591.98048/RT)",
+      "temperature": "1469-1493 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeS-Ni3S2",
+      "composition": "1.00-0.0 mol% FeS",
+      "equation": "k = 3848.889 + 3.9629 x 10^-4 C - 2.8762 x 10^-7 C^2",
+      "temperature": "1773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaBr2",
+      "composition": "100 mol%",
+      "equation": "k = 13.8741 exp(-16563.0595/RT)",
+      "temperature": "442-462 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaBr3",
+      "composition": "100 mol%",
+      "equation": "k = 0.012385 exp(-32326.54323/RT)",
+      "temperature": "398-407 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl2",
+      "composition": "100 mol%",
+      "equation": "k = 15.1424 exp(-15013.27997/RT)",
+      "temperature": "446-458 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3",
+      "composition": "100 mol%",
+      "equation": "k = 9.1867 x 10^-6 exp(-4944.73393/RT)",
+      "temperature": "355-360 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-HgCl2",
+      "composition": "2.5-10 mol% HgCl2",
+      "equation": "k = -0.078928 + 0.058364 C - 0.012579 C^2 + 8.407 x 10^-4 C^3",
+      "temperature": "353 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-KCl",
+      "composition": "30-70 mol%",
+      "equation": "k = 0.951",
+      "temperature": "973 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-KCl",
+      "composition": "40-60 mol%",
+      "equation": "k = 3.833 exp(-11337.15607/RT)",
+      "temperature": "873-973 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-KCl",
+      "composition": "50-50 mol%",
+      "equation": "k = 6.58 exp(-13023.75469/RT)",
+      "temperature": "673-973 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-KCl",
+      "composition": "60-40 mol%",
+      "equation": "k = 6.196 exp(-13807.84941/RT)",
+      "temperature": "573-873 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-KCl",
+      "composition": "70-30 mol%",
+      "equation": "k = 6.727 exp(-14509.09954/RT)",
+      "temperature": "473-673 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-KCl",
+      "composition": "80-20 mol%",
+      "equation": "k = 5.525 exp(-14753.03082/RT)",
+      "temperature": "373-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-KCl",
+      "composition": "90-10 mol%",
+      "equation": "k = 2.749 exp(-14140.06457/RT)",
+      "temperature": "373-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-LiCl",
+      "composition": "30-70 mol%",
+      "equation": "k = 1.19",
+      "temperature": "873 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-LiCl",
+      "composition": "40-60 mol%",
+      "equation": "k = 3.207 exp(-8086.9705/RT)",
+      "temperature": "673-873 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-LiCl",
+      "composition": "50-50 mol%",
+      "equation": "k = 3.704 exp(-10126.70462/RT)",
+      "temperature": "473-673 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-LiCl",
+      "composition": "60-40 mol%",
+      "equation": "k = 4.056 exp(-12250.12015/RT)",
+      "temperature": "473-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-LiCl",
+      "composition": "70-30 mol%",
+      "equation": "k = 6.209 exp(-14387.76151/RT)",
+      "temperature": "373-473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-LiCl",
+      "composition": "80-20 mol%",
+      "equation": "k = 3.05 exp(-13441.32488/RT)",
+      "temperature": "373-473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-LiCl",
+      "composition": "90-10 mol%",
+      "equation": "k = 3.613 exp(-16115.78242/RT)",
+      "temperature": "373-473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "20-80 mol%",
+      "equation": "k = 1.56",
+      "temperature": "1073 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "30-70 mol%",
+      "equation": "k = 1.3",
+      "temperature": "1073 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "40-60 mol%",
+      "equation": "k = 3.033 exp(-7463.12566/RT)",
+      "temperature": "773-1073 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "50-50 mol%",
+      "equation": "k = 3.721 exp(-8243.87312/RT)",
+      "temperature": "473-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "60-40 mol%",
+      "equation": "k = 3.063 exp(-9136.75366/RT)",
+      "temperature": "473-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "70-30 mol%",
+      "equation": "k = 0.2",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "70-30 mol%",
+      "equation": "k = 5.277 exp(-12456.81392/RT)",
+      "temperature": "431-510 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "79.6-20.4 mol%",
+      "equation": "k = 3.148 exp(-12184.84865/RT)",
+      "temperature": "419-499 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "80-20 mol%",
+      "equation": "k = 2.575 exp(-11179.83504/RT)",
+      "temperature": "373-473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "90-10 mol%",
+      "equation": "k = 3.613 exp(-16115.78242/RT)",
+      "temperature": "373-473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-NaCl",
+      "composition": "90-10 mol%",
+      "equation": "k = 1.195 exp(-12142.58955/RT)",
+      "temperature": "384-494 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-RbCl",
+      "composition": "10-90 mol%",
+      "equation": "k = 1.04",
+      "temperature": "973 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-RbCl",
+      "composition": "40-60 mol%",
+      "equation": "k = 2.969 exp(-11586.10824/RT)",
+      "temperature": "773-973 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-RbCl",
+      "composition": "50-50 mol%",
+      "equation": "k = 4.834 exp(-12622.50238/RT)",
+      "temperature": "673-973 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-RbCl",
+      "composition": "60-40 mol%",
+      "equation": "k = 3.34 exp(-10874.81634/RT)",
+      "temperature": "673-873 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-RbCl",
+      "composition": "70-30 mol%",
+      "equation": "k = 3.817 exp(-12420.8302/RT)",
+      "temperature": "473-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P200_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "GaCl3-RbCl",
+      "composition": "80-20 mol%",
+      "equation": "k = 8.40874 exp(-17164.31036/RT)",
+      "temperature": "373-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

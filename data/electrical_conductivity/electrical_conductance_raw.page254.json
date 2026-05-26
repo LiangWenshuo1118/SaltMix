@@ -1,0 +1,340 @@
+[
+  {
+    "index": "EXP_EC_P254_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "25.77-74.23 mol%",
+      "equation": "k = 1.3782 x 10^-4 exp(-8145.54748/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "46.96-53.04 mol%",
+      "equation": "k = 2.089 x 10^-4 exp(-3029.43404/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "51.14-48.86 mol%",
+      "equation": "k = 0.0019484 exp(-8709.97852/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "55.61-44.39 mol%",
+      "equation": "k = 1.7981 x 10^-4 exp(-931.37398/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "56.81-43.19 mol%",
+      "equation": "k = 2.554 x 10^-4 exp(-1069.02989/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "71.92-28.08 mol%",
+      "equation": "k = 5.001 x 10^-4 exp(-1595.38589/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "73.27-26.73 mol%",
+      "equation": "k = 4.177 x 10^-4 exp(-865.26568/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "80.13-19.87 mol%",
+      "equation": "k = 7.272 x 10^-4 exp(-2051.03111/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "81.44-18.56 mol%",
+      "equation": "k = 6.14 x 10^-4 exp(-1536.80891/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "86.5-13.5 mol%",
+      "equation": "k = 7.516 x 10^-4 exp(-1991.61732/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "90.36-9.64 mol%",
+      "equation": "k = 6.522 x 10^-4 exp(-1656.47331/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "93.96-6.04 mol%",
+      "equation": "k = 4.541 x 10^-4 exp(-1148.94562/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "94.52-5.48 mol%",
+      "equation": "k = 8.628 x 10^-4 exp(-3150.1863/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "96.34-3.66 mol%",
+      "equation": "k = 7.594 x 10^-4 exp(-3377.79971/RT)",
+      "temperature": "325-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "100-0 mol%",
+      "equation": "k = 0.241 exp(-20511.56636/RT)",
+      "temperature": "335-350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbI3",
+      "composition": "100 mol%",
+      "equation": "k = 0.013485 exp(-14717.88463/RT)",
+      "temperature": "485-540 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Sb2O3",
+      "composition": "100 mol%",
+      "equation": "k = 6799 exp(-1.0341347412 x 10^5/RT)",
+      "temperature": "1101-1161 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Sb2S3",
+      "composition": "100 mol%",
+      "equation": "k = 484.3 exp(-52883.29754/RT)",
+      "temperature": "830-1076 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Sb2S3",
+      "composition": "100 mol%",
+      "equation": "k = 435.58 exp(-52719.282/RT)",
+      "temperature": "830-1076 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Sb2S3",
+      "composition": "100 mol%",
+      "equation": "k = 34932.7 exp(-88561.28084/RT)",
+      "temperature": "960-1240 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ScCl3",
+      "composition": "100 mol%",
+      "equation": "k = 218.426 exp(-61225.49631/RT)",
+      "temperature": "1223-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SmCl3",
+      "composition": "100 mol%",
+      "equation": "k = 0.84",
+      "temperature": "1073.2 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SnCl2",
+      "composition": "100 mol%",
+      "equation": "k = 33.808 exp(-16395.2783/RT)",
+      "temperature": "520-620 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SnCl2",
+      "composition": "100 mol%",
+      "equation": "k = -4.734129 + 0.01434825 T - 7.776484 x 10^-6 T^2 + 8.757843 x 10^-10 T^3",
+      "temperature": "529-1235 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SnS",
+      "composition": "100 mol%",
+      "equation": "k = 6194 exp(-55359.43017/RT)",
+      "temperature": "1158-1411 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P254_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SnS",
+      "composition": "100 mol%",
+      "equation": "k = 10669.6 exp(-49074.53862/RT)",
+      "temperature": "1173-1273 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

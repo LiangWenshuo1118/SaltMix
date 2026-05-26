@@ -1,0 +1,626 @@
+[
+  {
+    "index": "EXP_ST_P115_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "0-100 mol%",
+      "equation": "g = 211.509 - 0.090033 T",
+      "temperature": "1100-1200 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "10-90 mol%",
+      "equation": "g = 206.472 - 0.086371 T",
+      "temperature": "1060-1180 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "20-80 mol%",
+      "equation": "g = 212.169 - 0.090857 T",
+      "temperature": "1060-1160 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "30-70 mol%",
+      "equation": "g = 190.282 - 0.071089 T",
+      "temperature": "1020-1140 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "50-50 mol%",
+      "equation": "g = 189.783 - 0.066856 T",
+      "temperature": "980-1100 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "70-30 mol%",
+      "equation": "g = 204.214 - 0.075125 T",
+      "temperature": "940-1080 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "80-20 mol%",
+      "equation": "g = 207.201 - 0.075435 T",
+      "temperature": "900-1020 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "90-10 mol%",
+      "equation": "g = 211.933 - 0.073619 T",
+      "temperature": "940-1020 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "100-0 mol%",
+      "equation": "g = 188.918 - 0.039969 T",
+      "temperature": "760-1000 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl",
+      "composition": "100 mol%",
+      "equation": "g = 216.4 - 0.052 T",
+      "temperature": "733-973 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "0-100 mol%",
+      "equation": "g = 167.9 - 0.0753 T",
+      "temperature": "1030-1140 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "10-90 mol%",
+      "equation": "g = 167.51 - 0.0734 T",
+      "temperature": "1040-1120 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "20-80 mol%",
+      "equation": "g = 163.67 - 0.0682 T",
+      "temperature": "1000-1140 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "30-70 mol%",
+      "equation": "g = 168.95 - 0.0705 T",
+      "temperature": "940-1080 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "40-60 mol%",
+      "equation": "g = 180.67 - 0.0789 T",
+      "temperature": "910-1030 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "50-50 mol%",
+      "equation": "g = 165.85 - 0.0593 T",
+      "temperature": "810-860 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "64.9-35.1 mol%",
+      "equation": "g = 180.73 - 0.0646 T",
+      "temperature": "710-900 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "70-30 mol%",
+      "equation": "g = 186.08 - 0.0662 T",
+      "temperature": "680-870 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "80-20 mol%",
+      "equation": "g = 194.69 - 0.0672 T",
+      "temperature": "690-870 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "90-10 mol%",
+      "equation": "g = 198.28 - 0.0573 T",
+      "temperature": "720-870 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "100-0 mol%",
+      "equation": "g = 224.6 - 0.0564 T",
+      "temperature": "740-970 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KCl",
+      "composition": "40-60 mol%",
+      "equation": "g = 177.11 - 0.07 T",
+      "temperature": "873-973 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KCl",
+      "composition": "50-50 mol%",
+      "equation": "g = 189.84 - 0.08 T",
+      "temperature": "873-973 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KCl",
+      "composition": "60-40 mol%",
+      "equation": "g = 194.84 - 0.08 T",
+      "temperature": "873-973 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KCl",
+      "composition": "70-30 mol%",
+      "equation": "g = 192.11 - 0.07 T",
+      "temperature": "873-973 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KCl",
+      "composition": "80-20 mol%",
+      "equation": "g = 199.11 - 0.07 T",
+      "temperature": "873-973 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KCl",
+      "composition": "90-10 mol%",
+      "equation": "g = 191.65 - 0.05 T",
+      "temperature": "873-973 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KCl",
+      "composition": "100-0 mol%",
+      "equation": "g = 216.4 - 0.052 T",
+      "temperature": "733-973 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-NaBr",
+      "composition": "0-100 mol%",
+      "equation": "g = 173.472 - 0.068195 T",
+      "temperature": "1060-1180 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-NaBr",
+      "composition": "10-90 mol%",
+      "equation": "g = 184.798 - 0.076632 T",
+      "temperature": "1040-1160 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-NaBr",
+      "composition": "30-70 mol%",
+      "equation": "g = 181.924 - 0.068341 T",
+      "temperature": "1040-1160 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-NaBr",
+      "composition": "50-50 mol%",
+      "equation": "g = 203.302 - 0.079272 T",
+      "temperature": "1020-1160 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-NaBr",
+      "composition": "70-30 mol%",
+      "equation": "g = 208.835 - 0.07349 T",
+      "temperature": "920-1060 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-NaBr",
+      "composition": "80-20 mol%",
+      "equation": "g = 204.73 - 0.060369 T",
+      "temperature": "880-1060 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-NaBr",
+      "composition": "90-10 mol%",
+      "equation": "g = 213.316 - 0.059036 T",
+      "temperature": "780-960 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-NaBr",
+      "composition": "100-0 mol%",
+      "equation": "g = 224.601 - 0.056412 T",
+      "temperature": "740-960 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "0-100 mol%",
+      "equation": "g = 214.3 - 0.1 T",
+      "temperature": "773-973 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "10-90 mol%",
+      "equation": "g = 215.3 - 0.1 T",
+      "temperature": "773-873 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "20-80 mol%",
+      "equation": "g = 208.57 - 0.09 T",
+      "temperature": "773-873 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "30-70 mol%",
+      "equation": "g = 210.57 - 0.09 T",
+      "temperature": "773-873 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "40-60 mol%",
+      "equation": "g = 212.57 - 0.09 T",
+      "temperature": "773-873 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "50-50 mol%",
+      "equation": "g = 215.57 - 0.09 T",
+      "temperature": "773-873 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "60-40 mol%",
+      "equation": "g = 210.84 - 0.08 T",
+      "temperature": "773-873 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "70-30 mol%",
+      "equation": "g = 215.84 - 0.08 T",
+      "temperature": "773-873 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "80-20 mol%",
+      "equation": "g = 205.38 - 0.06 T",
+      "temperature": "773-873 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "90-10 mol%",
+      "equation": "g = 204.65 - 0.05 T",
+      "temperature": "773-873 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-PbCl2",
+      "composition": "100-0 mol%",
+      "equation": "g = 216.4 - 0.052 T",
+      "temperature": "733-973 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P115_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgI",
+      "composition": "100 mol%",
+      "equation": "g = 134.08 - 0.023 T",
+      "temperature": "773-873 K",
+      "unit": "mN m^-1"
+    }
+  }
+]

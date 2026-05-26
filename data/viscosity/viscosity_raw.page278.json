@@ -1,0 +1,639 @@
+[
+  {
+    "index": "EXP_VIS_P278_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "60-40 mol%",
+      "equation": "v = 0.01975 exp (30380.53227/RT)",
+      "temperature": "513-593 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "66-34 mol%",
+      "equation": "v = 33",
+      "temperature": "513 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "66-34 mol%",
+      "equation": "v = 0.0323339 exp (28707.74108/RT)",
+      "temperature": "533-593 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "70-30 mol%",
+      "equation": "v = 0.02152 exp (30902.70421/RT)",
+      "temperature": "533-593 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "81-19 mol%",
+      "equation": "v = 0.00614624 exp (37916.87915/RT)",
+      "temperature": "533-593 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.0012906 exp (47347.35453/RT)",
+      "temperature": "553-593 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO3)2-KNO3",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.1 exp (17047.1564/RT)",
+      "temperature": "613-693 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO3)2-KNO3",
+      "composition": "5-95 mol%",
+      "equation": "v = 0.09085 exp (18078.52966/RT)",
+      "temperature": "593-693 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO3)2-KNO3",
+      "composition": "11-89 mol%",
+      "equation": "v = 0.08982 exp (18670.99397/RT)",
+      "temperature": "573-693 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO3)2-KNO3",
+      "composition": "18-82 mol%",
+      "equation": "v = 0.102 exp (18609.48814/RT)",
+      "temperature": "613-693 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO3)2-KNO3",
+      "composition": "23-77 mol%",
+      "equation": "v = 0.1104 exp (18868.48207/RT)",
+      "temperature": "633-693 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO3)2-KNO3-NaNO3",
+      "composition": "2.8-50.0-47.2 mol%",
+      "equation": "v = 0.05284 exp (20393.15718/RT)",
+      "temperature": "503-727 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2",
+      "composition": "100 mol%",
+      "equation": "v = 7.603 x 10^-7 exp ((2.200402413 x 10^5/RT) + (1.471000 x 10^6/T^2))",
+      "temperature": "847-1252 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2",
+      "composition": "100 mol%",
+      "equation": "v = 3.0184 x 10^-7 exp (2.3925767481 x 10^5/RT)",
+      "temperature": "1024-1130 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2",
+      "composition": "100 mol%",
+      "equation": "v = 2.2647 x 10^-7 exp (2.4226602114 x 10^5/RT)",
+      "temperature": "1130-1252 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-KF",
+      "composition": "50-50 mol%",
+      "equation": "v = 0.00515 exp (58040.16382/RT)",
+      "temperature": "873-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-KF",
+      "composition": "79-21 mol%",
+      "equation": "v = 2.2",
+      "temperature": "1073.2 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "36.00-64.00 mol%",
+      "equation": "v = 0.0594 exp (38284.2405/RT)",
+      "temperature": "740-860 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "45.00-55.00 mol%",
+      "equation": "v = 0.0207 exp (49581.2295/RT)",
+      "temperature": "700-820 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "50.00-50.00 mol%",
+      "equation": "v = 0.00845 exp (58702.5021/RT)",
+      "temperature": "660-840 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "55.01-44.99 mol%",
+      "equation": "v = 0.00627 exp (64685.7222/RT)",
+      "temperature": "680-840 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "60.00-40.00 mol%",
+      "equation": "v = 0.00421 exp (72468.0924/RT)",
+      "temperature": "720-840 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "65.00-35.00 mol%",
+      "equation": "v = 0.00311 exp (80375.9847/RT)",
+      "temperature": "740-980 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "70.00-30.00 mol%",
+      "equation": "v = 0.00202 exp (89873.8236/RT)",
+      "temperature": "760-940 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "75.00-25.00 mol%",
+      "equation": "v = 9.2 x 10^-4 exp (1.026352371 x 10^5/RT)",
+      "temperature": "780-960 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "79.99-20.01 mol%",
+      "equation": "v = 5.98 x 10^-4 exp (1.145598366 x 10^5/RT)",
+      "temperature": "840-980 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "85.00-15.00 mol%",
+      "equation": "v = 4.57 x 10^-4 exp (1.254384186 x 10^5/RT)",
+      "temperature": "820-1000 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "90.02-9.98 mol%",
+      "equation": "v = 1.71 x 10^-4 exp (1.441412115 x 10^5/RT)",
+      "temperature": "880-1120 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "91.02-8.98 mol%",
+      "equation": "v = 1.99 x 10^-4 exp (1.462750872 x 10^5/RT)",
+      "temperature": "820-1100 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "93.01-6.99 mol%",
+      "equation": "v = 1.05 x 10^-4 exp (1.569444657 x 10^5/RT)",
+      "temperature": "860-1100 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "94.91-5.09 mol%",
+      "equation": "v = 7.69 x 10^-5 exp (1.647268359 x 10^5/RT)",
+      "temperature": "840-1100 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "96.01-3.99 mol%",
+      "equation": "v = 6.05 x 10^-5 exp (1.709192595 x 10^5/RT)",
+      "temperature": "880-1080 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "97.00-3.00 mol%",
+      "equation": "v = 2.31 x 10^-5 exp (1.835551509 x 10^5/RT)",
+      "temperature": "880-1180 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "98.01-1.99 mol%",
+      "equation": "v = 6.62 x 10^-6 exp (1.98324918 x 10^5/RT)",
+      "temperature": "900-1240 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "99.01-0.99 mol%",
+      "equation": "v = 1.53 x 10^-6 exp (2.174461179 x 10^5/RT)",
+      "temperature": "980-1240 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF",
+      "composition": "100-0 mol%",
+      "equation": "v = 7.603 x 10^-7 exp ((2.200402413 x 10^5/RT) + (1.471000 x 10^6/T^2))",
+      "temperature": "847-1252 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF-ThF4",
+      "composition": "15.7-72.7-11.6 mol%",
+      "equation": "v = 0.1091 exp (33995.56875/RT)",
+      "temperature": "840-940 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-LiF-ThF4",
+      "composition": "23.9-70.1-6.0 mol%",
+      "equation": "v = 0.06625 exp (36388.85679/RT)",
+      "temperature": "800-900 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "26.04-72.96 mol%",
+      "equation": "v = 0.1057 exp (29519.86907/RT)",
+      "temperature": "973-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "30-70 mol%",
+      "equation": "v = 0.247243 exp (22125.36216/RT)",
+      "temperature": "873-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "30.17-69.83 mol%",
+      "equation": "v = 0.2212 exp (22682.26188/RT)",
+      "temperature": "873-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "33.33-66.67 mol%",
+      "equation": "v = 0.1441 exp (30049.57233/RT)",
+      "temperature": "873-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "40-60 mol%",
+      "equation": "v = 0.06582 exp (36166.68267/RT)",
+      "temperature": "873-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "43-57 mol%",
+      "equation": "v = 0.0346 exp (42941.52882/RT)",
+      "temperature": "873-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "44.41-55.59 mol%",
+      "equation": "v = 0.04312 exp (39485.9054/RT)",
+      "temperature": "873-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "50-50 mol%",
+      "equation": "v = 0.02919 exp (45111.38752/RT)",
+      "temperature": "873-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "52.2-47.8 mol%",
+      "equation": "v = 0.02341 exp (47929.77707/RT)",
+      "temperature": "873-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "57.3-42.7 mol%",
+      "equation": "v = 0.001276 exp (74659.28986/RT)",
+      "temperature": "973-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P278_049",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BeF2-NaF",
+      "composition": "64.11-35.89 mol%",
+      "equation": "v = 0.002746 exp (74051.7629/RT)",
+      "temperature": "973-1023 K",
+      "unit": "mN s m^-2"
+    }
+  }
+]

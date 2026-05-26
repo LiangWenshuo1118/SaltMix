@@ -1,0 +1,587 @@
+[
+  {
+    "index": "EXP_DEN_P024_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-RbF",
+      "composition": "25-75 mol%",
+      "equation": "d = 4.1844 - 0.00136 T",
+      "temperature": "1273-1323 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3",
+      "composition": "100 mol%",
+      "equation": "d = 4.383 - 0.0025 T",
+      "temperature": "473-513 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-HgI2",
+      "composition": "0-44.8 HgI2 mol%",
+      "equation": "d = 3.256 + 0.01263 C + 1.687 x 10^-4 C^2 + 3.755 x 10^-7 C^3",
+      "temperature": "473 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-KI",
+      "composition": "0-35.72 KI mol%",
+      "equation": "d = 3.256 - 0.01066 C + 7.417 x 10^-4 C^2 - 1.068 x 10^-5 C^3",
+      "temperature": "473 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-SbI3",
+      "composition": "0-58.01 SbI3 mol%",
+      "equation": "d = 3.256 - 0.05304 C + 0.02333 C^2 - 9.521 x 10^-4 C^3",
+      "temperature": "473 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.52",
+      "temperature": "1723 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "7.8-92.2 mol%",
+      "equation": "d = 4.415 - 0.001 T",
+      "temperature": "1670-1730 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "16.1-83.9 mol%",
+      "equation": "d = 4.564 - 0.001024 T",
+      "temperature": "1670-1730 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "24.7-75.3 mol%",
+      "equation": "d = 4.571 - 9.8 x 10^-4 T",
+      "temperature": "1670-1730 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "0-0-100 mol%",
+      "equation": "d = 2.115 - 9.82 x 10^-4 T",
+      "temperature": "1273-1373 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "1.3-45.6-53.1 mol%",
+      "equation": "d = 3.326743 - 9.7823 x 10^-4 T",
+      "temperature": "1255-1345 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "1.8-13.0-85.2 mol%",
+      "equation": "d = 3.31581 - 9.5994 x 10^-4 T",
+      "temperature": "1276-1355 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "4.6-32.3-63.1 mol%",
+      "equation": "d = 3.200886 - 9.015 x 10^-4 T",
+      "temperature": "1224-1354 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "4.7-8.3-87.0 mol%",
+      "equation": "d = 3.283616 - 9.4148 x 10^-4 T",
+      "temperature": "1275-1364 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "5.2-47.7-47.7 mol%",
+      "equation": "d = 3.156207 - 8.9151 x 10^-4 T",
+      "temperature": "1200-1356 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "5.6-39.6-54.8 mol%",
+      "equation": "d = 3.186359 - 9.0286 x 10^-4 T",
+      "temperature": "1224-1354 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "8.6-15.3-76.1 mol%",
+      "equation": "d = 3.317274 - 9.8817 x 10^-4 T",
+      "temperature": "1248-1352 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "11.2-22.8-66.2 mol%",
+      "equation": "d = 3.176965 - 8.9118 x 10^-4 T",
+      "temperature": "1229-1355 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "11.7-31.1-57.2 mol%",
+      "equation": "d = 3.134136 - 8.6625 x 10^-4 T",
+      "temperature": "1219-1346 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "12.2-38.2-49.6 mol%",
+      "equation": "d = 3.094947 - 8.6633 x 10^-4 T",
+      "temperature": "1190-1353 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "18.5-29.9-51.6 mol%",
+      "equation": "d = 3.126709 - 8.6763 x 10^-4 T",
+      "temperature": "1216-1344 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "18.5-21.7-59.8 mol%",
+      "equation": "d = 3.116817 - 8.5164 x 10^-4 T",
+      "temperature": "1219-1353 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-KF-Na3AlF6",
+      "composition": "18.6-11.8-69.6 mol%",
+      "equation": "d = 3.095372 - 8.2907 x 10^-4 T",
+      "temperature": "1234-1356 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Li3AlF6",
+      "composition": "0-100 mol%",
+      "equation": "d = 3.0422 - 8.359 x 10^-4 T",
+      "temperature": "1130-1320 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Li3AlF6",
+      "composition": "3-97 mol%",
+      "equation": "d = 3.0466 - 8.46 x 10^-4 T",
+      "temperature": "1220-1320 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Li3AlF6",
+      "composition": "6-94 mol%",
+      "equation": "d = 2.973 - 7.92 x 10^-4 T",
+      "temperature": "1220-1320 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.115 - 9.82 x 10^-4 T",
+      "temperature": "1273-1373 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "3-97 mol%",
+      "equation": "d = 3.2522 - 9.148 x 10^-4 T",
+      "temperature": "1270-1320 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "6-94 mol%",
+      "equation": "d = 3.212 - 8.906 x 10^-4 T",
+      "temperature": "1270-1320 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "9.8-90.2 mol%",
+      "equation": "d = 3.235935 - 9.115 x 10^-4 T",
+      "temperature": "1273-1360 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "12-88 mol%",
+      "equation": "d = 3.1458 - 8.523 x 10^-4 T",
+      "temperature": "1270-1320 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "18-82 mol%",
+      "equation": "d = 3.0736 - 8.07 x 10^-4 T",
+      "temperature": "1270-1320 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "18.6-81.4 mol%",
+      "equation": "d = 3.132648 - 8.5012 x 10^-4 T",
+      "temperature": "1245-1363 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "22.7-77.3 mol%",
+      "equation": "d = 3.006758 - 7.612 x 10^-4 T",
+      "temperature": "1322-1445 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "24-76 mol%",
+      "equation": "d = 2.9672 - 7.32 x 10^-4 T",
+      "temperature": "1270-1320 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "26.6-73.4 mol%",
+      "equation": "d = 2.97381 - 7.3715 x 10^-4 T",
+      "temperature": "1325-1424 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "0-100-0 mol%",
+      "equation": "d = 2.102",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "0-98-2 mol%",
+      "equation": "d = 2.1",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "0-96-4 mol%",
+      "equation": "d = 2.099",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "0-94-6 mol%",
+      "equation": "d = 2.098",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "3-97-0 mol%",
+      "equation": "d = 2.078",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "3-95-2 mol%",
+      "equation": "d = 2.084",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "3-93-4 mol%",
+      "equation": "d = 2.087",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "3-91-6 mol%",
+      "equation": "d = 2.088",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P024_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "6-94-0 mol%",
+      "equation": "d = 2.061",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

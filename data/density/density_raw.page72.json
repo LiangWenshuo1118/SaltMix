@@ -1,0 +1,600 @@
+[
+  {
+    "index": "EXP_DEN_P072_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "38.1-61.9 mol%",
+      "equation": "d = 3.5936 - 9.139 x 10^-4 T",
+      "temperature": "920-960 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "67.1-32.9 mol%",
+      "equation": "d = 3.5593 - 8.233 x 10^-4 T",
+      "temperature": "950-960 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "80.7-19.3 mol%",
+      "equation": "d = 3.4719 - 7.081 x 10^-4 T",
+      "temperature": "900-960 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "100-0 mol%",
+      "equation": "d = 3.7063 - 8.172 x 10^-4 T",
+      "temperature": "770-910 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "0.0-100.0 mol%",
+      "equation": "d = 3.9667 - 0.0011613 T",
+      "temperature": "940-1090 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "24.1-75.9 mol%",
+      "equation": "d = 3.789 - 0.001017 T",
+      "temperature": "950-1100 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "56.2-43.8 mol%",
+      "equation": "d = 3.6212 - 8.651 x 10^-4 T",
+      "temperature": "960-1080 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "71.9-28.1 mol%",
+      "equation": "d = 3.7499 - 9.608 x 10^-4 T",
+      "temperature": "950-1090 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "87.2-12.8 mol%",
+      "equation": "d = 3.7703 - 9.548 x 10^-4 T",
+      "temperature": "960-1130 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "100.0-0.0 mol%",
+      "equation": "d = 3.7063 - 8.172 x 10^-4 T",
+      "temperature": "770-910 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3",
+      "composition": "100 mol%",
+      "equation": "d = 2.068 - 5.46 x 10^-4 T",
+      "temperature": "545-714 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "0-100 mol%",
+      "equation": "d = 1.718 - 4.57 x 10^-4 T",
+      "temperature": "748-823 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "10-90 mol%",
+      "equation": "d = 1.524 - 1.51 x 10^-4 T",
+      "temperature": "693-723 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "20-80 mol%",
+      "equation": "d = 1.691 - 3.1 x 10^-4 T",
+      "temperature": "653-693 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "27-73 mol%",
+      "equation": "d = 1.662 - 3.73 x 10^-4 T",
+      "temperature": "613-693 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "35-65 mol%",
+      "equation": "d = 1.878 - 5.04 x 10^-4 T",
+      "temperature": "573-693 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "47-53 mol%",
+      "equation": "d = 1.919 - 5.15 x 10^-4 T",
+      "temperature": "523-693 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "55-45 mol%",
+      "equation": "d = 1.929 - 4.95 x 10^-4 T",
+      "temperature": "483-693 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "57-43 mol%",
+      "equation": "d = 1.943 - 5.19 x 10^-4 T",
+      "temperature": "483-693 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "59.5-40.5 mol%",
+      "equation": "d = 1.87 - 3.82 x 10^-4 T",
+      "temperature": "483-693 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "70-30 mol%",
+      "equation": "d = 1.993 - 5.21 x 10^-4 T",
+      "temperature": "483-693 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "80-20 mol%",
+      "equation": "d = 2.026 - 5.42 x 10^-4 T",
+      "temperature": "503-693 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "92.4-7.6 mol%",
+      "equation": "d = 2.3681 - 8.065 x 10^-4 T",
+      "temperature": "410-440 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-LiOH",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.028 - 5.21 x 10^-4 T",
+      "temperature": "533-693 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaClO4",
+      "composition": "30-70 mol%",
+      "equation": "d = 2.4197 - 6.963 x 10^-4 T",
+      "temperature": "620-680 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaClO4",
+      "composition": "50-50 mol%",
+      "equation": "d = 2.2906 - 6.041 x 10^-4 T",
+      "temperature": "540-680 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaClO4",
+      "composition": "67-33 mol%",
+      "equation": "d = 2.2107 - 5.772 x 10^-4 T",
+      "temperature": "480-680 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaClO4",
+      "composition": "80-20 mol%",
+      "equation": "d = 2.1599 - 5.881 x 10^-4 T",
+      "temperature": "500-680 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaClO4",
+      "composition": "90-10 mol%",
+      "equation": "d = 2.147 - 6.183 x 10^-4 T",
+      "temperature": "520-680 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaClO4",
+      "composition": "100-0 mol%",
+      "equation": "d = 1.9892 - 4.237 x 10^-4 T",
+      "temperature": "540-680 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaNO3",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.3335 - 7.3174 x 10^-4 T",
+      "temperature": "599-742 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaNO3",
+      "composition": "20-80 mol%",
+      "equation": "d = 2.2682 - 6.781 x 10^-4 T",
+      "temperature": "552-731 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaNO3",
+      "composition": "40-60 mol%",
+      "equation": "d = 2.222 - 6.5199 x 10^-4 T",
+      "temperature": "504-739 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaNO3",
+      "composition": "60-40 mol%",
+      "equation": "d = 2.1781 - 6.1832 x 10^-4 T",
+      "temperature": "509-702 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaNO3",
+      "composition": "80-20 mol%",
+      "equation": "d = 2.1404 - 6.093 x 10^-4 T",
+      "temperature": "555-713 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-NaNO3",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.1721 - 7.021 x 10^-4 T",
+      "temperature": "548-701 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-RbNO3",
+      "composition": "0-100 mol%",
+      "equation": "d = 3.118 - 0.0010508 T",
+      "temperature": "595-730 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-RbNO3",
+      "composition": "10-90 mol%",
+      "equation": "d = 2.9565 - 8.8289 x 10^-4 T",
+      "temperature": "545-695 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-RbNO3",
+      "composition": "20-80 mol%",
+      "equation": "d = 2.9282 - 9.1953 x 10^-4 T",
+      "temperature": "515-710 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-RbNO3",
+      "composition": "30-70 mol%",
+      "equation": "d = 2.8809 - 9.3513 x 10^-4 T",
+      "temperature": "515-710 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-RbNO3",
+      "composition": "32-68 mol%",
+      "equation": "d = 2.8692 - 9.3572 x 10^-4 T",
+      "temperature": "515-695 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-RbNO3",
+      "composition": "40-60 mol%",
+      "equation": "d = 2.8148 - 9.2968 x 10^-4 T",
+      "temperature": "500-710 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-RbNO3",
+      "composition": "50-50 mol%",
+      "equation": "d = 2.7297 - 9.0318 x 10^-4 T",
+      "temperature": "500-710 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-RbNO3",
+      "composition": "60-40 mol%",
+      "equation": "d = 2.6258 - 8.5565 x 10^-4 T",
+      "temperature": "500-695 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-RbNO3",
+      "composition": "70-30 mol%",
+      "equation": "d = 2.5024 - 7.8706 x 10^-4 T",
+      "temperature": "510-695 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P072_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-RbNO3",
+      "composition": "80-20 mol%",
+      "equation": "d = 2.3612 - 6.9744 x 10^-4 T",
+      "temperature": "545-695 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "index": "EXP_VIS_P302_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2",
+      "composition": "100 mol%",
+      "equation": "v = 0.05619 exp(28292.68134/RT)",
+      "temperature": "773-973 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbF2-PbO",
+      "composition": "48-52 mol%",
+      "equation": "v = 27.1703 exp(22104.0234/RT)",
+      "temperature": "880-1200 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PrCl3",
+      "composition": "100 mol%",
+      "equation": "v = 0.094205 exp(31429.06021/RT)",
+      "temperature": "1130-1250 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "RbBr",
+      "composition": "100 mol%",
+      "equation": "v = 0.0806 exp(23550.33088/RT)",
+      "temperature": "971-1197 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "RbCl",
+      "composition": "100 mol%",
+      "equation": "v = 0.06783 exp(24805.17531/RT)",
+      "temperature": "1023-1172 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "RbF",
+      "composition": "100 mol%",
+      "equation": "v = 0.0971068 exp(24324.50935/RT)",
+      "temperature": "1079-1274 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "RbI",
+      "composition": "100 mol%",
+      "equation": "v = 0.0764 exp(23081.33847/RT)",
+      "temperature": "934-1194 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "RbNO2",
+      "composition": "100 mol%",
+      "equation": "v = 0.08754 exp(18807.39465/RT)",
+      "temperature": "712-758 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "RbNO3",
+      "composition": "100 mol%",
+      "equation": "v = 0.1296 exp(16635.86232/RT)",
+      "temperature": "598-698 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Rb2CO3",
+      "composition": "100 mol%",
+      "equation": "v = 0.15847 exp(28317.78576/RT)",
+      "temperature": "1154-1234 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbBr3",
+      "composition": "100 mol%",
+      "equation": "v = 0.01899 exp(16297.37106/RT)",
+      "temperature": "375-410 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3",
+      "composition": "100 mol%",
+      "equation": "v = 0.003841 exp(18599.86478/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.03299 exp(10132.56232/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "4.48-95.52 mol%",
+      "equation": "v = 0.02142 exp(11396.56987/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "25.77-74.23 mol%",
+      "equation": "v = 0.01783 exp(12475.22311/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "33.40-66.60 mol%",
+      "equation": "v = 0.01766 exp(12604.92928/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "39.89-60.11 mol%",
+      "equation": "v = 0.01182 exp(13892.36762/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "43.60-56.40 mol%",
+      "equation": "v = 0.01046 exp(14344.66559/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "44.75-55.25 mol%",
+      "equation": "v = 0.01072 exp(14341.31833/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "46.50-53.50 mol%",
+      "equation": "v = 0.009065 exp(14826.67045/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "46.96-53.04 mol%",
+      "equation": "v = 0.008722 exp(14960.56069/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "55.61-44.39 mol%",
+      "equation": "v = 0.006568 exp(15981.47377/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "58.30-41.70 mol%",
+      "equation": "v = 0.006167 exp(16188.16683/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "65.65-34.35 mol%",
+      "equation": "v = 0.00457 exp(17265.14645/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "71.92-28.08 mol%",
+      "equation": "v = 0.004787 exp(17270.58574/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "73.27-26.73 mol%",
+      "equation": "v = 0.004996 exp(17187.32275/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "76.86-23.14 mol%",
+      "equation": "v = 0.004198 exp(17744.22246/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "78.22-21.78 mol%",
+      "equation": "v = 0.003503 exp(18326.64501/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P302_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "SbCl3-SbCl5",
+      "composition": "80.13-19.87 mol%",
+      "equation": "v = 0.004051 exp(17950.07871/RT)",
+      "temperature": "323-353 K",
+      "unit": "mN s m^-2"
+    }
+  }
+]

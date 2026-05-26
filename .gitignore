@@ -1,0 +1,73 @@
+# Local/private instructions and credentials
+AGENTS.md
+
+# macOS and Python cache files
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local environments and scratch outputs
+.venv/
+venv/
+tmp/
+Rplots.pdf
+
+# Data policy: keep curated non-MSTDB JSON only
+data/**/*.png
+data/Janz_1988/
+data/mstdb-tp-v4/
+data/**/*mstdb*
+
+# Output policy: ignore all outputs by default, then allow selected results
+outputs/*
+!outputs/2026_05_20_17_51/
+outputs/2026_05_20_17_51/*
+
+!outputs/2026_05_20_17_51/density/
+outputs/2026_05_20_17_51/density/*
+!outputs/2026_05_20_17_51/density/results_processed/
+!outputs/2026_05_20_17_51/density/results_processed/**
+!outputs/2026_05_20_17_51/density/phys_true_rk_true_n_0/
+!outputs/2026_05_20_17_51/density/phys_true_rk_true_n_0/**
+
+!outputs/2026_05_20_17_51/viscosity/
+outputs/2026_05_20_17_51/viscosity/*
+!outputs/2026_05_20_17_51/viscosity/results_processed/
+!outputs/2026_05_20_17_51/viscosity/results_processed/**
+!outputs/2026_05_20_17_51/viscosity/phys_true_arrhenius/
+!outputs/2026_05_20_17_51/viscosity/phys_true_arrhenius/**
+
+!outputs/2026_05_20_17_51/surface_tension/
+outputs/2026_05_20_17_51/surface_tension/*
+!outputs/2026_05_20_17_51/surface_tension/results_processed/
+!outputs/2026_05_20_17_51/surface_tension/results_processed/**
+!outputs/2026_05_20_17_51/surface_tension/phys_true_linear/
+!outputs/2026_05_20_17_51/surface_tension/phys_true_linear/**
+
+!outputs/2026_05_20_17_51/electrical_conductivity/
+outputs/2026_05_20_17_51/electrical_conductivity/*
+!outputs/2026_05_20_17_51/electrical_conductivity/results_processed/
+!outputs/2026_05_20_17_51/electrical_conductivity/results_processed/**
+!outputs/2026_05_20_17_51/electrical_conductivity/phys_true_arrhenius/
+!outputs/2026_05_20_17_51/electrical_conductivity/phys_true_arrhenius/**
+
+# Keep processed output summaries and PNG figures, not duplicate large SVG exports
+outputs/**/.DS_Store
+outputs/**/fig_svg/
+
+# LaTeX/editor temporary files
+docs/jctc-latex-template/tmp_toc_check/
+docs/jctc-latex-template/*.aux
+docs/jctc-latex-template/*.blg
+docs/jctc-latex-template/*.log
+docs/jctc-latex-template/*.out
+docs/jctc-latex-template/*.toc
+docs/jctc-latex-template/*.fls
+docs/jctc-latex-template/*.fdb_latexmk
+docs/jctc-latex-template/*.synctex.gz
+
+# Duplicate vector exports; manuscript TeX uses PNG figures
+docs/jctc-latex-template/figures/*.svg
+docs/jctc-latex-template/figures-SI/*.svg

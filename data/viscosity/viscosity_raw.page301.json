@@ -1,0 +1,327 @@
+[
+  {
+    "index": "EXP_VIS_P301_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "N(C3H7)4B(C6H5)4",
+      "composition": "100 mol%",
+      "equation": "v = 9.287 x 10^-4 exp(37225.67079/RT)",
+      "temperature": "483-529 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "N(C3H7)4BF4",
+      "composition": "100 mol%",
+      "equation": "v = 0.006663 exp(25259.23059/RT)",
+      "temperature": "522-546 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "N(C3H7)4PF6",
+      "composition": "100 mol%",
+      "equation": "v = 0.005752 exp(27033.27627/RT)",
+      "temperature": "517-541 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "N(C3H7)4SCN",
+      "composition": "100 mol%",
+      "equation": "v = 2.48274 x 10^-5 exp(44100.0978/RT)",
+      "temperature": "330-380 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "N(C4H9)4B(C6H5)4",
+      "composition": "100 mol%",
+      "equation": "v = 0.001588 exp(34455.81645/RT)",
+      "temperature": "516-541 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "N(C4H9)4BF4",
+      "composition": "100 mol%",
+      "equation": "v = 0.002222 exp(30313.58715/RT)",
+      "temperature": "435-539 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "N(C4H9)4PF6",
+      "composition": "100 mol%",
+      "equation": "v = 0.003173 exp(29953.75713/RT)",
+      "temperature": "529-554 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "N(C5H11)4SCN",
+      "composition": "100 mol%",
+      "equation": "v = 2.512 x 10^-5 exp(44146.12257/RT)",
+      "temperature": "325-383 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "N(C6H13)4BF4",
+      "composition": "100 mol%",
+      "equation": "v = 1.806 x 10^-4 exp(41175.43287/RT)",
+      "temperature": "376-502 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NdCl3",
+      "composition": "100 mol%",
+      "equation": "v = 0.116738 exp(27121.56015/RT)",
+      "temperature": "1160-1240 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NH4H2PO4-NH4NO3",
+      "composition": "3.5-96.5 mol%",
+      "equation": "v = 0.1867 exp(12029.20125/RT)",
+      "temperature": "430-450 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NH4H2PO4-NH4NO3",
+      "composition": "7.2-92.8 mol%",
+      "equation": "v = 0.08488 exp(15305.32806/RT)",
+      "temperature": "430-450 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NH4H2PO4-NH4NO3",
+      "composition": "10.9-89.1 mol%",
+      "equation": "v = 0.08893 exp(15581.47668/RT)",
+      "temperature": "420-450 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NH4H2PO4-NH4NO3",
+      "composition": "18.8-81.2 mol%",
+      "equation": "v = 0.07306 exp(17435.01969/RT)",
+      "temperature": "420-450 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NH4H2PO4-NH4NO3",
+      "composition": "27.3-72.7 mol%",
+      "equation": "v = 0.03181 exp(21497.75166/RT)",
+      "temperature": "420-450 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NH4H2PO4-NH4NO3",
+      "composition": "33.9-66.1 mol%",
+      "equation": "v = 0.0336 exp(22175.571/RT)",
+      "temperature": "440-450 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NH4H2PO4-NH4NO3",
+      "composition": "41.0-59.0 mol%",
+      "equation": "v = 0.02255 exp(24598.14753/RT)",
+      "temperature": "440-450 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NH4H2PO4-NH4NO3",
+      "composition": "51.1-48.9 mol%",
+      "equation": "v = 0.01235 exp(28070.92563/RT)",
+      "temperature": "440-450 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ni3S2",
+      "composition": "100 mol%",
+      "equation": "v = 0.3704 exp(28444.14467/RT)",
+      "temperature": "1523-1773 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2",
+      "composition": "100 mol%",
+      "equation": "v = 0.08165 exp(24573.04311/RT)",
+      "temperature": "700-820 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-PbCl2",
+      "composition": "0.0-100.0 mol%",
+      "equation": "v = 0.07066 exp(26790.60021/RT)",
+      "temperature": "780-820 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-PbCl2",
+      "composition": "23.1-76.9 mol%",
+      "equation": "v = 0.044219 exp(29652.9225/RT)",
+      "temperature": "750-820 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-PbCl2",
+      "composition": "56.4-43.6 mol%",
+      "equation": "v = 0.040502 exp(29652.50409/RT)",
+      "temperature": "700-820 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-PbCl2",
+      "composition": "75.3-24.7 mol%",
+      "equation": "v = 0.05754 exp(27167.16651/RT)",
+      "temperature": "700-820 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P301_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-PbCl2",
+      "composition": "100.0-0.0 mol%",
+      "equation": "v = 0.08165 exp(24573.04311/RT)",
+      "temperature": "700-820 K",
+      "unit": "mN s m^-2"
+    }
+  }
+]

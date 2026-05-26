@@ -1,0 +1,652 @@
+[
+  {
+    "index": "EXP_DEN_P037_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-NaCl",
+      "composition": "55.5-44.5 mol%",
+      "equation": "d = 3.566 - 9.2 x 10^-4 T",
+      "temperature": "850-950 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-NaCl",
+      "composition": "64.8-35.2 mol%",
+      "equation": "d = 3.827 - 0.00104 T",
+      "temperature": "820-950 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-NaCl",
+      "composition": "77.8-22.2 mol%",
+      "equation": "d = 3.937 - 9.5 x 10^-4 T",
+      "temperature": "860-970 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-NaCl",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.099 - 8.4 x 10^-4 T",
+      "temperature": "860-1080 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-PbCl2",
+      "composition": "0-100 mol%",
+      "equation": "d = 6.112 - 0.0015 T",
+      "temperature": "790-980 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-PbCl2",
+      "composition": "20.6-79.4 mol%",
+      "equation": "d = 5.793 - 0.00143 T",
+      "temperature": "820-950 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-PbCl2",
+      "composition": "32.8-67.2 mol%",
+      "equation": "d = 5.602 - 0.00139 T",
+      "temperature": "760-950 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-PbCl2",
+      "composition": "58.2-41.8 mol%",
+      "equation": "d = 5.048 - 0.00118 T",
+      "temperature": "790-970 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-PbCl2",
+      "composition": "79.9-20.1 mol%",
+      "equation": "d = 4.584 - 0.00102 T",
+      "temperature": "820-950 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-PbCl2",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.078 - 8.2 x 10^-4 T",
+      "temperature": "840-1080 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-RbCl",
+      "composition": "0.0-100.0 mol%",
+      "equation": "d = 3.092 - 8.52 x 10^-4 T",
+      "temperature": "995-1175 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-RbCl",
+      "composition": "10.3-89.7 mol%",
+      "equation": "d = 3.177 - 8.47 x 10^-4 T",
+      "temperature": "1010-1175 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-RbCl",
+      "composition": "22.6-77.4 mol%",
+      "equation": "d = 3.243 - 8.55 x 10^-4 T",
+      "temperature": "935-1085 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-RbCl",
+      "composition": "37.7-62.3 mol%",
+      "equation": "d = 3.367 - 8.53 x 10^-4 T",
+      "temperature": "905-1025 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-RbCl",
+      "composition": "48.8-51.2 mol%",
+      "equation": "d = 3.526 - 8.9 x 10^-4 T",
+      "temperature": "875-1055 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-RbCl",
+      "composition": "60.1-39.9 mol%",
+      "equation": "d = 3.754 - 9.91 x 10^-4 T",
+      "temperature": "860-1040 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-RbCl",
+      "composition": "74.4-25.6 mol%",
+      "equation": "d = 3.915 - 9.37 x 10^-4 T",
+      "temperature": "890-1070 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-RbCl",
+      "composition": "100.0-0.0 mol%",
+      "equation": "d = 4.059 - 8. x 10^-4 T",
+      "temperature": "920-1070 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-TlCl",
+      "composition": "0-100 mol%",
+      "equation": "d = 6.802 - 0.001682 T",
+      "temperature": "730-780 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-TlCl",
+      "composition": "10-90 mol%",
+      "equation": "d = 6.548 - 0.001742 T",
+      "temperature": "720-770 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-TlCl",
+      "composition": "20-80 mol%",
+      "equation": "d = 6.259 - 0.001721 T",
+      "temperature": "720-770 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-TlCl",
+      "composition": "30-70 mol%",
+      "equation": "d = 5.931 - 0.001607 T",
+      "temperature": "720-770 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-TlCl",
+      "composition": "40-60 mol%",
+      "equation": "d = 5.593 - 0.001437 T",
+      "temperature": "720-770 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-TlCl",
+      "composition": "50-50 mol%",
+      "equation": "d = 5.398 - 0.001418 T",
+      "temperature": "720-770 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-TlCl",
+      "composition": "60-40 mol%",
+      "equation": "d = 5.18 - 0.00136 T",
+      "temperature": "720-770 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-TlCl",
+      "composition": "70-30 mol%",
+      "equation": "d = 4.922 - 0.001243 T",
+      "temperature": "730-780 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-TlCl",
+      "composition": "80-20 mol%",
+      "equation": "d = 4.661 - 0.001122 T",
+      "temperature": "790-820 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-TlCl",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.098 - 8.4 x 10^-4 T",
+      "temperature": "880-960 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "0-100 mol%",
+      "equation": "d = 4.08 - 9.05 x 10^-4 T",
+      "temperature": "690-860 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "10-90 mol%",
+      "equation": "d = 4.067 - 8.9 x 10^-4 T",
+      "temperature": "820-910 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "20-80 mol%",
+      "equation": "d = 4.016 - 8.33 x 10^-4 T",
+      "temperature": "820-920 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "30-70 mol%",
+      "equation": "d = 3.967 - 7.77 x 10^-4 T",
+      "temperature": "820-910 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "40-60 mol%",
+      "equation": "d = 3.926 - 7.3 x 10^-4 T",
+      "temperature": "800-910 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "50-50 mol%",
+      "equation": "d = 3.92 - 7.15 x 10^-4 T",
+      "temperature": "790-900 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "60-40 mol%",
+      "equation": "d = 3.927 - 7.14 x 10^-4 T",
+      "temperature": "820-920 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "70-30 mol%",
+      "equation": "d = 3.942 - 7.18 x 10^-4 T",
+      "temperature": "820-920 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "80-20 mol%",
+      "equation": "d = 3.969 - 7.34 x 10^-4 T",
+      "temperature": "820-910 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "90-10 mol%",
+      "equation": "d = 4.004 - 7.54 x 10^-4 T",
+      "temperature": "820-910 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnBr2",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.098 - 8.4 x 10^-4 T",
+      "temperature": "880-960 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.822 - 5.06 x 10^-4 T",
+      "temperature": "630-760 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "10-90 mol%",
+      "equation": "d = 2.916 - 4.96 x 10^-4 T",
+      "temperature": "650-840 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "20-80 mol%",
+      "equation": "d = 2.997 - 5.06 x 10^-4 T",
+      "temperature": "700-840 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "30-70 mol%",
+      "equation": "d = 3.135 - 5.35 x 10^-4 T",
+      "temperature": "730-840 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "40-60 mol%",
+      "equation": "d = 3.263 - 5.7 x 10^-4 T",
+      "temperature": "780-890 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "50-50 mol%",
+      "equation": "d = 3.388 - 6. x 10^-4 T",
+      "temperature": "800-880 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "60-40 mol%",
+      "equation": "d = 3.516 - 6.4 x 10^-4 T",
+      "temperature": "850-920 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "70-30 mol%",
+      "equation": "d = 3.643 - 6.7 x 10^-4 T",
+      "temperature": "850-920 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "80-20 mol%",
+      "equation": "d = 3.785 - 7.2 x 10^-4 T",
+      "temperature": "860-920 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_049",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "90-10 mol%",
+      "equation": "d = 3.92 - 7.57 x 10^-4 T",
+      "temperature": "860-920 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P037_050",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CdCl2-ZnCl2",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.098 - 8.4 x 10^-4 T",
+      "temperature": "880-960 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

@@ -1,0 +1,561 @@
+[
+  {
+    "index": "EXP_ST_P142_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-MgCl2",
+      "composition": "100.0-0.0 mol%",
+      "equation": "g = 189.28 - 0.06973 T",
+      "temperature": "903-1060 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-NaCl",
+      "composition": "0-100 mol%",
+      "equation": "g = 209.0422 - 0.084345 T",
+      "temperature": "1110-1170 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-NaCl",
+      "composition": "40-60 mol%",
+      "equation": "g = 197.2639 - 0.073786 T",
+      "temperature": "980-1170 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-NaCl",
+      "composition": "60-40 mol%",
+      "equation": "g = 203.5707 - 0.078974 T",
+      "temperature": "980-1170 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-NaCl",
+      "composition": "80-20 mol%",
+      "equation": "g = 206.048 - 0.080691 T",
+      "temperature": "980-1100 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-NaCl",
+      "composition": "100-0 mol%",
+      "equation": "g = 187.6507 - 0.061781 T",
+      "temperature": "930-1120 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-Na2B4O7",
+      "composition": "100-40 Na2B4O7 mol%",
+      "equation": "g = 392.2 - 12.29 C + 0.1944 C^2 - 8.77 x 10^-4 C^3",
+      "temperature": "1223 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-PbCl2",
+      "composition": "0.0-100.0 mol%",
+      "equation": "g = 233.7 - 0.124 T",
+      "temperature": "791-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-PbCl2",
+      "composition": "30.10-69.90 mol%",
+      "equation": "g = 200.8931 - 0.087107 T",
+      "temperature": "775-870 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-PbCl2",
+      "composition": "35.75-64.25 mol%",
+      "equation": "g = 226.3552 - 0.118665 T",
+      "temperature": "775-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-PbCl2",
+      "composition": "49.39-50.61 mol%",
+      "equation": "g = 209.6978 - 0.09848 T",
+      "temperature": "775-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-PbCl2",
+      "composition": "50.37-49.63 mol%",
+      "equation": "g = 194.0891 - 0.079463 T",
+      "temperature": "775-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-PbCl2",
+      "composition": "68.74-31.26 mol%",
+      "equation": "g = 211.7828 - 0.102165 T",
+      "temperature": "810-820 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-PbCl2",
+      "composition": "73.63-26.37 mol%",
+      "equation": "g = 200.9088 - 0.088542 T",
+      "temperature": "850-870 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-RbCl",
+      "composition": "0-10 RbCl mol%",
+      "equation": "g = 126.82 - 6.218 C + 2.0118 C^2 - 0.29664 C^3 + 0.014382 C^4",
+      "temperature": "1023 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "0-100 mol%",
+      "equation": "g = 139.33 - 0.1125 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "7.20-92.80 mol%",
+      "equation": "g = 128.79 - 0.1 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "25.64-74.36 mol%",
+      "equation": "g = 109.71 - 0.07499 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "38.75-61.25 mol%",
+      "equation": "g = 122.75 - 0.08749 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "40.62-59.38 mol%",
+      "equation": "g = 124.26 - 0.0875 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "46.61-53.39 mol%",
+      "equation": "g = 114.21 - 0.07499 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "52.68-47.32 mol%",
+      "equation": "g = 87.11 - 0.03749 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "55.84-44.16 mol%",
+      "equation": "g = 68.04 - 0.0125 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "66.11-33.89 mol%",
+      "equation": "g = 97.607 - 0.03749 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "67.50-32.50 mol%",
+      "equation": "g = 94.607 - 0.03749 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "72.62-27.38 mol%",
+      "equation": "g = 110.15 - 0.05 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "82.10-17.90 mol%",
+      "equation": "g = 189.9 - 0.1375 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "86.24-13.76 mol%",
+      "equation": "g = 224.7 - 0.1725 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "91.53-8.47 mol%",
+      "equation": "g = 209.43 - 0.15 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "95.70-4.30 mol%",
+      "equation": "g = 282.13 - 0.2125 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiCl-UCl4",
+      "composition": "100-0 mol%",
+      "equation": "g = 289.16 - 0.16 T",
+      "temperature": "883-923 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3",
+      "composition": "100 mol%",
+      "equation": "g = 115.6 - 0.0692 T",
+      "temperature": "403-433 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiNO3",
+      "composition": "78.7-21.3 mol%",
+      "equation": "g = 117.06 - 0.06054 T",
+      "temperature": "400-440 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiNO3",
+      "composition": "82.8-17.2 mol%",
+      "equation": "g = 109.66 - 0.04386 T",
+      "temperature": "410-430 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiNO3",
+      "composition": "92.5-7.5 mol%",
+      "equation": "g = 112.7 - 0.05609 T",
+      "temperature": "410-430 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiNO3",
+      "composition": "96.8-3.2 mol%",
+      "equation": "g = 107.76 - 0.04676 T",
+      "temperature": "410-430 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF",
+      "composition": "100 mol%",
+      "equation": "g = 346.5 - 0.0988 T",
+      "temperature": "1141-1533 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "0-100 mol%",
+      "equation": "g = 140.7 - 0.0565 T",
+      "temperature": "870-1100 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "25-75 mol%",
+      "equation": "g = 164.1 - 0.0617 T",
+      "temperature": "890-1100 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "50-50 mol%",
+      "equation": "g = 204.7 - 0.0749 T",
+      "temperature": "690-1170 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "75-25 mol%",
+      "equation": "g = 263.5 - 0.0884 T",
+      "temperature": "1080-1220 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "100-0 mol%",
+      "equation": "g = 350.2 - 0.0986 T",
+      "temperature": "1140-1240 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P142_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-NaF",
+      "composition": "60-40 mol%",
+      "equation": "g = 321.87 - 0.099357 T",
+      "temperature": "973-1226 K",
+      "unit": "mN m^-1"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "index": "EXP_EC_P257_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ZnF2",
+      "composition": "100 mol%",
+      "equation": "k = 27.962 exp(-20877.25408/RT)",
+      "temperature": "1173-1223 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P257_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ZnI2",
+      "composition": "100 mol%",
+      "equation": "k = 242.794 exp(-49467.00439/RT)",
+      "temperature": "740-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P257_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Zn(PO3)2",
+      "composition": "100 mol%",
+      "equation": "k = 134.411 exp(-96585.07188/RT)",
+      "temperature": "1365-1420 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

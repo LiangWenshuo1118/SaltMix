@@ -1,0 +1,665 @@
+[
+  {
+    "index": "EXP_DEN_P031_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-KCl",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.4968 - 3.9594 x 10^-4 T",
+      "temperature": "1070-1140 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-KCl-MgCl2",
+      "composition": "20-40-40 mol%",
+      "equation": "d = 2.185 - 4.662 x 10^-4 T",
+      "temperature": "1081-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-KCl-MgCl2",
+      "composition": "20-20-60 mol%",
+      "equation": "d = 2.29 - 5.114 x 10^-4 T",
+      "temperature": "1082-1193 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-KCl-MgCl2",
+      "composition": "20-60-20 mol%",
+      "equation": "d = 2.24 - 5.647 x 10^-4 T",
+      "temperature": "1086-1219 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-KCl-MgCl2",
+      "composition": "40-40-20 mol%",
+      "equation": "d = 2.281 - 4.821 x 10^-4 T",
+      "temperature": "1078-1195 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-KCl-MgCl2",
+      "composition": "40-20-40 mol%",
+      "equation": "d = 2.362 - 5.097 x 10^-4 T",
+      "temperature": "1078-1200 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-KCl-MgCl2",
+      "composition": "60-20-20 mol%",
+      "equation": "d = 2.4 - 4.749 x 10^-4 T",
+      "temperature": "1095-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3",
+      "composition": "0-100 mol%",
+      "equation": "d = 4.0742 - 7.436 x 10^-4 T",
+      "temperature": "1173-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3",
+      "composition": "12.3-87.7 mol%",
+      "equation": "d = 4.113 - 8.386 x 10^-4 T",
+      "temperature": "1170-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3",
+      "composition": "25.2-74.8 mol%",
+      "equation": "d = 3.9523 - 8.089 x 10^-4 T",
+      "temperature": "1158-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3",
+      "composition": "37.9-62.1 mol%",
+      "equation": "d = 3.7984 - 7.913 x 10^-4 T",
+      "temperature": "1133-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3",
+      "composition": "50.0-50.0 mol%",
+      "equation": "d = 3.4343 - 5.755 x 10^-4 T",
+      "temperature": "1113-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3",
+      "composition": "61.9-38.1 mol%",
+      "equation": "d = 3.5606 - 8.076 x 10^-4 T",
+      "temperature": "1073-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3",
+      "composition": "75.0-25.0 mol%",
+      "equation": "d = 4.0791 - 0.0014529 T",
+      "temperature": "1073-1271 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3",
+      "composition": "88.0-12.0 mol%",
+      "equation": "d = 2.85 - 5.152 x 10^-4 T",
+      "temperature": "1103-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.5377 - 4.167 x 10^-4 T",
+      "temperature": "1124-1274 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "0-100-0 mol%",
+      "equation": "d = 4.0108 - 6.93 x 10^-4 T",
+      "temperature": "1173-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "3.5-85.8-10.7 mol%",
+      "equation": "d = 3.9981 - 8.156 x 10^-4 T",
+      "temperature": "1173-1278 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "7.25-85.5-7.25 mol%",
+      "equation": "d = 3.9041 - 7.391 x 10^-4 T",
+      "temperature": "1223-1263 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "7.3-70.9-21.8 mol%",
+      "equation": "d = 3.8732 - 8.195 x 10^-4 T",
+      "temperature": "1173-1275 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "10.4-58.5-31.1 mol%",
+      "equation": "d = 3.7689 - 8.596 x 10^-4 T",
+      "temperature": "1083-1272 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "11.25-85.0-3.75 mol%",
+      "equation": "d = 4.0092 - 8.252 x 10^-4 T",
+      "temperature": "1173-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "14.35-42.6-43.05 mol%",
+      "equation": "d = 3.4641 - 7.873 x 10^-4 T",
+      "temperature": "1038-1276 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "15.1-69.8-15.1 mol%",
+      "equation": "d = 3.6671 - 6.514 x 10^-4 T",
+      "temperature": "1123-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "18.0-28.1-53.9 mol%",
+      "equation": "d = 3.1287 - 6.967 x 10^-4 T",
+      "temperature": "1050-1274 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "21.6-13.6-64.8 mol%",
+      "equation": "d = 2.7662 - 6.311 x 10^-4 T",
+      "temperature": "1023-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "22.5-70.0-7.5 mol%",
+      "equation": "d = 3.7041 - 6.612 x 10^-4 T",
+      "temperature": "1155-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "25-0-75 mol%",
+      "equation": "d = 2.3737 - 5.815 x 10^-4 T",
+      "temperature": "1063-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "25.2-49.6-25.2 mol%",
+      "equation": "d = 3.4351 - 6.587 x 10^-4 T",
+      "temperature": "1053-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "32.5-35.0-32.5 mol%",
+      "equation": "d = 3.2685 - 6.653 x 10^-4 T",
+      "temperature": "1033-1283 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "33.19-55.75-11.06 mol%",
+      "equation": "d = 3.6471 - 7.442 x 10^-4 T",
+      "temperature": "1073-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "40.25-19.5-40.25 mol%",
+      "equation": "d = 2.8854 - 5.607 x 10^-4 T",
+      "temperature": "1033-1248 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "43.7-41.7-14.6 mol%",
+      "equation": "d = 3.4196 - 6.934 x 10^-4 T",
+      "temperature": "1061-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "44.8-10.4-44.8 mol%",
+      "equation": "d = 2.6323 - 4.897 x 10^-4 T",
+      "temperature": "1023-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "50-0-50 mol%",
+      "equation": "d = 2.4208 - 5.114 x 10^-4 T",
+      "temperature": "1023-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "54.5-27.3-18.2 mol%",
+      "equation": "d = 3.2068 - 6.638 x 10^-4 T",
+      "temperature": "1063-1275 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "64.8-13.6-21.6 mol%",
+      "equation": "d = 2.8776 - 5.593 x 10^-4 T",
+      "temperature": "1038-1272 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LaCl3-NaCl",
+      "composition": "75-0-25 mol%",
+      "equation": "d = 2.4935 - 4.58 x 10^-4 T",
+      "temperature": "1043-1278 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "0-100 mol%",
+      "equation": "d = 1.8767 - 4.2 x 10^-4 T",
+      "temperature": "903-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "10-90 mol%",
+      "equation": "d = 1.9945 - 4.3 x 10^-4 T",
+      "temperature": "884-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "20-80 mol%",
+      "equation": "d = 2.0718 - 4.2 x 10^-4 T",
+      "temperature": "859-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "30-70 mol%",
+      "equation": "d = 2.1411 - 4.1 x 10^-4 T",
+      "temperature": "827-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "40-60 mol%",
+      "equation": "d = 2.2101 - 4.1 x 10^-4 T",
+      "temperature": "798-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "50-50 mol%",
+      "equation": "d = 2.2633 - 4. x 10^-4 T",
+      "temperature": "852-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "60-40 mol%",
+      "equation": "d = 2.3407 - 4.2 x 10^-4 T",
+      "temperature": "892-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "70-30 mol%",
+      "equation": "d = 2.3703 - 4. x 10^-4 T",
+      "temperature": "931-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "80-20 mol%",
+      "equation": "d = 2.4169 - 4. x 10^-4 T",
+      "temperature": "982-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "90-10 mol%",
+      "equation": "d = 2.4186 - 3.9 x 10^-4 T",
+      "temperature": "1029-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_049",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-LiCl",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.4852 - 3.9 x 10^-4 T",
+      "temperature": "1075-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_050",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-MgCl2",
+      "composition": "0.0-100.0 mol%",
+      "equation": "d = 1.95 - 2.705 x 10^-4 T",
+      "temperature": "1020-1090 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P031_051",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-MgCl2",
+      "composition": "19.4-80.6 mol%",
+      "equation": "d = 2.4864 - 4.436 x 10^-4 T",
+      "temperature": "1060-1130 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

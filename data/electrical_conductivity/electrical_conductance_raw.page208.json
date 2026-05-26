@@ -1,0 +1,665 @@
+[
+  {
+    "index": "EXP_EC_P208_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-PbBr2",
+      "composition": "0-100 mol%",
+      "equation": "k = 9.727 exp(-14634.20323/RT)",
+      "temperature": "660-1080 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-PbBr2",
+      "composition": "8.8-91.2 mol%",
+      "equation": "k = 7.096 exp(-12595.724383/RT)",
+      "temperature": "780-1060 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-PbBr2",
+      "composition": "18.0-82.0 mol%",
+      "equation": "k = 5.655 exp(-11191.96884/RT)",
+      "temperature": "840-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-PbBr2",
+      "composition": "30.9-69.1 mol%",
+      "equation": "k = 7.365 exp(-13699.9004/RT)",
+      "temperature": "660-1100 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-PbBr2",
+      "composition": "41.7-58.3 mol%",
+      "equation": "k = 6.074 exp(-12674.80325/RT)",
+      "temperature": "780-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-PbBr2",
+      "composition": "55.0-45.0 mol%",
+      "equation": "k = 8.204 exp(-15567.25084/RT)",
+      "temperature": "680-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-PbBr2",
+      "composition": "65.8-34.2 mol%",
+      "equation": "k = 7.157 exp(-14539.22484/RT)",
+      "temperature": "780-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-PbBr2",
+      "composition": "81.7-18.3 mol%",
+      "equation": "k = 7.805 exp(-14978.9706/RT)",
+      "temperature": "840-1180 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-PbBr2",
+      "composition": "89.4-10.6 mol%",
+      "equation": "k = 6.406 exp(-12682.75298/RT)",
+      "temperature": "1020-1140 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbBr",
+      "composition": "0-100 mol%",
+      "equation": "k = 4.781 exp(-11525.85763/RT)",
+      "temperature": "980-1140 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbBr",
+      "composition": "50-50 mol%",
+      "equation": "k = 5.48 exp(-11430.46083/RT)",
+      "temperature": "980-1130 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbBr",
+      "composition": "100-0 mol%",
+      "equation": "k = 6.395 exp(-11476.4856/RT)",
+      "temperature": "1030-1190 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "0-100 mol%",
+      "equation": "k = 6.3915 exp(-11454.72844/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "10-90 mol%",
+      "equation": "k = 6.0224 exp(-11022.0956/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "20-80 mol%",
+      "equation": "k = 5.9834 exp(-11048.87365/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "30-70 mol%",
+      "equation": "k = 5.9996 exp(-11176.90619/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "40-60 mol%",
+      "equation": "k = 6.0082 exp(-11241.75928/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "50-50 mol%",
+      "equation": "k = 6.5291 exp(-12023.34355/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "60-40 mol%",
+      "equation": "k = 6.4813 exp(-11992.38143/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "70-30 mol%",
+      "equation": "k = 7.0328 exp(-12707.8574/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "80-20 mol%",
+      "equation": "k = 6.5291 exp(-12023.34355/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "90-10 mol%",
+      "equation": "k = 6.5291 exp(-12023.34355/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-RbCl",
+      "composition": "100-0 mol%",
+      "equation": "k = 6.0642 exp(-11342.59536/RT)",
+      "temperature": "1043-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ScBr3",
+      "composition": "30-70 mol%",
+      "equation": "k = 0.5",
+      "temperature": "1153 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ScBr3",
+      "composition": "40-60 mol%",
+      "equation": "k = 2.73832 exp(-15100.72704/RT)",
+      "temperature": "1113-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ScBr3",
+      "composition": "50-50 mol%",
+      "equation": "k = 8.94146 exp(-24163.84106/RT)",
+      "temperature": "1033-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ScBr3",
+      "composition": "60-40 mol%",
+      "equation": "k = 8.478 exp(-21506.1198/RT)",
+      "temperature": "993-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ScBr3",
+      "composition": "70-30 mol%",
+      "equation": "k = 5.48517 exp(-19583.98712/RT)",
+      "temperature": "993-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ScBr3",
+      "composition": "80-20 mol%",
+      "equation": "k = 6.63333 exp(-16498.20642/RT)",
+      "temperature": "993-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ScBr3",
+      "composition": "90-10 mol%",
+      "equation": "k = 6.5104 exp(-13839.64834/RT)",
+      "temperature": "993-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ScBr3",
+      "composition": "100-0 mol%",
+      "equation": "k = 5.8977 exp(-10764.7753/RT)",
+      "temperature": "1033-1233 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-TlBr",
+      "composition": "0.0-100.0 mol%",
+      "equation": "k = 6.388 exp(-12532.96328/RT)",
+      "temperature": "760-960 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-TlBr",
+      "composition": "5.5-94.5 mol%",
+      "equation": "k = 6.147 exp(-12192.37998/RT)",
+      "temperature": "820-960 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-TlBr",
+      "composition": "16.0-84.0 mol%",
+      "equation": "k = 7.061 exp(-13157.64493/RT)",
+      "temperature": "760-900 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-TlBr",
+      "composition": "20.4-79.6 mol%",
+      "equation": "k = 6.173 exp(-12081.92053/RT)",
+      "temperature": "940-1020 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-TlBr",
+      "composition": "27.0-73.0 mol%",
+      "equation": "k = 5.159 exp(-10608.29108/RT)",
+      "temperature": "940-1060 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-TlBr",
+      "composition": "35.0-65.0 mol%",
+      "equation": "k = 6.895 exp(-12825.84818/RT)",
+      "temperature": "900-980 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-TlBr",
+      "composition": "51.0-49.0 mol%",
+      "equation": "k = 6.006 exp(-11727.94821/RT)",
+      "temperature": "900-1060 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-TlBr",
+      "composition": "73.6-26.4 mol%",
+      "equation": "k = 6.095 exp(-11594.47638/RT)",
+      "temperature": "960-1060 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-TlBr",
+      "composition": "86.0-14.0 mol%",
+      "equation": "k = 5.933 exp(-11225.86981/RT)",
+      "temperature": "1000-1040 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-TlBr",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 5.283 exp(-9807.04167/RT)",
+      "temperature": "1040-1240 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ZnSO4",
+      "composition": "27.29-72.71 mol%",
+      "equation": "k = 32.1122 exp(-36158.73294/RT)",
+      "temperature": "770-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ZnSO4",
+      "composition": "28.38-71.62 mol%",
+      "equation": "k = 18.7454 exp(-31037.43126/RT)",
+      "temperature": "770-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ZnSO4",
+      "composition": "31.00-69.00 mol%",
+      "equation": "k = 32.9384 exp(-34673.8065/RT)",
+      "temperature": "770-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ZnSO4",
+      "composition": "32.36-67.64 mol%",
+      "equation": "k = 35.4437 exp(-35414.80529/RT)",
+      "temperature": "770-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ZnSO4",
+      "composition": "33.38-66.62 mol%",
+      "equation": "k = 56.7977 exp(-39059.13026/RT)",
+      "temperature": "770-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ZnSO4",
+      "composition": "34.50-65.50 mol%",
+      "equation": "k = 11.1585 exp(-28032.01378/RT)",
+      "temperature": "770-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ZnSO4",
+      "composition": "35.00-65.00 mol%",
+      "equation": "k = 36.0838 exp(-35761.24629/RT)",
+      "temperature": "770-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_049",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ZnSO4",
+      "composition": "36.10-63.90 mol%",
+      "equation": "k = 74.186 exp(-40833.59799/RT)",
+      "temperature": "770-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_050",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ZnSO4",
+      "composition": "37.82-62.18 mol%",
+      "equation": "k = 70.9028 exp(-39851.17472/RT)",
+      "temperature": "750-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P208_051",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-ZnSO4",
+      "composition": "40.00-60.00 mol%",
+      "equation": "k = 39.497 exp(-35451.2067/RT)",
+      "temperature": "750-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

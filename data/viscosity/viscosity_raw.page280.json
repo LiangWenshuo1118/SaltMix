@@ -1,0 +1,548 @@
+[
+  {
+    "index": "EXP_VIS_P280_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "B2O3-Na3AlF6",
+      "composition": "96.8-3.2 mol%",
+      "equation": "v = 0.072912 exp (96915.61341/RT)",
+      "temperature": "873-1023 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "B2O3-Na3AlF6",
+      "composition": "98.4-1.6 mol%",
+      "equation": "v = 0.08357 exp (1.0204235438 x 10^5/RT)",
+      "temperature": "873-1023 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "B2O3-Rb2CO3",
+      "composition": "97.0-3.0 mol%",
+      "equation": "v = 0.006918 exp (1.1820457998 x 10^5/RT)",
+      "temperature": "873-1023 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "B2O3-Rb2CO3",
+      "composition": "99.0-1.0 mol%",
+      "equation": "v = 0.4838 exp (88069.23421/RT)",
+      "temperature": "873-1023 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2",
+      "composition": "100 mol%",
+      "equation": "v = 0.10215 exp (30350.99274/RT)",
+      "temperature": "980-1240 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-NaCl",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.01395 exp (42290.06912/RT)",
+      "temperature": "1100-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-NaCl",
+      "composition": "10-90 mol%",
+      "equation": "v = 0.005655 exp (52052.34124/RT)",
+      "temperature": "1050-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-NaCl",
+      "composition": "20-80 mol%",
+      "equation": "v = 0.01433 exp (44631.47469/RT)",
+      "temperature": "1000-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-NaCl",
+      "composition": "30-70 mol%",
+      "equation": "v = 0.03606 exp (37282.99255/RT)",
+      "temperature": "980-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-NaCl",
+      "composition": "40-60 mol%",
+      "equation": "v = 0.15 exp (25498.9778/RT)",
+      "temperature": "930-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-NaCl",
+      "composition": "50-50 mol%",
+      "equation": "v = 0.2175 exp (23409.45324/RT)",
+      "temperature": "930-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-NaCl",
+      "composition": "60-40 mol%",
+      "equation": "v = 0.3268 exp (20722.8619/RT)",
+      "temperature": "930-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-NaCl",
+      "composition": "80-20 mol%",
+      "equation": "v = 0.3321 exp (22546.2796/RT)",
+      "temperature": "980-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-NaCl",
+      "composition": "90-10 mol%",
+      "equation": "v = 0.3743 exp (22346.69946/RT)",
+      "temperature": "1030-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-NaCl",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.1715 exp (28610.25225/RT)",
+      "temperature": "1030-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "75-25 mol%",
+      "equation": "v = 29111.2 - 12.8903 T - 0.0041496 T^2 + 1.88 x 10^-6 T^3",
+      "temperature": "2190-2490 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "51.9-48.1 mol%",
+      "equation": "v = 1.5",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "55.0-45.0 mol%",
+      "equation": "v = 1",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "56.1-43.9 mol%",
+      "equation": "v = 0.8",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "56.6-43.4 mol%",
+      "equation": "v = 0.6",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "57.2-42.8 mol%",
+      "equation": "v = 0.4",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "58.2-41.8 mol%",
+      "equation": "v = 0.3",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "62.2-37.8 mol%",
+      "equation": "v = 0.2",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-MgO",
+      "composition": "67.38-32.62 mol%",
+      "equation": "v = 0.020597 exp (99367.47843/RT)",
+      "temperature": "1475-1621 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-Na3AlF6",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.1856 exp (20769.72348/RT)",
+      "temperature": "1303-1343 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-TiO2",
+      "composition": "6.4-93.6 mol%",
+      "equation": "v = 0.0759572 exp (30804.79697/RT)",
+      "temperature": "1300-1340 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-TiO2",
+      "composition": "12.4-87.6 mol%",
+      "equation": "v = 0.0479496 exp (35979.23634/RT)",
+      "temperature": "1300-1340 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-TiO2",
+      "composition": "23.0-77.0 mol%",
+      "equation": "v = 0.039205 exp (38316.45784/RT)",
+      "temperature": "1300-1340 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-TiO2",
+      "composition": "95-5 mol%",
+      "equation": "v = 2.75",
+      "temperature": "1570 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-Y2O3",
+      "composition": "97.79-2.21 mol%",
+      "equation": "v = 3.047 x 10^-4 exp (1.633042521 x 10^5/RT)",
+      "temperature": "1562-1773 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.064641 exp (19388.98038/RT)",
+      "temperature": "626-667 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "20-80 mol%",
+      "equation": "v = 0.04063 exp (23632.46417/RT)",
+      "temperature": "500-670 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "26-74 mol%",
+      "equation": "v = 0.00111287 exp (40204.31022/RT)",
+      "temperature": "450-525 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "26-74 mol%",
+      "equation": "v = 0.044748 exp (23840.83086/RT)",
+      "temperature": "526-667 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "33-67 mol%",
+      "equation": "v = 55791.1 - 334.8012 T + 0.670742 T^2 - 4.4842 x 10^-4 T^3",
+      "temperature": "440-525 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "33-67 mol%",
+      "equation": "v = 0.037111 exp (25426.59339/RT)",
+      "temperature": "526-667 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "36-64 mol%",
+      "equation": "v = 1.451 x 10^-4 exp (50447.33199/RT)",
+      "temperature": "460-525 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "36-64 mol%",
+      "equation": "v = 0.023373 exp (28296.86541/RT)",
+      "temperature": "526-667 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "40-60 mol%",
+      "equation": "v = 39145.8 - 220.977 T + 0.41596 T^2 - 2.6094 x 10^-4 T^3",
+      "temperature": "450-525 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "40-60 mol%",
+      "equation": "v = 0.019033 exp (30250.8261/RT)",
+      "temperature": "526-667 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "45-55 mol%",
+      "equation": "v = 6.679 x 10^-5 exp (56171.13975/RT)",
+      "temperature": "480-525 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P280_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ca(NO3)2-KNO3",
+      "composition": "45-55 mol%",
+      "equation": "v = 0.010472 exp (33727.78827/RT)",
+      "temperature": "526-667 K",
+      "unit": "mN s m^-2"
+    }
+  }
+]

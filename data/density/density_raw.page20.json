@@ -1,0 +1,613 @@
+[
+  {
+    "index": "EXP_DEN_P020_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-LiNO3",
+      "composition": "50-50 mol%",
+      "equation": "d = 3.395 - 9.07 x 10^-4 T",
+      "temperature": "473-615 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-LiNO3",
+      "composition": "60-40 mol%",
+      "equation": "d = 3.6925 - 0.001061 T",
+      "temperature": "463-613 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-LiNO3",
+      "composition": "70-30 mol%",
+      "equation": "d = 3.8696 - 0.001018 T",
+      "temperature": "453-613 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-LiNO3",
+      "composition": "80-20 mol%",
+      "equation": "d = 4.0901 - 0.001059 T",
+      "temperature": "453-613 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-LiNO3",
+      "composition": "90-10 mol%",
+      "equation": "d = 4.3095 - 0.001092 T",
+      "temperature": "473-613 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-LiNO3",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.503 - 0.001098 T",
+      "temperature": "483-633 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "90-10 mol%",
+      "equation": "d = 4.1905 - 0.0010813 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "91-9 mol%",
+      "equation": "d = 4.2251 - 0.0010908 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "92-8 mol%",
+      "equation": "d = 4.2558 - 0.0010929 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "93-7 mol%",
+      "equation": "d = 4.2894 - 0.0011003 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "94-6 mol%",
+      "equation": "d = 4.3205 - 0.0011033 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "95-5 mol%",
+      "equation": "d = 4.3539 - 0.001106 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "96-4 mol%",
+      "equation": "d = 4.3849 - 0.001113 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "97-3 mol%",
+      "equation": "d = 4.418 - 0.0011198 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "98-2 mol%",
+      "equation": "d = 4.4501 - 0.0011125 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "99-1 mol%",
+      "equation": "d = 4.4844 - 0.0011335 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-Mg(NO3)2",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.5147 - 0.0011348 T",
+      "temperature": "485-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-NaNO3",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.3569 - 7.5 x 10^-4 T",
+      "temperature": "583-673 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-NaNO3",
+      "composition": "20-80 mol%",
+      "equation": "d = 2.8 - 8.6 x 10^-4 T",
+      "temperature": "573-633 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-NaNO3",
+      "composition": "40-60 mol%",
+      "equation": "d = 3.2373 - 9.6 x 10^-4 T",
+      "temperature": "553-623 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-NaNO3",
+      "composition": "60-40 mol%",
+      "equation": "d = 3.6923 - 0.00107 T",
+      "temperature": "523-621 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-NaNO3",
+      "composition": "80-20 mol%",
+      "equation": "d = 4.1045 - 0.0011 T",
+      "temperature": "493-615 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-NaNO3",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.503 - 0.001098 T",
+      "temperature": "483-633 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "0-100 mol%",
+      "equation": "d = 3.109 - 0.001001 T",
+      "temperature": "600-640 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "10-90 mol%",
+      "equation": "d = 3.228 - 0.00105 T",
+      "temperature": "553-653 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "20-80 mol%",
+      "equation": "d = 3.384 - 0.00114 T",
+      "temperature": "513-643 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "30-70 mol%",
+      "equation": "d = 3.519 - 0.001185 T",
+      "temperature": "453-643 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "40-60 mol%",
+      "equation": "d = 3.655 - 0.00121 T",
+      "temperature": "433-633 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "50-50 mol%",
+      "equation": "d = 3.789 - 0.00122 T",
+      "temperature": "433-623 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "60-40 mol%",
+      "equation": "d = 3.922 - 0.00121 T",
+      "temperature": "433-633 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "70-30 mol%",
+      "equation": "d = 4.061 - 0.0012 T",
+      "temperature": "433-623 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "80-20 mol%",
+      "equation": "d = 4.194 - 0.00116 T",
+      "temperature": "463-623 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "90-10 mol%",
+      "equation": "d = 4.329 - 0.001107 T",
+      "temperature": "463-613 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-RbNO3",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.463 - 0.001036 T",
+      "temperature": "490-630 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "0-100 mol%",
+      "equation": "d = 5.807 - 0.001858 T",
+      "temperature": "490-620 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "10-90 mol%",
+      "equation": "d = 5.695 - 0.00178 T",
+      "temperature": "470-600 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "20-80 mol%",
+      "equation": "d = 5.582 - 0.00171 T",
+      "temperature": "443-593 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "30-70 mol%",
+      "equation": "d = 5.467 - 0.00163 T",
+      "temperature": "440-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "40-60 mol%",
+      "equation": "d = 5.351 - 0.00156 T",
+      "temperature": "433-593 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "50-50 mol%",
+      "equation": "d = 5.23 - 0.00149 T",
+      "temperature": "440-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "60-40 mol%",
+      "equation": "d = 5.103 - 0.00142 T",
+      "temperature": "433-593 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "70-30 mol%",
+      "equation": "d = 4.97 - 0.00135 T",
+      "temperature": "440-590 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "80-20 mol%",
+      "equation": "d = 4.828 - 0.00127 T",
+      "temperature": "443-593 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "90-10 mol%",
+      "equation": "d = 4.684 - 0.00121 T",
+      "temperature": "470-600 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgNO3-TlNO3",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.521 - 0.00113 T",
+      "temperature": "490-630 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ag2S",
+      "composition": "100 mol%",
+      "equation": "d = 7.5329 - 9.132 x 10^-4 T",
+      "temperature": "1173-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P020_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ag2Se",
+      "composition": "100 mol%",
+      "equation": "d = 8.4199 - 9.746 x 10^-4 T",
+      "temperature": "1170-1250 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

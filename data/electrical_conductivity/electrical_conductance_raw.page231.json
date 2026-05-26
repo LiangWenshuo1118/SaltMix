@@ -1,0 +1,522 @@
+[
+  {
+    "index": "EXP_EC_P231_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-UF4",
+      "composition": "100-0 mol%",
+      "equation": "k = 20.081 exp(-7576.09555/RT)",
+      "temperature": "1160-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-YF3",
+      "composition": "40.0-60.0 mol%",
+      "equation": "k = 32.621 exp(-25275.96687/RT)",
+      "temperature": "1180-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-YF3",
+      "composition": "50.0-50.0 mol%",
+      "equation": "k = 35.232 exp(-25025.34108/RT)",
+      "temperature": "1140-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-YF3",
+      "composition": "60.0-40.0 mol%",
+      "equation": "k = 35.317 exp(-22668.87285/RT)",
+      "temperature": "1080-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-YF3",
+      "composition": "70.0-30.0 mol%",
+      "equation": "k = 24.386 exp(-16881.04882/RT)",
+      "temperature": "1080-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-YF3",
+      "composition": "81.0-19.0 mol%",
+      "equation": "k = 26.137 exp(-15133.78119/RT)",
+      "temperature": "980-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-YF3",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 20.548 exp(-7807.05621/RT)",
+      "temperature": "1160-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiH",
+      "composition": "100 mol%",
+      "equation": "k = 100.7 exp(-9765.20097/RT)",
+      "temperature": "973-1073 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI",
+      "composition": "100 mol%",
+      "equation": "k = 10.113 exp(-5903.72277/RT)",
+      "temperature": "756-877 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "0.0-100.0 mol%",
+      "equation": "k = 5.465 exp(-6480.70602/RT)",
+      "temperature": "950-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "29.8-70.2 mol%",
+      "equation": "k = 6.091 exp(-6307.48553/RT)",
+      "temperature": "880-1040 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "50.4-49.6 mol%",
+      "equation": "k = 6.491 exp(-5796.61058/RT)",
+      "temperature": "890-1040 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "54.6-45.4 mol%",
+      "equation": "k = 6.74 exp(-6043.0523/RT)",
+      "temperature": "860-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "55.2-44.8 mol%",
+      "equation": "k = 5.937 exp(-4916.70066/RT)",
+      "temperature": "850-1020 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "75.7-24.3 mol%",
+      "equation": "k = 7.251 exp(-5431.34127/RT)",
+      "temperature": "860-1050 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-NaI",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 10.028 exp(-5864.39251/RT)",
+      "temperature": "770-910 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "0.0-100.0 mol%",
+      "equation": "k = 4.186 exp(-11976.06356/RT)",
+      "temperature": "930-1050 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "27.1-72.9 mol%",
+      "equation": "k = 5.054 exp(-11930.87561/RT)",
+      "temperature": "880-1050 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "55.2-44.8 mol%",
+      "equation": "k = 5.701 exp(-9698.67426/RT)",
+      "temperature": "860-1030 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "91.0-9.0 mol%",
+      "equation": "k = 7.729 exp(-6197.02608/RT)",
+      "temperature": "860-1030 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiI-RbI",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 10.028 exp(-5864.39251/RT)",
+      "temperature": "770-910 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2",
+      "composition": "100 mol%",
+      "equation": "k = 44.82 exp(-17426.65155/RT)",
+      "temperature": "502-527 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO2",
+      "composition": "0-100 mol%",
+      "equation": "k = 1.43",
+      "temperature": "573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO2",
+      "composition": "13-87 mol%",
+      "equation": "k = 9.00374 exp(-8936.33671/RT)",
+      "temperature": "553-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO2",
+      "composition": "20-80 mol%",
+      "equation": "k = 11.4363 exp(-10178.58709/RT)",
+      "temperature": "533-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO2",
+      "composition": "30-70 mol%",
+      "equation": "k = 15.105 exp(-11662.25831/RT)",
+      "temperature": "513-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO2",
+      "composition": "39-61 mol%",
+      "equation": "k = 20.801 exp(-13274.79889/RT)",
+      "temperature": "493-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO2",
+      "composition": "50-50 mol%",
+      "equation": "k = 27.2844 exp(-14707.84286/RT)",
+      "temperature": "473-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO2",
+      "composition": "78-22 mol%",
+      "equation": "k = 42.4249 exp(-17272.25937/RT)",
+      "temperature": "473-553 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO2",
+      "composition": "90-10 mol%",
+      "equation": "k = 24.828 exp(-15240.05657/RT)",
+      "temperature": "493-553 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO2",
+      "composition": "100-0 mol%",
+      "equation": "k = 12.6069 exp(-12449.70029/RT)",
+      "temperature": "513-553 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO3",
+      "composition": "0-100 mol%",
+      "equation": "k = 11.1087 exp(-11587.36346/RT)",
+      "temperature": "593-633 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO3",
+      "composition": "22-78 mol%",
+      "equation": "k = 10.6373 exp(-11139.24956/RT)",
+      "temperature": "533-633 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO3",
+      "composition": "28-72 mol%",
+      "equation": "k = 9.39185 exp(-10437.99943/RT)",
+      "temperature": "513-633 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO3",
+      "composition": "41-59 mol%",
+      "equation": "k = 11.7516 exp(-11362.6789/RT)",
+      "temperature": "473-613 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO3",
+      "composition": "50-50 mol%",
+      "equation": "k = 12.1329 exp(-11420.00066/RT)",
+      "temperature": "473-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO3",
+      "composition": "60-40 mol%",
+      "equation": "k = 16.3327 exp(-12696.56042/RT)",
+      "temperature": "433-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO3",
+      "composition": "75-25 mol%",
+      "equation": "k = 16.4227 exp(-12638.40184/RT)",
+      "temperature": "433-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO3",
+      "composition": "80-20 mol%",
+      "equation": "k = 13.2914 exp(-11689.87317/RT)",
+      "temperature": "453-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P231_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO2-NaNO3",
+      "composition": "92-8 mol%",
+      "equation": "k = 11.7157 exp(-11159.7515/RT)",
+      "temperature": "473-553 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

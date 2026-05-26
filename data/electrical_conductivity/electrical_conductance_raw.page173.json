@@ -1,0 +1,509 @@
+[
+  {
+    "index": "EXP_EC_P173_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "30-70 mol%",
+      "equation": "k = 0.7565 exp(-8435.92193/RT)",
+      "temperature": "434-493 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "40-60 mol%",
+      "equation": "k = 1.181 exp(-10227.95912/RT)",
+      "temperature": "447-491 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "50-50 mol%",
+      "equation": "k = 1.612 exp(-11904.51596/RT)",
+      "temperature": "455-483 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "55-45 mol%",
+      "equation": "k = 1.411 exp(-11764.76803/RT)",
+      "temperature": "456-491 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3",
+      "composition": "60-40 mol%",
+      "equation": "k = 0.8825 exp(-10248.04265/RT)",
+      "temperature": "466-490 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3-C9H13NCl",
+      "composition": "19-60-21 mol%",
+      "equation": "k = 15.06 exp(-19791.06951/RT)",
+      "temperature": "298-434 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlCl3-SbCl3-C9H13NCl",
+      "composition": "21-60-19 mol%",
+      "equation": "k = 9.089 exp(-18615.34584/RT)",
+      "temperature": "298-434 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-KF",
+      "composition": "25-75 mol%",
+      "equation": "k = 24.984 exp(-25634.12326/RT)",
+      "temperature": "1273-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-LiF",
+      "composition": "0-100 mol%",
+      "equation": "k = 22.198 exp(-9343.02831/RT)",
+      "temperature": "1130-1320 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-LiF",
+      "composition": "25-75 mol%",
+      "equation": "k = 6.852 exp(-5215.86166/RT)",
+      "temperature": "1180-1320 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "0-100 mol%",
+      "equation": "k = 19.932 exp(-13592.3698/RT)",
+      "temperature": "1273-1353 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "13.8-86.2 mol%",
+      "equation": "k = 12.569 exp(-12507.85886/RT)",
+      "temperature": "1273-1363 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "20.0-80.0 mol%",
+      "equation": "k = 9.8098 exp(-11894.05579/RT)",
+      "temperature": "1273-1363 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "21.9-78.1 mol%",
+      "equation": "k = 9.445 exp(-11714.55919/RT)",
+      "temperature": "1273-1363 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "25.0-75.0 mol%",
+      "equation": "k = 8.896 exp(-12238.82316/RT)",
+      "temperature": "1273-1363 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "29.7-70.3 mol%",
+      "equation": "k = 8.01 exp(-11596.15001/RT)",
+      "temperature": "1273-1353 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "32.3-67.7 mol%",
+      "equation": "k = 7.231 exp(-10825.86272/RT)",
+      "temperature": "1273-1353 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-Na3AlF6",
+      "composition": "0-100 mol%",
+      "equation": "k = 8.896 exp(-12238.82316/RT)",
+      "temperature": "1300-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-Na3AlF6",
+      "composition": "11.6-88.4 mol%",
+      "equation": "k = 7.81419 exp(-11327.53271/RT)",
+      "temperature": "1270-1350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-Na3AlF6",
+      "composition": "17.9-82.1 mol%",
+      "equation": "k = 7.09307 exp(-10617.49603/RT)",
+      "temperature": "1270-1350 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3",
+      "composition": "100 mol%",
+      "equation": "k = 0.1876 exp(-45133.56309/RT)",
+      "temperature": "464-530 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-CdI2",
+      "composition": "91.96-8.04 mol%",
+      "equation": "k = 0.06177 exp(-14641.73456/RT)",
+      "temperature": "470-580 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-CdI2",
+      "composition": "2.48-27.24 mol% CdI2",
+      "equation": "k = 0.001065 - 6.472 x 10^-4 C + 1.169 x 10^-4 C^2 - 4.504 x 10^-6 C^3 + 5.597 x 10^-8 C^4",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-CuI",
+      "composition": "73.97-26.03 mol%",
+      "equation": "k = 0.005567",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-CuI",
+      "composition": "73.97-26.03 mol%",
+      "equation": "k = 252.37 exp(-42799.27044/RT)",
+      "temperature": "470-570 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-CuI",
+      "composition": "85.43-14.57 mol%",
+      "equation": "k = 0.004779",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-CuI",
+      "composition": "87.97-12.03 mol%",
+      "equation": "k = 0.002707",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-CuI",
+      "composition": "93.17-6.83 mol%",
+      "equation": "k = 0.002004",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-CuI",
+      "composition": "96.78-3.22 mol%",
+      "equation": "k = 0.0006657",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-CuI",
+      "composition": "98.20-1.80 mol%",
+      "equation": "k = 0.000127",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-HgI2",
+      "composition": "89.54-10.46 mol%",
+      "equation": "k = 0.005255 exp(-3381.10513/RT)",
+      "temperature": "470-580 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-HgI2",
+      "composition": "0.66-37.74 mol% HgI2",
+      "equation": "k = 4.542 x 10^-4 - 4.093 x 10^-4 C + 6.8494 x 10^-5 C^2 - 1.202 x 10^-6 C^3 + 1.0691 x 10^-8 C^4",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-HgI2",
+      "composition": "47.64-75.2 mol% HgI2",
+      "equation": "k = 2.3071 - 0.12051 C + 0.00207 C^2 + 1.1103 x 10^-5 C^3",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-KI",
+      "composition": "79.99-20.01 mol%",
+      "equation": "k = 3.408 exp(-17624.13965/RT)",
+      "temperature": "470-580 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-KI",
+      "composition": "0.83-46.5 mol% KI",
+      "equation": "k = -4.679 x 10^-4 + 5.292 x 10^-4 C + 1.012 x 10^-4 C^2 - 2.708 x 10^-6 C^3 + 3.239 x 10^-8 C^4",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-SbI3",
+      "composition": "0-100 mol%",
+      "equation": "k = 0.0002099",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-SbI3",
+      "composition": "7.05-92.95 mol%",
+      "equation": "k = 0.007524",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-SbI3",
+      "composition": "88.73-11.27 mol%",
+      "equation": "k = -0.0113589 + 5.23513 x 10^-5 T - 4.9963 x 10^-8 T^2",
+      "temperature": "470-580 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P173_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3-SbI3",
+      "composition": "2.35-72.81 mol% SbI3",
+      "equation": "k = 2.358 x 10^-4 + 7.439 x 10^-6 C + 2.107 x 10^-5 C^2 - 3.1095 x 10^-7 C^3 + 1.206 x 10^-9 C^4",
+      "temperature": "473 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

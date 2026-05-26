@@ -1,0 +1,639 @@
+[
+  {
+    "index": "EXP_DEN_P025_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "6-92-2 mol%",
+      "equation": "d = 2.071",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "6-90-4 mol%",
+      "equation": "d = 2.078",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "6-88-6 mol%",
+      "equation": "d = 2.083",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "9-91-0 mol%",
+      "equation": "d = 2.048",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "9-89-2 mol%",
+      "equation": "d = 2.06",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "9-87-4 mol%",
+      "equation": "d = 2.07",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "9-85-6 mol%",
+      "equation": "d = 2.075",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "12-88-0 mol%",
+      "equation": "d = 2.038",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "12-86-2 mol%",
+      "equation": "d = 2.051",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6-SiO2",
+      "composition": "12-84-4 mol%",
+      "equation": "d = 2.06",
+      "temperature": "1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2",
+      "composition": "100 mol%",
+      "equation": "d = 5.035 - 9.24 x 10^-4 T",
+      "temperature": "1123-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2-KBr",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.942 - 7.94 x 10^-4 T",
+      "temperature": "1020-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2-KBr",
+      "composition": "20.5-79.5 mol%",
+      "equation": "d = 3.574 - 9.37 x 10^-4 T",
+      "temperature": "930-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2-KBr",
+      "composition": "24.3-75.7 mol%",
+      "equation": "d = 3.556 - 8.49 x 10^-4 T",
+      "temperature": "930-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2-KBr",
+      "composition": "33.3-66.7 mol%",
+      "equation": "d = 3.803 - 8.96 x 10^-4 T",
+      "temperature": "920-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2-KBr",
+      "composition": "40.0-60.0 mol%",
+      "equation": "d = 3.974 - 9.3 x 10^-4 T",
+      "temperature": "920-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2-KBr",
+      "composition": "52.0-48.0 mol%",
+      "equation": "d = 4.18 - 9.06 x 10^-4 T",
+      "temperature": "910-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2-KBr",
+      "composition": "65.0-35.0 mol%",
+      "equation": "d = 4.356 - 8.75 x 10^-4 T",
+      "temperature": "970-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2-KBr",
+      "composition": "75.0-25.0 mol%",
+      "equation": "d = 4.704 - 0.001023 T",
+      "temperature": "1030-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2-KBr",
+      "composition": "85.0-15.0 mol%",
+      "equation": "d = 4.551 - 7.25 x 10^-4 T",
+      "temperature": "1090-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaBr2-KBr",
+      "composition": "100-0 mol%",
+      "equation": "d = 5.035 - 9.24 x 10^-4 T",
+      "temperature": "1120-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2",
+      "composition": "100 mol%",
+      "equation": "d = 4.0152 - 6.813 x 10^-4 T",
+      "temperature": "1239-1354 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-BaF2",
+      "composition": "0-100 BaF2 mol%",
+      "equation": "d = 2.94 + 0.003033 C + 7.536 x 10^-5 C^2 + 9.641 x 10^-7 C^3 - 1.019 x 10^-8 C^4",
+      "temperature": "1573 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CdCl2",
+      "composition": "0-100 mol%",
+      "equation": "d = 4.099 - 8.4 x 10^-4 T",
+      "temperature": "860-990 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CdCl2",
+      "composition": "17.1-82.9 mol%",
+      "equation": "d = 4.25 - 9.3 x 10^-4 T",
+      "temperature": "870-970 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CdCl2",
+      "composition": "36-64 mol%",
+      "equation": "d = 4.292 - 9.3 x 10^-4 T",
+      "temperature": "860-970 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CdCl2",
+      "composition": "54.2-45.8 mol%",
+      "equation": "d = 4.331 - 9.6 x 10^-4 T",
+      "temperature": "880-960 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "0-100 mol%",
+      "equation": "d = 3.7808 - 0.0010474 T",
+      "temperature": "980-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "11.42-88.58 mol%",
+      "equation": "d = 3.8593 - 0.0011065 T",
+      "temperature": "980-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "24.32-75.68 mol%",
+      "equation": "d = 3.8851 - 0.001073 T",
+      "temperature": "980-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "33.02-66.98 mol%",
+      "equation": "d = 3.8866 - 9.976 x 10^-4 T",
+      "temperature": "980-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "43.75-56.25 mol%",
+      "equation": "d = 3.9558 - 9.939 x 10^-4 T",
+      "temperature": "980-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "53.37-46.63 mol%",
+      "equation": "d = 3.9816 - 9.597 x 10^-4 T",
+      "temperature": "980-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "64.83-35.17 mol%",
+      "equation": "d = 4.1136 - 0.0010144 T",
+      "temperature": "980-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "72.41-27.59 mol%",
+      "equation": "d = 4.1154 - 9.691 x 10^-4 T",
+      "temperature": "980-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "75.28-24.72 mol%",
+      "equation": "d = 4.0725 - 9.099 x 10^-4 T",
+      "temperature": "980-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "84.77-15.23 mol%",
+      "equation": "d = 4.1382 - 9.142 x 10^-4 T",
+      "temperature": "980-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "100-0 mol%",
+      "equation": "d = 4.3316 - 9.844 x 10^-4 T",
+      "temperature": "1240-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.1559 - 6.103 x 10^-4 T",
+      "temperature": "1070-1160 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "8.4-91.6 mol%",
+      "equation": "d = 2.485 - 7.405 x 10^-4 T",
+      "temperature": "1070-1160 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "13.1-86.9 mol%",
+      "equation": "d = 2.2758 - 4.769 x 10^-4 T",
+      "temperature": "1070-1160 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "24.4-75.6 mol%",
+      "equation": "d = 2.7114 - 6.173 x 10^-4 T",
+      "temperature": "1070-1160 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "29.8-70.2 mol%",
+      "equation": "d = 2.858 - 6.838 x 10^-4 T",
+      "temperature": "1080-1170 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "33.3-66.7 mol%",
+      "equation": "d = 3.3797 - 0.0010894 T",
+      "temperature": "1070-1160 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "33.6-66.4 mol%",
+      "equation": "d = 2.9626 - 6.944 x 10^-4 T",
+      "temperature": "1070-1160 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "45.7-54.3 mol%",
+      "equation": "d = 3.2396 - 7.643 x 10^-4 T",
+      "temperature": "1070-1150 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "49.5-50.5 mol%",
+      "equation": "d = 3.1602 - 6.349 x 10^-4 T",
+      "temperature": "1060-1150 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "63.3-36.7 mol%",
+      "equation": "d = 3.4446 - 6.486 x 10^-4 T",
+      "temperature": "1100-1180 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P025_049",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-KCl",
+      "composition": "79.1-20.9 mol%",
+      "equation": "d = 3.7621 - 7.24 x 10^-4 T",
+      "temperature": "1160-1210 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

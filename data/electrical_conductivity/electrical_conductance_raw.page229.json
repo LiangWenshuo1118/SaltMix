@@ -1,0 +1,561 @@
+[
+  {
+    "index": "EXP_EC_P229_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3",
+      "composition": "100 mol%",
+      "equation": "k = 166.87 exp(-24476.39109/RT)",
+      "temperature": "404-446 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiNO3",
+      "composition": "70-30 mol%",
+      "equation": "k = 436.678 exp(-27556.28502/RT)",
+      "temperature": "420-440 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiNO3",
+      "composition": "74.5-25.5 mol%",
+      "equation": "k = 265.707 exp(-25811.94624/RT)",
+      "temperature": "410-440 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiNO3",
+      "composition": "79.4-20.6 mol%",
+      "equation": "k = 352.323 exp(-26873.4448/RT)",
+      "temperature": "400-440 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiNO3",
+      "composition": "81.9-18.1 mol%",
+      "equation": "k = 324.299 exp(-26634.11599/RT)",
+      "temperature": "400-440 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiNO3",
+      "composition": "84.4-15.6 mol%",
+      "equation": "k = 203.557 exp(-24927.85225/RT)",
+      "temperature": "410-440 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiNO3",
+      "composition": "100-0 mol%",
+      "equation": "k = 166.87 exp(-24476.39109/RT)",
+      "temperature": "400-440 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiOH",
+      "composition": "92.4-7.6 mol%",
+      "equation": "k = 138.711 exp(-24146.26797/RT)",
+      "temperature": "410-440 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO3-LiOH",
+      "composition": "100-0 mol%",
+      "equation": "k = 166.87 exp(-24476.39109/RT)",
+      "temperature": "410-440 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4",
+      "composition": "100 mol%",
+      "equation": "k = 14.831 exp(-13016.64177/RT)",
+      "temperature": "550-620 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "0-100 mol%",
+      "equation": "k = 20.5363 exp(-14023.74742/RT)",
+      "temperature": "540-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "5-95 mol%",
+      "equation": "k = 19.4848 exp(-13922.07452/RT)",
+      "temperature": "540-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "10-90 mol%",
+      "equation": "k = 19.555 exp(-14084.83484/RT)",
+      "temperature": "540-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "15-85 mol%",
+      "equation": "k = 20.5112 exp(-14408.26345/RT)",
+      "temperature": "520-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "20-80 mol%",
+      "equation": "k = 22.8048 exp(-15052.19183/RT)",
+      "temperature": "520-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "25-75 mol%",
+      "equation": "k = 20.4136 exp(-14582.73917/RT)",
+      "temperature": "520-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "30-70 mol%",
+      "equation": "k = 20.485 exp(-14642.15297/RT)",
+      "temperature": "500-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "35-65 mol%",
+      "equation": "k = 19.0512 exp(-14412.02912/RT)",
+      "temperature": "500-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "40-60 mol%",
+      "equation": "k = 18.9402 exp(-14395.29284/RT)",
+      "temperature": "500-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "45-55 mol%",
+      "equation": "k = 20.2526 exp(-14735.45773/RT)",
+      "temperature": "480-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "50-50 mol%",
+      "equation": "k = 19.3029 exp(-14564.32926/RT)",
+      "temperature": "480-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "55-45 mol%",
+      "equation": "k = 18.298 exp(-14316.21391/RT)",
+      "temperature": "480-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "60-40 mol%",
+      "equation": "k = 19.6927 exp(-14676.04393/RT)",
+      "temperature": "480-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "70-30 mol%",
+      "equation": "k = 16.1075 exp(-13627.09758/RT)",
+      "temperature": "500-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "75-25 mol%",
+      "equation": "k = 17.0087 exp(-13903.66461/RT)",
+      "temperature": "500-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "80-20 mol%",
+      "equation": "k = 14.4374 exp(-13072.70831/RT)",
+      "temperature": "520-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "85-15 mol%",
+      "equation": "k = 14.4474 exp(-13072.70831/RT)",
+      "temperature": "520-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "90-10 mol%",
+      "equation": "k = 13.8077 exp(-12805.34624/RT)",
+      "temperature": "520-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "95-5 mol%",
+      "equation": "k = 13.4895 exp(-12630.45211/RT)",
+      "temperature": "540-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-LiNO3",
+      "composition": "100-0 mol%",
+      "equation": "k = 13.49 exp(-12635.8914/RT)",
+      "temperature": "540-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaClO4",
+      "composition": "49.7-50.3 mol%",
+      "equation": "k = 12.834 exp(-13250.94969/RT)",
+      "temperature": "590-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaClO4",
+      "composition": "59-41 mol%",
+      "equation": "k = 11.801 exp(-12669.36396/RT)",
+      "temperature": "560-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaClO4",
+      "composition": "68-32 mol%",
+      "equation": "k = 14.574 exp(-13656.80448/RT)",
+      "temperature": "530-630 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaClO4",
+      "composition": "88-12 mol%",
+      "equation": "k = 14.737 exp(-13393.20807/RT)",
+      "temperature": "530-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaClO4",
+      "composition": "89.3-10.7 mol%",
+      "equation": "k = 16.696 exp(-13849.2717/RT)",
+      "temperature": "510-620 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaClO4",
+      "composition": "100-0 mol%",
+      "equation": "k = 14.597 exp(-12941.32851/RT)",
+      "temperature": "550-630 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaNO3",
+      "composition": "0-100 mol%",
+      "equation": "k = 11.2715 exp(-11798.65899/RT)",
+      "temperature": "600-680 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaNO3",
+      "composition": "10-90 mol%",
+      "equation": "k = 13.8713 exp(-13237.97907/RT)",
+      "temperature": "560-680 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaNO3",
+      "composition": "28-72 mol%",
+      "equation": "k = 16.8688 exp(-14796.96356/RT)",
+      "temperature": "480-680 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaNO3",
+      "composition": "60-40 mol%",
+      "equation": "k = 17.3036 exp(-14716.211/RT)",
+      "temperature": "540-680 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaNO3",
+      "composition": "78-22 mol%",
+      "equation": "k = 17.1765 exp(-14175.62916/RT)",
+      "temperature": "480-680 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaNO3",
+      "composition": "90-10 mol%",
+      "equation": "k = 16.3955 exp(-13358.06188/RT)",
+      "temperature": "520-680 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P229_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiClO4-NaNO3",
+      "composition": "100-0 mol%",
+      "equation": "k = 13.8486 exp(-12768.52642/RT)",
+      "temperature": "520-680 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

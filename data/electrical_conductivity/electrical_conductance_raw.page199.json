@@ -1,0 +1,457 @@
+[
+  {
+    "index": "EXP_EC_P199_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "100-0 mol%",
+      "equation": "k = 624.176 exp(-23880.16112/RT)",
+      "temperature": "1470-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyCl3",
+      "composition": "100 mol%",
+      "equation": "k = 8.9484 exp(-24794.79882/RT)",
+      "temperature": "960-1260 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyCl3-KCl",
+      "composition": "0-90 mol% KCl",
+      "equation": "k = 45.65 + 0.6143 C - 0.01088 C^2 - 4.53 x 10^-6 C^3 + 1.175 x 10^-5 C^4",
+      "temperature": "1073 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyCl3-NaCl",
+      "composition": "0-100 mol% NaCl",
+      "equation": "k = 46.14 + 0.5906 C + 0.007751 C^2 - 2.2945 x 10^-4 C^3 + 1.8208 x 10^-6 C^4",
+      "temperature": "1073 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3",
+      "composition": "100 mol%",
+      "equation": "k = 7.972 exp(-31365.04394/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "0-100 mol%",
+      "equation": "k = 6.291 exp(-12717.48077/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "10-90 mol%",
+      "equation": "k = 6.432 exp(-15310.76735/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "20-80 mol%",
+      "equation": "k = 8.045 exp(-19750.06562/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "30-70 mol%",
+      "equation": "k = 7.418 exp(-20641.27253/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "40-60 mol%",
+      "equation": "k = 5.227 exp(-18560.53452/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "50-50 mol%",
+      "equation": "k = 4.772 exp(-19027.89514/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "60-40 mol%",
+      "equation": "k = 6.756 exp(-24074.72037/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "70-30 mol%",
+      "equation": "k = 7.991 exp(-27148.7566/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "80-20 mol%",
+      "equation": "k = 5.39 exp(-24234.13344/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "90-10 mol%",
+      "equation": "k = 11.402 exp(-33563.77273/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "DyI3-KI",
+      "composition": "100-0 mol%",
+      "equation": "k = 7.972 exp(-31365.04394/RT)",
+      "temperature": "1248-1330 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ErCl3",
+      "composition": "100 mol%",
+      "equation": "k = 18.85 exp(-33003.10735/RT)",
+      "temperature": "1074-1112 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ErCl3-KCl",
+      "composition": "0-90 mol% KCl",
+      "equation": "k = 36.86 + 0.6367 C - 4.94 x 10^-4 C^2 - 2.0787 x 10^-4 C^3 + 2.3145 x 10^-6 C^4",
+      "temperature": "1073 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl2",
+      "composition": "100 mol%",
+      "equation": "k = 6.205 exp(-5715.43962/RT)",
+      "temperature": "1000-1180 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl2-FeS",
+      "composition": "84.47-15.53 mol%",
+      "equation": "k = 16.0373 exp(-18825.80456/RT)",
+      "temperature": "1000-1180 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl2-FeS",
+      "composition": "85.59-14.41 mol%",
+      "equation": "k = 17.3999 exp(-20316.5887/RT)",
+      "temperature": "1000-1180 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl2-FeS",
+      "composition": "90.74-9.26 mol%",
+      "equation": "k = 5.69877 exp(-11481.08808/RT)",
+      "temperature": "1000-1180 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl2-FeS",
+      "composition": "95.14-4.86 mol%",
+      "equation": "k = 5.96135 exp(-12004.93364/RT)",
+      "temperature": "1000-1180 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl2-FeS",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 6.205 exp(-5715.43962/RT)",
+      "temperature": "1000-1180 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-LiCl-NaCl",
+      "composition": "56-22-22 mol%",
+      "equation": "k = 4.631 exp(-9505.78863/RT)",
+      "temperature": "500-596 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "49.0-51.0 mol%",
+      "equation": "k = 3.740505 exp(-7310.82551/RT)",
+      "temperature": "543-723 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "50.0-50.0 mol%",
+      "equation": "k = 0.902",
+      "temperature": "629 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "50.0-50.0 mol%",
+      "equation": "k = 5.50388 exp(-9266.50167/RT)",
+      "temperature": "449-599 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "52-48 mol%",
+      "equation": "k = 5.243 exp(-9392.81874/RT)",
+      "temperature": "456-621 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "54-46 mol%",
+      "equation": "k = 4.613 exp(-9027.96784/RT)",
+      "temperature": "510-616 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "56-44 mol%",
+      "equation": "k = 4.096 exp(-8978.59581/RT)",
+      "temperature": "505-624 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "57.9-42.1 mol%",
+      "equation": "k = 0.815",
+      "temperature": "683 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "57.9-42.1 mol%",
+      "equation": "k = 3.89447 exp(-8734.32981/RT)",
+      "temperature": "503-653 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "64-36 mol%",
+      "equation": "k = 3.264 exp(-9275.66478/RT)",
+      "temperature": "560-623 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P199_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "FeCl3-NaCl",
+      "composition": "66.3-33.7 mol%",
+      "equation": "k = 2.62098 exp(-8371.69646/RT)",
+      "temperature": "523-683 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

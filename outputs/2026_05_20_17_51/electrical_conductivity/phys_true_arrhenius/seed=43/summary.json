@@ -1,0 +1,24 @@
+{
+  "property": "electrical_conductivity",
+  "normalized_records": 3476,
+  "filtered_records": 573,
+  "excluded_systems": [
+    "KF-ZrF4"
+  ],
+  "validation_ratio": 0.2,
+  "temperature_interval": null,
+  "temperature_mean": 883.0106438601733,
+  "temperature_std": 274.73454561194717,
+  "composition_interval": null,
+  "low_data_learning": false,
+  "low_data_learning_ratio": 1.0,
+  "train_records": 2735,
+  "val_records": 684,
+  "test_records": 57,
+  "train_samples_before_low_data": 13388,
+  "train_samples": 13388,
+  "val_samples": 3339,
+  "test_samples": 285,
+  "systems_train": 586,
+  "systems_val": 343
+}

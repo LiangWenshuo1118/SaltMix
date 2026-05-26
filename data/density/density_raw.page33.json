@@ -1,0 +1,535 @@
+[
+  {
+    "index": "EXP_DEN_P033_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-RbCl",
+      "composition": "80-20 mol%",
+      "equation": "d = 2.6091 - 4.9 x 10^-4 T",
+      "temperature": "1003-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-RbCl",
+      "composition": "90-10 mol%",
+      "equation": "d = 2.5496 - 4.4 x 10^-4 T",
+      "temperature": "1035-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-RbCl",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.4852 - 3.9 x 10^-4 T",
+      "temperature": "1075-1273 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-SrCl2",
+      "composition": "0-100 mol%",
+      "equation": "d = 3.2429 - 4.7002 x 10^-4 T",
+      "temperature": "1170-1320 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-SrCl2",
+      "composition": "58.8-41.2 mol%",
+      "equation": "d = 3.0117 - 5.8018 x 10^-4 T",
+      "temperature": "1170-1320 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaCl2-SrCl2",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.4793 - 4. x 10^-4 T",
+      "temperature": "1120-1270 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2",
+      "composition": "100 mol%",
+      "equation": "d = 3.179 - 3.91 x 10^-4 T",
+      "temperature": "1640-2300 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "62.6-37.4 mol%",
+      "equation": "d = 2.892 - 1.46 x 10^-4 T",
+      "temperature": "1890-2010 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "74.2-25.8 mol%",
+      "equation": "d = 2.874 - 1.55 x 10^-4 T",
+      "temperature": "1830-2010 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "86.6-13.4 mol%",
+      "equation": "d = 2.969 - 2.19 x 10^-4 T",
+      "temperature": "1770-1950 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaO",
+      "composition": "100-0 mol%",
+      "equation": "d = 3.0511 - 2.81 x 10^-4 T",
+      "temperature": "1720-1970 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-CaSiO3",
+      "composition": "100-85 CaSiO3 mol%",
+      "equation": "d = 1.1 + 0.00574 C",
+      "temperature": "1823 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-LiF",
+      "composition": "0.0-100.0 mol%",
+      "equation": "d = 2.074 - 3.321 x 10^-4 T",
+      "temperature": "1125-1350 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-LiF",
+      "composition": "7.0-93.0 mol%",
+      "equation": "d = 2.12 - 2.621 x 10^-4 T",
+      "temperature": "1125-1350 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-LiF",
+      "composition": "14.0-86.0 mol%",
+      "equation": "d = 2.336 - 3.64 x 10^-4 T",
+      "temperature": "1095-1350 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-LiF",
+      "composition": "20.0-80.0 mol%",
+      "equation": "d = 2.453 - 3.704 x 10^-4 T",
+      "temperature": "1080-1350 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-LiF",
+      "composition": "30.0-70.0 mol%",
+      "equation": "d = 2.809 - 5.755 x 10^-4 T",
+      "temperature": "1155-1350 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-MgO",
+      "composition": "9-91 mol%",
+      "equation": "d = 6.034 - 0.00205 T",
+      "temperature": "1680-1820 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-NaF",
+      "composition": "0.0-100.0 mol%",
+      "equation": "d = 2.7571 - 6.2513 x 10^-4 T",
+      "temperature": "1290-1390 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-NaF",
+      "composition": "16.5-83.5 mol%",
+      "equation": "d = 2.8803 - 6.038 x 10^-4 T",
+      "temperature": "1210-1440 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-NaF",
+      "composition": "33.2-66.8 mol%",
+      "equation": "d = 2.9258 - 5.4489 x 10^-4 T",
+      "temperature": "1150-1430 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-NaF",
+      "composition": "50.0-50.0 mol%",
+      "equation": "d = 3.0783 - 5.4195 x 10^-4 T",
+      "temperature": "1330-1440 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-Na2B4O7",
+      "composition": "85-54 Na2B4O7 mol%",
+      "equation": "d = 2.344 - 0.0065 C + 4.7 x 10^-5 C^2",
+      "temperature": "1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-Na3AlF6",
+      "composition": "0-100 mol%",
+      "equation": "d = 3.2892 - 9.3797 x 10^-4 T",
+      "temperature": "1273-1353 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-Na3AlF6",
+      "composition": "12.4-87.6 mol%",
+      "equation": "d = 3.256 - 8.91 x 10^-4 T",
+      "temperature": "1260-1340 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-Na3AlF6",
+      "composition": "23.0-77.0 mol%",
+      "equation": "d = 3.265 - 8.7 x 10^-4 T",
+      "temperature": "1260-1340 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-Na3AlF6",
+      "composition": "32.2-67.8 mol%",
+      "equation": "d = 3.295 - 8.7 x 10^-4 T",
+      "temperature": "1280-1360 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-Na3AlF6",
+      "composition": "40.2-59.8 mol%",
+      "equation": "d = 3.289 - 8.4 x 10^-4 T",
+      "temperature": "1260-1360 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-Na3AlF6",
+      "composition": "64.2-35.8 mol%",
+      "equation": "d = 3.402 - 8.41 x 10^-4 T",
+      "temperature": "1280-1360 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-SiO2",
+      "composition": "64.3-35.7 mol%",
+      "equation": "d = 2.18",
+      "temperature": "1823 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-SiO2",
+      "composition": "75.4-24.6 mol%",
+      "equation": "d = 2.3",
+      "temperature": "1793 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-SiO2",
+      "composition": "87.3-12.7 mol%",
+      "equation": "d = 2.2",
+      "temperature": "1773 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-SiO2",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.4",
+      "temperature": "1673 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-TiO2",
+      "composition": "80-20 mol%",
+      "equation": "d = 5.54 - 0.00167 T",
+      "temperature": "1680-1800 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-TiO2",
+      "composition": "90.2-9.8 mol%",
+      "equation": "d = 2.54",
+      "temperature": "1800 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-TiO2",
+      "composition": "95-5 mol%",
+      "equation": "d = 5.398 - 0.001595 T",
+      "temperature": "1680-1800 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-V2O5",
+      "composition": "93-7 mol%",
+      "equation": "d = 8.4084 - 0.0032652 T",
+      "temperature": "1690-1810 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-V2O5",
+      "composition": "98-2 mol%",
+      "equation": "d = 9.563 - 0.00408 T",
+      "temperature": "1730-1810 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-ZrO2",
+      "composition": "78.6-21.4 mol%",
+      "equation": "d = 3.42",
+      "temperature": "1813 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-ZrO2",
+      "composition": "86.3-13.7 mol%",
+      "equation": "d = 3",
+      "temperature": "1793 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P033_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CaF2-ZrO2",
+      "composition": "90.0-10.0 mol%",
+      "equation": "d = 2.65",
+      "temperature": "1823 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

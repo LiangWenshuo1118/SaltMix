@@ -1,0 +1,509 @@
+[
+  {
+    "index": "EXP_DEN_P073_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-TlNO3",
+      "composition": "0-100 mol%",
+      "equation": "d = 5.807 - 0.001858 T",
+      "temperature": "483-673 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-TlNO3",
+      "composition": "20-80 mol%",
+      "equation": "d = 5.2396 - 0.001658 T",
+      "temperature": "443-613 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-TlNO3",
+      "composition": "40-60 mol%",
+      "equation": "d = 4.6152 - 0.001449 T",
+      "temperature": "433-615 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-TlNO3",
+      "composition": "60-40 mol%",
+      "equation": "d = 3.8816 - 0.00117 T",
+      "temperature": "483-617 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-TlNO3",
+      "composition": "80-20 mol%",
+      "equation": "d = 3.0642 - 9. x 10^-4 T",
+      "temperature": "513-623 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiNO3-TlNO3",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.1057 - 5.92 x 10^-4 T",
+      "temperature": "525-673 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiOH",
+      "composition": "100 mol%",
+      "equation": "d = 1.718 - 4.57 x 10^-4 T",
+      "temperature": "748-823 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiPO3",
+      "composition": "100 mol%",
+      "equation": "d = 2.5755 - 5.273 x 10^-4 T",
+      "temperature": "1100-1190 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiPO3-Li3PO4",
+      "composition": "70-30 mol%",
+      "equation": "d = 2.145",
+      "temperature": "1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiPO3-Li3PO4",
+      "composition": "80-20 mol%",
+      "equation": "d = 2.435 - 2.501 x 10^-4 T",
+      "temperature": "1073-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiPO3-Li3PO4",
+      "composition": "90-10 mol%",
+      "equation": "d = 2.44 - 2.601 x 10^-4 T",
+      "temperature": "1073-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiPO3-Li4P2O7",
+      "composition": "65.7-34.3 mol%",
+      "equation": "d = 2.499 - 3.165 x 10^-4 T",
+      "temperature": "1020-1240 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiPO3-Li4P2O7",
+      "composition": "75.6-24.4 mol%",
+      "equation": "d = 2.3941 - 2.2 x 10^-4 T",
+      "temperature": "1020-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiPO3-Li4P2O7",
+      "composition": "85.0-15.0 mol%",
+      "equation": "d = 2.4579 - 2.849 x 10^-4 T",
+      "temperature": "1080-1240 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiPO3-Li4P2O7",
+      "composition": "90.5-9.5 mol%",
+      "equation": "d = 2.4537 - 2.812 x 10^-4 T",
+      "temperature": "1080-1240 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiPO3-Li4P2O7",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.2432 - 1.102 x 10^-4 T",
+      "temperature": "1080-1240 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiSCN",
+      "composition": "100 mol%",
+      "equation": "d = 1.6777 - 4.93 x 10^-4 T",
+      "temperature": "583-633 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3",
+      "composition": "100 mol%",
+      "equation": "d = 2.2026 - 3.729 x 10^-4 T",
+      "temperature": "1012-1115 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.4532 - 4.267 x 10^-4 T",
+      "temperature": "1140-1240 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "10-90 mol%",
+      "equation": "d = 2.4443 - 4.301 x 10^-4 T",
+      "temperature": "1120-1220 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "20-80 mol%",
+      "equation": "d = 2.4461 - 4.437 x 10^-4 T",
+      "temperature": "1060-1220 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "30-70 mol%",
+      "equation": "d = 2.389 - 4.23 x 10^-4 T",
+      "temperature": "960-1180 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "40-60 mol%",
+      "equation": "d = 2.3653 - 4.262 x 10^-4 T",
+      "temperature": "880-1180 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "50-50 mol%",
+      "equation": "d = 2.3532 - 4.249 x 10^-4 T",
+      "temperature": "900-1180 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "53.3-46.7 mol%",
+      "equation": "d = 2.3581 - 4.325 x 10^-4 T",
+      "temperature": "820-1180 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "60-40 mol%",
+      "equation": "d = 2.3557 - 4.337 x 10^-4 T",
+      "temperature": "920-1180 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "70-30 mol%",
+      "equation": "d = 2.3474 - 4.378 x 10^-4 T",
+      "temperature": "940-1220 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "80-20 mol%",
+      "equation": "d = 2.2885 - 4.12 x 10^-4 T",
+      "temperature": "960-1220 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "90-10 mol%",
+      "equation": "d = 2.2435 - 3.991 x 10^-4 T",
+      "temperature": "980-1200 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Na2CO3",
+      "composition": "100-0 mol%",
+      "equation": "d = 2.2365 - 4.041 x 10^-4 T",
+      "temperature": "1020-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4",
+      "composition": "100 mol%",
+      "equation": "d = 3.3902 - 4.783 x 10^-4 T",
+      "temperature": "1060-1230 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-WO3",
+      "composition": "0-100 mol%",
+      "equation": "d = 4.855 - 0.0015002 T",
+      "temperature": "1100-1180 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-WO3",
+      "composition": "16.03-83.97 mol%",
+      "equation": "d = 4.2526 - 9.501 x 10^-4 T",
+      "temperature": "1050-1190 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-WO3",
+      "composition": "27.56-72.44 mol%",
+      "equation": "d = 4.1258 - 8.518 x 10^-4 T",
+      "temperature": "1040-1190 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-WO3",
+      "composition": "41.18-58.82 mol%",
+      "equation": "d = 3.9469 - 7.724 x 10^-4 T",
+      "temperature": "1030-1210 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-WO3",
+      "composition": "52.51-47.49 mol%",
+      "equation": "d = 3.6009 - 5.271 x 10^-4 T",
+      "temperature": "1090-1230 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-WO3",
+      "composition": "65.23-34.77 mol%",
+      "equation": "d = 3.6775 - 6.193 x 10^-4 T",
+      "temperature": "1070-1210 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-WO3",
+      "composition": "77.88-22.12 mol%",
+      "equation": "d = 3.6172 - 5.923 x 10^-4 T",
+      "temperature": "1060-1170 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P073_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-WO3",
+      "composition": "85.84-14.16 mol%",
+      "equation": "d = 3.4971 - 5.316 x 10^-4 T",
+      "temperature": "1110-1190 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

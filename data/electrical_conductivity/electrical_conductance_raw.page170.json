@@ -1,0 +1,587 @@
+[
+  {
+    "index": "EXP_EC_P170_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "66.67-33.33 mol%",
+      "equation": "k = 42.143 exp(-22504.85731/RT)",
+      "temperature": "383-413 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "68.77-31.23 mol%",
+      "equation": "k = 34.064 exp(-22084.77668/RT)",
+      "temperature": "383-413 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "71.21-28.79 mol%",
+      "equation": "k = 28.354 exp(-21809.46488/RT)",
+      "temperature": "383-413 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "73.66-26.34 mol%",
+      "equation": "k = 22.975 exp(-21494.82281/RT)",
+      "temperature": "383-413 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "75.66-24.34 mol%",
+      "equation": "k = 31.769 exp(-22877.65795/RT)",
+      "temperature": "393-403 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "76.59-23.41 mol%",
+      "equation": "k = 17.981 exp(-21173.48624/RT)",
+      "temperature": "383-413 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KCl",
+      "composition": "66.7-33.3 mol%",
+      "equation": "k = 21.5567 exp(-20371.40002/RT)",
+      "temperature": "370-440 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KCl",
+      "composition": "100-0 mol%",
+      "equation": "k = 2.8989 x 10^-5 exp(13753.03809/RT)",
+      "temperature": "373-403 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-LiCl",
+      "composition": "80.13-19.87 mol%",
+      "equation": "k = 0.508591 exp(-11149.70974/RT)",
+      "temperature": "360-450 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-MnBr2",
+      "composition": "82-18 mol%",
+      "equation": "k = 0.001",
+      "temperature": "433.2 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "25-75 mol%",
+      "equation": "k = 2.551 exp(-6779.86703/RT)",
+      "temperature": "925-1275 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "33-67 mol%",
+      "equation": "k = 2.394 exp(-7606.63926/RT)",
+      "temperature": "850-1275 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "42-58 mol%",
+      "equation": "k = 1.655 exp(-5055.61178/RT)",
+      "temperature": "900-1275 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "50-50 mol%",
+      "equation": "k = -1.0423 + 0.0037731 T - 1.7211 x 10^-6 T^2",
+      "temperature": "450-1275 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "67-33 mol%",
+      "equation": "k = 2.745 exp(-11501.59002/RT)",
+      "temperature": "500-975 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "80-20 mol%",
+      "equation": "k = 1.45525 exp(-12956.80957/RT)",
+      "temperature": "485-674 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "80-20 mol%",
+      "equation": "k = 0.2593 - 6.064 x 10^-4 T - 3.1175 x 10^-6 T^2 + 9.047 x 10^-9 T^3 - 5.186 x 10^-12 T^4",
+      "temperature": "688-1006 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "92-8 mol%",
+      "equation": "k = 0.400932 exp(-15363.90504/RT)",
+      "temperature": "506-663 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "92-8 mol%",
+      "equation": "k = -2.525 + 0.0060275 T - 3.9683 x 10^-6 T^2 + 7.999 x 10^-10 T^3",
+      "temperature": "713-1174 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "98-2 mol%",
+      "equation": "k = 51.6546 exp(-10741.3445/RT)",
+      "temperature": "475-700 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaCl",
+      "composition": "52-48 mol%",
+      "equation": "k = 5.452 exp(-10860.17209/RT)",
+      "temperature": "462-573 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaCl",
+      "composition": "56-44 mol%",
+      "equation": "k = 6.069 exp(-12212.46352/RT)",
+      "temperature": "451-523 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaCl",
+      "composition": "64-36 mol%",
+      "equation": "k = 6.224 exp(-14034.20759/RT)",
+      "temperature": "411-523 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaCl",
+      "composition": "68-32 mol%",
+      "equation": "k = 6.181 exp(-14865.1639/RT)",
+      "temperature": "392-523 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaCl",
+      "composition": "68.21-31.79 mol%",
+      "equation": "k = 0.0262",
+      "temperature": "388.2 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaCl",
+      "composition": "68.21-31.79 mol%",
+      "equation": "k = 739.68 exp(-32820.26349/RT)",
+      "temperature": "373-403 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaCl",
+      "composition": "76.5-23.5 mol%",
+      "equation": "k = 4.20829 exp(-16327.07795/RT)",
+      "temperature": "373-423 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaCl",
+      "composition": "80.07-19.93 mol%",
+      "equation": "k = 1.65844 exp(-14030.44193/RT)",
+      "temperature": "373-443 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-N(CH3)4Br",
+      "composition": "70-30 mol%",
+      "equation": "k = 7.791 exp(-22014.0659/RT)",
+      "temperature": "382-497 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-N(C4H9)4Br",
+      "composition": "30-70 mol%",
+      "equation": "k = 128.3 exp(-35189.28392/RT)",
+      "temperature": "369-488 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-N(C4H9)4Br",
+      "composition": "40-60 mol%",
+      "equation": "k = 23.92 exp(-27530.34379/RT)",
+      "temperature": "400-469 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-N(C4H9)4Br",
+      "composition": "50-50 mol%",
+      "equation": "k = 11.42 exp(-24666.76628/RT)",
+      "temperature": "425-492 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-N(C4H9)4Br",
+      "composition": "60-40 mol%",
+      "equation": "k = 12.98 exp(-25504.8355/RT)",
+      "temperature": "387-446 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-N(C4H9)4Br",
+      "composition": "64-36 mol%",
+      "equation": "k = 7.323 exp(-23522.42313/RT)",
+      "temperature": "372-492 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-N(C4H9)4Br",
+      "composition": "68-32 mol%",
+      "equation": "k = 6.47 exp(-23249.20336/RT)",
+      "temperature": "358-493 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "66.69-33.31 mol%",
+      "equation": "k = 23.883 exp(-22183.10233/RT)",
+      "temperature": "385-420 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "70.90-29.10 mol%",
+      "equation": "k = 18.767 exp(-21914.48503/RT)",
+      "temperature": "385-420 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "74.78-25.22 mol%",
+      "equation": "k = 13.159 exp(-21198.59066/RT)",
+      "temperature": "385-420 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "75.63-24.37 mol%",
+      "equation": "k = 9.011 exp(-20180.18802/RT)",
+      "temperature": "385-420 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "78.40-21.60 mol%",
+      "equation": "k = 6.765 exp(-19619.94104/RT)",
+      "temperature": "385-420 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "0-100 mol%",
+      "equation": "k = 0",
+      "temperature": "373 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "10-90 mol%",
+      "equation": "k = 0.3609 exp(-11171.04849/RT)",
+      "temperature": "373-413 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "20-80 mol%",
+      "equation": "k = 1.52399 exp(-14058.4752/RT)",
+      "temperature": "373-413 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "30-70 mol%",
+      "equation": "k = 0.987182 exp(-12545.9339/RT)",
+      "temperature": "373-413 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P170_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "40-60 mol%",
+      "equation": "k = 3.098 exp(-16626.65737/RT)",
+      "temperature": "373-413 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

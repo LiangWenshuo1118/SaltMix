@@ -1,0 +1,626 @@
+[
+  {
+    "index": "EXP_VIS_P277_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "75.28-24.72 mol%",
+      "equation": "v = 0.02928 exp (44723.52423/RT)",
+      "temperature": "1130-1290 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "84.78-15.22 mol%",
+      "equation": "v = 0.02799 exp (47623.08474/RT)",
+      "temperature": "1180-1290 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.0357 exp (48146.09349/RT)",
+      "temperature": "1240-1290 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-LiCl",
+      "composition": "10.2-89.8 mol%",
+      "equation": "v = 0.18963 exp (16355.52963/RT)",
+      "temperature": "1010-1160 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-LiCl",
+      "composition": "25.0-75.0 mol%",
+      "equation": "v = 0.23561 exp (15941.3067/RT)",
+      "temperature": "1020-1170 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-LiCl",
+      "composition": "39.4-60.6 mol%",
+      "equation": "v = 0.2765 exp (17066.82153/RT)",
+      "temperature": "1010-1170 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-LiCl",
+      "composition": "53.3-46.7 mol%",
+      "equation": "v = 0.18155 exp (24355.47147/RT)",
+      "temperature": "1070-1220 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-LiCl",
+      "composition": "68.0-32.0 mol%",
+      "equation": "v = 0.20147 exp (25778.05527/RT)",
+      "temperature": "1130-1250 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-LiCl",
+      "composition": "85.0-15.0 mol%",
+      "equation": "v = 0.13508 exp (32221.52307/RT)",
+      "temperature": "1160-1230 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-LiCl",
+      "composition": "100.0-0.0 mol%",
+      "equation": "v = 0.0357 exp (48146.09349/RT)",
+      "temperature": "1240-1290 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-MgCl2",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.1317 exp (23460.08049/RT)",
+      "temperature": "1010-1130 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-MgCl2",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.2192 exp (18929.9879/RT)",
+      "temperature": "1023-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-MgCl2",
+      "composition": "10-90 mol%",
+      "equation": "v = 0.1013 exp (25641.65459/RT)",
+      "temperature": "973-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-MgCl2",
+      "composition": "20-80 mol%",
+      "equation": "v = 0.1156 exp (25083.49965/RT)",
+      "temperature": "973-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-MgCl2",
+      "composition": "30-70 mol%",
+      "equation": "v = 0.1005 exp (27239.96933/RT)",
+      "temperature": "973-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-MgCl2",
+      "composition": "40-60 mol%",
+      "equation": "v = 0.091698 exp (29317.77849/RT)",
+      "temperature": "973-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-MgCl2",
+      "composition": "50-50 mol%",
+      "equation": "v = 0.030581 exp (40446.98628/RT)",
+      "temperature": "973-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-MgCl2",
+      "composition": "60-40 mol%",
+      "equation": "v = 0.02574 exp (43978.34136/RT)",
+      "temperature": "1023-1073 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-MgCl2",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.0934 exp (38730.26236/RT)",
+      "temperature": "1250-1350 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-NaCl",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.01134 exp (44154.49071/RT)",
+      "temperature": "1100-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-NaCl",
+      "composition": "19-81 mol%",
+      "equation": "v = 0.0539 exp (33039.92716/RT)",
+      "temperature": "1030-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-NaCl",
+      "composition": "26-74 mol%",
+      "equation": "v = 0.07615 exp (30870.48687/RT)",
+      "temperature": "1000-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-NaCl",
+      "composition": "33-67 mol%",
+      "equation": "v = 0.1682 exp (24745.00839/RT)",
+      "temperature": "1000-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-NaCl",
+      "composition": "40-60 mol%",
+      "equation": "v = 0.1025 exp (30223.62965/RT)",
+      "temperature": "1000-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-NaCl",
+      "composition": "46-54 mol%",
+      "equation": "v = 0.06797 exp (34609.79023/RT)",
+      "temperature": "1000-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-NaCl",
+      "composition": "53-47 mol%",
+      "equation": "v = 0.1116 exp (30586.80692/RT)",
+      "temperature": "1030-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-NaCl",
+      "composition": "60-40 mol%",
+      "equation": "v = 0.2475 exp (23744.17884/RT)",
+      "temperature": "1050-1140 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-Na3AlF6",
+      "composition": "60-40 mol%",
+      "equation": "v = 0.0136 exp (50146.07895/RT)",
+      "temperature": "1050-1130 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2",
+      "composition": "100 mol%",
+      "equation": "v = 0.0012906 exp (47347.35453/RT)",
+      "temperature": "553-593 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "18-82 mol%",
+      "equation": "v = 0.0308093 exp (24950.44622/RT)",
+      "temperature": "613-623 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "26-74 mol%",
+      "equation": "v = 0.0292876 exp (26082.65557/RT)",
+      "temperature": "583-623 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "30-70 mol%",
+      "equation": "v = 0.0191876 exp (28783.47275/RT)",
+      "temperature": "583-623 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "40-60 mol%",
+      "equation": "v = 0.00720668 exp (34798.07338/RT)",
+      "temperature": "583-623 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "50-50 mol%",
+      "equation": "v = 0.00522441 exp (37533.61834/RT)",
+      "temperature": "583-623 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "60-40 mol%",
+      "equation": "v = 0.00507827 exp (38659.13317/RT)",
+      "temperature": "593-623 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "70-30 mol%",
+      "equation": "v = 0.0049975 exp (39556.19778/RT)",
+      "temperature": "593-623 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "80-20 mol%",
+      "equation": "v = 0.0075989 exp (38229.84759/RT)",
+      "temperature": "593-623 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "83-17 mol%",
+      "equation": "v = 0.0237487 exp (32592.65008/RT)",
+      "temperature": "583-623 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "90-10 mol%",
+      "equation": "v = 20.2",
+      "temperature": "583 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.0012906 exp (47347.35453/RT)",
+      "temperature": "553-593 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2-NaNO2",
+      "composition": "21.2-42.4-36.4 mol%",
+      "equation": "v = 0.05259 exp (24586.43213/RT)",
+      "temperature": "453-621 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2-NaNO2",
+      "composition": "56.3-6.2-37.5 mol%",
+      "equation": "v = 3.648 x 10^-6 exp (67490.72273/RT)",
+      "temperature": "473-518 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-KNO2-NaNO2",
+      "composition": "56.3-6.2-37.5 mol%",
+      "equation": "v = 0.01305 exp (32499.34532/RT)",
+      "temperature": "518-598 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "20-80 mol%",
+      "equation": "v = 0.050619 exp (22013.64749/RT)",
+      "temperature": "513-613 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "30-70 mol%",
+      "equation": "v = 0.0425687 exp (23928.69633/RT)",
+      "temperature": "513-613 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "40-60 mol%",
+      "equation": "v = 0.0418772 exp (24998.56303/RT)",
+      "temperature": "513-613 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "43-57 mol%",
+      "equation": "v = 0.0314318 exp (26673.02784/RT)",
+      "temperature": "513-593 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P277_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ba(NO2)2-NaNO2",
+      "composition": "50-50 mol%",
+      "equation": "v = 0.0325 exp (27116.95767/RT)",
+      "temperature": "513-593 K",
+      "unit": "mN s m^-2"
+    }
+  }
+]

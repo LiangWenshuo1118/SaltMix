@@ -1,0 +1,587 @@
+[
+  {
+    "index": "EXP_EC_P230_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF",
+      "composition": "100 mol%",
+      "equation": "k = 15.287 exp(-5386.57172/RT)",
+      "temperature": "1140-1310 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "0-100 mol%",
+      "equation": "k = 9.4084 exp(-5363.55933/RT)",
+      "temperature": "760-1260 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "25-75 mol%",
+      "equation": "k = 8.8136 exp(-7997.01299/RT)",
+      "temperature": "760-1260 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "37-63 mol%",
+      "equation": "k = 7.006 exp(-7768.98118/RT)",
+      "temperature": "760-1260 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "50-50 mol%",
+      "equation": "k = 11.6072 exp(-11517.9079/RT)",
+      "temperature": "760-1260 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "63-37 mol%",
+      "equation": "k = 17.17 exp(-14695.70906/RT)",
+      "temperature": "760-1260 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "75-25 mol%",
+      "equation": "k = 18.8859 exp(-15358.04734/RT)",
+      "temperature": "760-1260 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-LiI",
+      "composition": "100-0 mol%",
+      "equation": "k = 23.003 exp(-9608.29835/RT)",
+      "temperature": "1130-1260 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-NaF",
+      "composition": "0.0-100.0 mol%",
+      "equation": "k = 21.451 exp(-15165.16172/RT)",
+      "temperature": "1310-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-NaF",
+      "composition": "20.0-80.0 mol%",
+      "equation": "k = 17.902 exp(-12122.92442/RT)",
+      "temperature": "1180-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-NaF",
+      "composition": "40.0-60.0 mol%",
+      "equation": "k = 14.627 exp(-9714.15532/RT)",
+      "temperature": "1130-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-NaF",
+      "composition": "50.0-50.0 mol%",
+      "equation": "k = 18.53 exp(-11009.54339/RT)",
+      "temperature": "1070-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-NaF",
+      "composition": "62.0-38.0 mol%",
+      "equation": "k = 17.799 exp(-10046.78888/RT)",
+      "temperature": "1030-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-NaF",
+      "composition": "70.0-30.0 mol%",
+      "equation": "k = 19.483 exp(-10314.56936/RT)",
+      "temperature": "1020-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-NaF",
+      "composition": "85.0-15.0 mol%",
+      "equation": "k = 22.58 exp(-10394.4851/RT)",
+      "temperature": "1060-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-NaF",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 20.471 exp(-7768.14436/RT)",
+      "temperature": "1150-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "0-100 mol%",
+      "equation": "k = 9.109 exp(-12460.16046/RT)",
+      "temperature": "1270-1370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "25-75 mol%",
+      "equation": "k = 7.19057 exp(-9252.6524/RT)",
+      "temperature": "1280-1370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "42.8-57.2 mol%",
+      "equation": "k = 7.1417 exp(-8742.19586/RT)",
+      "temperature": "1220-1370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "56.2-43.8 mol%",
+      "equation": "k = 9.4411 exp(-11299.91785/RT)",
+      "temperature": "1220-1370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "66.7-33.3 mol%",
+      "equation": "k = 19.6893 exp(-17331.25475/RT)",
+      "temperature": "1120-1320 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "75.0-25.0 mol%",
+      "equation": "k = 13.9546 exp(-13151.36882/RT)",
+      "temperature": "1070-1310 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "81.8-18.2 mol%",
+      "equation": "k = 10.9144 exp(-9323.78159/RT)",
+      "temperature": "1130-1310 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "87.5-12.5 mol%",
+      "equation": "k = 11.7351 exp(-8344.2908/RT)",
+      "temperature": "1120-1320 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "92.3-7.7 mol%",
+      "equation": "k = 12.961 exp(-7655.17447/RT)",
+      "temperature": "1130-1310 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "96.4-3.6 mol%",
+      "equation": "k = 8.78608 exp(-2034.71324/RT)",
+      "temperature": "1120-1320 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-Na3AlF6",
+      "composition": "100-0 mol%",
+      "equation": "k = 11.477 exp(-2891.19237/RT)",
+      "temperature": "1120-1320 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-SmF3",
+      "composition": "50.0-50.0 mol%",
+      "equation": "k = 16.707 exp(-15437.96308/RT)",
+      "temperature": "1260-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-SmF3",
+      "composition": "60.0-40.0 mol%",
+      "equation": "k = 24.886 exp(-18221.62485/RT)",
+      "temperature": "1150-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-SmF3",
+      "composition": "70.0-30.0 mol%",
+      "equation": "k = 25.698 exp(-16936.69695/RT)",
+      "temperature": "1080-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-SmF3",
+      "composition": "80.0-20.0 mol%",
+      "equation": "k = 25.462 exp(-14781.4825/RT)",
+      "temperature": "1100-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-SmF3",
+      "composition": "90.0-10.0 mol%",
+      "equation": "k = 20.994 exp(-10523.35446/RT)",
+      "temperature": "1120-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-SmF3",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 20.471 exp(-7768.14436/RT)",
+      "temperature": "1150-1340 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-ThF4",
+      "composition": "50.2-49.8 mol%",
+      "equation": "k = 18.025 exp(-19404.04303/RT)",
+      "temperature": "1100-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-ThF4",
+      "composition": "58.2-41.8 mol%",
+      "equation": "k = 20.927 exp(-19255.09014/RT)",
+      "temperature": "1080-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-ThF4",
+      "composition": "71.9-28.1 mol%",
+      "equation": "k = 29.083 exp(-20196.08748/RT)",
+      "temperature": "920-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-ThF4",
+      "composition": "78.0-22.0 mol%",
+      "equation": "k = 33.778 exp(-19733.32934/RT)",
+      "temperature": "920-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-ThF4",
+      "composition": "96.8-3.2 mol%",
+      "equation": "k = 42.82 exp(-17178.5362/RT)",
+      "temperature": "1160-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-ThF4",
+      "composition": "100-0 mol%",
+      "equation": "k = 20.081 exp(-7576.09555/RT)",
+      "temperature": "1160-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-UF4",
+      "composition": "40.0-60.0 mol%",
+      "equation": "k = 11.651 exp(-13612.45334/RT)",
+      "temperature": "1180-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-UF4",
+      "composition": "50.0-50.0 mol%",
+      "equation": "k = 18.663 exp(-18130.41212/RT)",
+      "temperature": "1080-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-UF4",
+      "composition": "60.0-40.0 mol%",
+      "equation": "k = 25.24 exp(-19836.67587/RT)",
+      "temperature": "980-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-UF4",
+      "composition": "72.5-27.5 mol%",
+      "equation": "k = 23.529 exp(-17525.3956/RT)",
+      "temperature": "940-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-UF4",
+      "composition": "85.0-15.0 mol%",
+      "equation": "k = 20.711 exp(-13129.61166/RT)",
+      "temperature": "1080-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P230_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "LiF-UF4",
+      "composition": "95.0-5.0 mol%",
+      "equation": "k = 19.668 exp(-9342.6099/RT)",
+      "temperature": "1180-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

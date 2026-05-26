@@ -1,0 +1,22 @@
+{
+  "property": "surface_tension",
+  "normalized_records": 1447,
+  "filtered_records": 208,
+  "excluded_systems": [],
+  "validation_ratio": 0.2,
+  "temperature_interval": null,
+  "temperature_mean": 1035.4612134266738,
+  "temperature_std": 248.00749869063364,
+  "composition_interval": null,
+  "low_data_learning": false,
+  "low_data_learning_ratio": 1.0,
+  "train_records": 1127,
+  "val_records": 282,
+  "test_records": 38,
+  "train_samples_before_low_data": 5571,
+  "train_samples": 5571,
+  "val_samples": 1398,
+  "test_samples": 186,
+  "systems_train": 306,
+  "systems_val": 161
+}

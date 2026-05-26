@@ -1,0 +1,587 @@
+[
+  {
+    "index": "EXP_VIS_P276_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-LiF",
+      "composition": "0.0-100.0 mol%",
+      "equation": "v = 0.18549 exp (23472.6327/RT)",
+      "temperature": "1150-1340 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-LiF",
+      "composition": "10.0-90.0 mol%",
+      "equation": "v = 0.10194 exp (30373.00094/RT)",
+      "temperature": "1240-1390 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-LiF",
+      "composition": "22.5-77.5 mol%",
+      "equation": "v = 0.01192 exp (54072.82865/RT)",
+      "temperature": "1180-1350 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-LiF",
+      "composition": "25.0-75.0 mol%",
+      "equation": "v = 0.0224 exp (48079.14837/RT)",
+      "temperature": "1180-1340 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-LiF",
+      "composition": "30.0-70.0 mol%",
+      "equation": "v = 0.01691 exp (49932.69138/RT)",
+      "temperature": "1240-1380 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-LiF",
+      "composition": "35.0-65.0 mol%",
+      "equation": "v = 0.02949 exp (43137.7617/RT)",
+      "temperature": "1210-1330 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "0.00-100.00 mol%",
+      "equation": "v = 0.0397 exp (41133.59217/RT)",
+      "temperature": "1290-1470 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "4.54-95.46 mol%",
+      "equation": "v = 0.0737 exp (33773.39463/RT)",
+      "temperature": "1280-1460 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "10.00-90.00 mol%",
+      "equation": "v = 0.0462 exp (40507.23689/RT)",
+      "temperature": "1240-1460 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "16.67-83.33 mol%",
+      "equation": "v = 0.0363 exp (44654.06867/RT)",
+      "temperature": "1260-1410 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "21.42-78.58 mol%",
+      "equation": "v = 0.0172 exp (53685.38376/RT)",
+      "temperature": "1290-1460 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "25.00-75.00 mol%",
+      "equation": "v = 0.01736 exp (53945.21451/RT)",
+      "temperature": "1310-1440 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "28.96-71.04 mol%",
+      "equation": "v = 0.0284 exp (46785.43393/RT)",
+      "temperature": "1300-1450 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-NaF",
+      "composition": "37.99-62.01 mol%",
+      "equation": "v = 0.0352 exp (38494.28081/RT)",
+      "temperature": "1170-1370 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-Na3AlF6",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.1856 exp (20759.72348/RT)",
+      "temperature": "1303-1343 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-Na3AlF6",
+      "composition": "8.3-91.7 mol%",
+      "equation": "v = 0.0833865 exp (29279.28505/RT)",
+      "temperature": "1300-1340 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-Na3AlF6",
+      "composition": "15.7-84.3 mol%",
+      "equation": "v = 0.0785903 exp (29747.06407/RT)",
+      "temperature": "1300-1340 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-Na3AlF6",
+      "composition": "23.5-76.5 mol%",
+      "equation": "v = 0.0714934 exp (30503.54393/RT)",
+      "temperature": "1300-1340 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlF3-Na3AlF6",
+      "composition": "28.2-71.8 mol%",
+      "equation": "v = 0.0842072 exp (28367.57619/RT)",
+      "temperature": "1300-1340 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlI3",
+      "composition": "100 mol%",
+      "equation": "v = 0.06338 exp (14547.17458/RT)",
+      "temperature": "480-660 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "1.8-92.2 mol%",
+      "equation": "v = 1",
+      "temperature": "1773 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "16.1-83.9 mol%",
+      "equation": "v = 1.5",
+      "temperature": "1773 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "18.6-81.4 mol%",
+      "equation": "v = 1.5",
+      "temperature": "1673 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "24.7-75.3 mol%",
+      "equation": "v = 2",
+      "temperature": "1673 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "28.3-71.7 mol%",
+      "equation": "v = 0.3",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "29.2-70.8 mol%",
+      "equation": "v = 3",
+      "temperature": "1773 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "33.8-66.2 mol%",
+      "equation": "v = 7.402 x 10^-19 exp (6.3585646516 x 10^5/RT)",
+      "temperature": "1773-1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "38.5-61.5 mol%",
+      "equation": "v = 0.6",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "40.4-59.6 mol%",
+      "equation": "v = 0.8",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-CaF2",
+      "composition": "43.4-56.6 mol%",
+      "equation": "v = 1",
+      "temperature": "1873 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-NaF",
+      "composition": "40-10 Al2O3",
+      "equation": "v = -89.9 + 14.27 C - 0.038 C^2",
+      "temperature": "1673 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "7.9-92.1 mol%",
+      "equation": "v = 0.0225944 exp (49593.78171/RT)",
+      "temperature": "1280-1380 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "15.2-84.8 mol%",
+      "equation": "v = 0.0217493 exp (51100.04691/RT)",
+      "temperature": "1250-1360 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "21.9-78.1 mol%",
+      "equation": "v = 0.0254018 exp (51459.87693/RT)",
+      "temperature": "1240-1360 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "24.0-76.0 mol%",
+      "equation": "v = 0.0389771 exp (48623.07747/RT)",
+      "temperature": "1280-1460 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Al2O3-Na3AlF6",
+      "composition": "30.0-70.0 mol%",
+      "equation": "v = 0.0416906 exp (51493.34949/RT)",
+      "temperature": "1300-1480 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "As2O3",
+      "composition": "100 mol%",
+      "equation": "v = 0.01679 exp (92932.37877/RT)",
+      "temperature": "601-703 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2",
+      "composition": "100 mol%",
+      "equation": "v = 0.07993 exp (39521.55368/RT)",
+      "temperature": "1210-1320 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.03448 exp (28342.89018/RT)",
+      "temperature": "930-1030 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "11.42-88.58 mol%",
+      "equation": "v = 0.13769 exp (19196.51316/RT)",
+      "temperature": "1070-1250 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "24.32-75.68 mol%",
+      "equation": "v = 0.10483 exp (24368.02368/RT)",
+      "temperature": "1000-1240 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "33.02-66.98 mol%",
+      "equation": "v = 0.06616 exp (30539.52693/RT)",
+      "temperature": "1000-1190 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "43.75-56.25 mol%",
+      "equation": "v = 0.05559 exp (33849.1263/RT)",
+      "temperature": "1030-1200 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "53.37-46.63 mol%",
+      "equation": "v = 0.04584 exp (37560.39639/RT)",
+      "temperature": "1030-1200 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P276_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "BaCl2-CsCl",
+      "composition": "64.83-35.17 mol%",
+      "equation": "v = 0.02607 exp (44836.49412/RT)",
+      "temperature": "1100-1240 K",
+      "unit": "mN s m^-2"
+    }
+  }
+]

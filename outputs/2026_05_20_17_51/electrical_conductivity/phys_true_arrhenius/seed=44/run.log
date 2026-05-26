@@ -1,0 +1,42 @@
+starting electrical_conductivity model_setting=phys_true_arrhenius phys=true rk=false arrhenius=true n=none seed=44 batch_size=64 full_data=true
+{'property': 'electrical_conductivity', 'normalized_records': 3476, 'filtered_records': 573, 'excluded_systems': ['KF-ZrF4'], 'validation_ratio': 0.2, 'temperature_interval': None, 'temperature_mean': 880.7000448833033, 'temperature_std': 275.03402505355837, 'composition_interval': None, 'low_data_learning': False, 'low_data_learning_ratio': 1.0, 'train_records': 2735, 'val_records': 684, 'test_records': 57, 'train_samples_before_low_data': 13368, 'train_samples': 13368, 'val_samples': 3359, 'test_samples': 285, 'systems_train': 589, 'systems_val': 362}
+/usr/local/lib/python3.12/dist-packages/torch/nn/modules/transformer.py:505: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. We recommend specifying layout=torch.jagged when constructing a nested tensor, as this layout receives active development, has better operator coverage, and works with torch.compile. (Triggered internally at /opt/pytorch/pytorch/aten/src/ATen/NestedTensorImpl.cpp:178.)
+  output = torch._nested_tensor_from_mask(
+{'epoch': 1, 'train_loss': 0.22507487226758846, 'val_loss': 0.1454022406371978, 'val_rmse_log': 0.9333113541426584, 'val_mae_log': 0.3204011508502023}
+{'epoch': 2, 'train_loss': 0.1285985292661846, 'val_loss': 0.11813183138937743, 'val_rmse_log': 0.8386674632567598, 'val_mae_log': 0.2711306989072908}
+{'epoch': 3, 'train_loss': 0.11118540518948336, 'val_loss': 0.10878462823248415, 'val_rmse_log': 0.800731653474707, 'val_mae_log': 0.2536771231556969}
+{'epoch': 4, 'train_loss': 0.09730413161289464, 'val_loss': 0.10297672433848933, 'val_rmse_log': 0.7816838434427809, 'val_mae_log': 0.24372611461209281}
+{'epoch': 5, 'train_loss': 0.0863172582987892, 'val_loss': 0.09589740034755108, 'val_rmse_log': 0.7656139139395385, 'val_mae_log': 0.22963069666545238}
+{'epoch': 6, 'train_loss': 0.07783962237653122, 'val_loss': 0.08904983161263308, 'val_rmse_log': 0.7436742035793328, 'val_mae_log': 0.21604732880353925}
+{'epoch': 7, 'train_loss': 0.06497984903120396, 'val_loss': 0.08649269168985621, 'val_rmse_log': 0.7325847719333343, 'val_mae_log': 0.2084808300180171}
+{'epoch': 8, 'train_loss': 0.06442735916333335, 'val_loss': 0.08297930130699896, 'val_rmse_log': 0.7208974391514432, 'val_mae_log': 0.20156188137879488}
+{'epoch': 9, 'train_loss': 0.057267985758973225, 'val_loss': 0.08055622474167426, 'val_rmse_log': 0.7105285676400562, 'val_mae_log': 0.1924656842977067}
+{'epoch': 10, 'train_loss': 0.05552296433374999, 'val_loss': 0.07828739632518505, 'val_rmse_log': 0.693625350728838, 'val_mae_log': 0.18676009006806168}
+{'epoch': 11, 'train_loss': 0.053594442033186626, 'val_loss': 0.07899681675546574, 'val_rmse_log': 0.6979043415938948, 'val_mae_log': 0.18828831582911584}
+{'epoch': 12, 'train_loss': 0.05120631198189333, 'val_loss': 0.0780395837720343, 'val_rmse_log': 0.7090030715521141, 'val_mae_log': 0.18136682288756417}
+{'epoch': 13, 'train_loss': 0.04891209315918564, 'val_loss': 0.0792368479547495, 'val_rmse_log': 0.7043281934035577, 'val_mae_log': 0.1825955731627673}
+{'epoch': 14, 'train_loss': 0.047391272158892245, 'val_loss': 0.07743959853706776, 'val_rmse_log': 0.6828168575150139, 'val_mae_log': 0.17985897889009633}
+{'epoch': 15, 'train_loss': 0.044807953991744504, 'val_loss': 0.07809373486418066, 'val_rmse_log': 0.7059495007313574, 'val_mae_log': 0.17918003673218696}
+{'epoch': 16, 'train_loss': 0.04361271091768046, 'val_loss': 0.07660985005281444, 'val_rmse_log': 0.6926966524671314, 'val_mae_log': 0.1749311773619806}
+{'epoch': 17, 'train_loss': 0.04154722063922497, 'val_loss': 0.07831056193308027, 'val_rmse_log': 0.7163095914402592, 'val_mae_log': 0.17379627842390252}
+{'epoch': 18, 'train_loss': 0.04001411175105774, 'val_loss': 0.07730829744283461, 'val_rmse_log': 0.7025084247077088, 'val_mae_log': 0.1724739505444415}
+{'epoch': 19, 'train_loss': 0.03968228103200856, 'val_loss': 0.07981041071163315, 'val_rmse_log': 0.721116028192671, 'val_mae_log': 0.17301965414095324}
+{'epoch': 20, 'train_loss': 0.03766720596495927, 'val_loss': 0.08044490507223977, 'val_rmse_log': 0.726697208997232, 'val_mae_log': 0.1762919556668367}
+{'epoch': 21, 'train_loss': 0.03854667755628103, 'val_loss': 0.07868867764196727, 'val_rmse_log': 0.7123682329210008, 'val_mae_log': 0.17344490984319863}
+{'epoch': 22, 'train_loss': 0.038680476047383824, 'val_loss': 0.08114889456521508, 'val_rmse_log': 0.7394561208788717, 'val_mae_log': 0.17509481959741138}
+{'epoch': 23, 'train_loss': 0.03807707879086288, 'val_loss': 0.07930255056148008, 'val_rmse_log': 0.736206318771437, 'val_mae_log': 0.16900158608177704}
+{'epoch': 24, 'train_loss': 0.03768354334142148, 'val_loss': 0.07915421705341565, 'val_rmse_log': 0.7297755598810075, 'val_mae_log': 0.17037990116354146}
+{'epoch': 25, 'train_loss': 0.03617860445458638, 'val_loss': 0.08039484314954365, 'val_rmse_log': 0.737863752624865, 'val_mae_log': 0.1737392479027368}
+{'epoch': 26, 'train_loss': 0.033963453300903286, 'val_loss': 0.08051040969384869, 'val_rmse_log': 0.7410098915825001, 'val_mae_log': 0.17039230899450272}
+{'epoch': 27, 'train_loss': 0.034508038128383066, 'val_loss': 0.08098681331260728, 'val_rmse_log': 0.743425645542115, 'val_mae_log': 0.1727183633463845}
+{'epoch': 28, 'train_loss': 0.034447657623947664, 'val_loss': 0.08029804649797953, 'val_rmse_log': 0.7423900648994932, 'val_mae_log': 0.16922062525913717}
+{'epoch': 29, 'train_loss': 0.034034190267217504, 'val_loss': 0.08072603310300212, 'val_rmse_log': 0.7436566465657071, 'val_mae_log': 0.16868842898278982}
+{'epoch': 30, 'train_loss': 0.03366806761820636, 'val_loss': 0.08183922626315353, 'val_rmse_log': 0.7523802449197968, 'val_mae_log': 0.16995823795713255}
+{'epoch': 31, 'train_loss': 0.03312913206535164, 'val_loss': 0.0814080409868181, 'val_rmse_log': 0.7542419530744843, 'val_mae_log': 0.17001747575165146}
+{'epoch': 32, 'train_loss': 0.03267922955698837, 'val_loss': 0.08100806717444563, 'val_rmse_log': 0.750820700444787, 'val_mae_log': 0.16722309871562308}
+{'epoch': 33, 'train_loss': 0.032193871391001355, 'val_loss': 0.08063149279563354, 'val_rmse_log': 0.7490876348429054, 'val_mae_log': 0.16819391434394065}
+{'epoch': 34, 'train_loss': 0.03155343312297783, 'val_loss': 0.08119609386150567, 'val_rmse_log': 0.7535420508581272, 'val_mae_log': 0.16775309032200214}
+{'property': 'electrical_conductivity', 'validation': {'rmse': 7.09606097204735, 'mae': 0.568510336280815, 'pearson_r': 0.24085000073184407, 'rmse_log': 0.6828168575150139, 'mae_log': 0.17985897889009633, 'pearson_r_log': 0.9240374874132974}, 'ternary_test': {'rmse': 0.6663427108335761, 'mae': 0.37990337303516214, 'pearson_r': 0.864517529568324, 'rmse_log': 0.4547112550525827, 'mae_log': 0.2789441589102672, 'pearson_r_log': 0.9178557654164213}}
+/usr/local/lib/python3.12/dist-packages/torch/nn/modules/transformer.py:505: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. We recommend specifying layout=torch.jagged when constructing a nested tensor, as this layout receives active development, has better operator coverage, and works with torch.compile. (Triggered internally at /opt/pytorch/pytorch/aten/src/ATen/NestedTensorImpl.cpp:178.)
+  output = torch._nested_tensor_from_mask(
+{'property': 'electrical_conductivity', 'validation': {'rmse': 7.09606097204735, 'mae': 0.568510336280815, 'pearson_r': 0.24085000073184407, 'rmse_log': 0.6828168575150139, 'mae_log': 0.17985897889009633, 'pearson_r_log': 0.9240374874132974}, 'ternary_test': {'rmse': 0.6663427108335761, 'mae': 0.37990337303516214, 'pearson_r': 0.864517529568324, 'rmse_log': 0.4547112550525827, 'mae_log': 0.2789441589102672, 'pearson_r_log': 0.9178557654164213}}

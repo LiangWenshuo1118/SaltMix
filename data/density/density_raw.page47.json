@@ -1,0 +1,457 @@
+[
+  {
+    "index": "EXP_DEN_P047_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgBr2",
+      "composition": "100 mol%",
+      "equation": "d = 6.7715 - 0.0032331 T",
+      "temperature": "511-592 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgBr2-HgI2",
+      "composition": "0-100 mol%",
+      "equation": "d = 5.34",
+      "temperature": "531.2 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgBr2-HgI2",
+      "composition": "59-41 mol%",
+      "equation": "d = 6.548 - 0.002412 T",
+      "temperature": "493-531 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgBr2-HgI2",
+      "composition": "100-0 mol%",
+      "equation": "d = 6.3816 - 0.0021889 T",
+      "temperature": "513-531 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2",
+      "composition": "100 mol%",
+      "equation": "d = 5.9391 - 0.0028624 T",
+      "temperature": "550-577 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "0-100 mol%",
+      "equation": "d = 5.8077 - 0.0018812 T",
+      "temperature": "484-553 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "10-90 mol%",
+      "equation": "d = 5.807 - 0.0018821 T",
+      "temperature": "460-550 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "20-80 mol%",
+      "equation": "d = 5.807 - 0.0018821 T",
+      "temperature": "460-550 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "30-70 mol%",
+      "equation": "d = 5.807 - 0.0018821 T",
+      "temperature": "460-550 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "40-60 mol%",
+      "equation": "d = 5.807 - 0.0018821 T",
+      "temperature": "460-550 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgCl2-TlNO3",
+      "composition": "50-50 mol%",
+      "equation": "d = 5.807 - 0.0018821 T",
+      "temperature": "460-550 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "HgI2",
+      "composition": "100 mol%",
+      "equation": "d = 6.9435 - 0.0032351 T",
+      "temperature": "532-627 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Hg2Cl2",
+      "composition": "100 mol%",
+      "equation": "d = 9.0928 - 0.004 T",
+      "temperature": "799-850 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "InBr3",
+      "composition": "100 mol%",
+      "equation": "d = 4.184 - 0.0015 T",
+      "temperature": "721-801 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "InCl",
+      "composition": "100 mol%",
+      "equation": "d = 4.437 - 0.0014 T",
+      "temperature": "542-638 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "InCl2",
+      "composition": "100 mol%",
+      "equation": "d = 3.863 - 0.0016 T",
+      "temperature": "541-710 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "InCl3",
+      "composition": "100 mol%",
+      "equation": "d = 3.944 - 0.0021 T",
+      "temperature": "870-939 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "InI3",
+      "composition": "100 mol%",
+      "equation": "d = 4.5448 - 0.0015 T",
+      "temperature": "503-633 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KAlCl4-LiAlBr4-NaAlCl4",
+      "composition": "20-30-50 mol%",
+      "equation": "d = 2.07",
+      "temperature": "373 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBF4",
+      "composition": "100 mol%",
+      "equation": "d = 2.4506 - 8.15 x 10^-4 T",
+      "temperature": "890-990 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "0-100 mol%",
+      "equation": "d = 1.969 + 9.9629 x 10^-5 T",
+      "temperature": "1173-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "3.2-96.8 mol%",
+      "equation": "d = 2.08",
+      "temperature": "1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "7.2-92.8 mol%",
+      "equation": "d = 1.69 + 3.6 x 10^-4 T",
+      "temperature": "1123-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "14.8-85.2 mol%",
+      "equation": "d = 1.725 + 3.4 x 10^-4 T",
+      "temperature": "1123-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "22.9-77.1 mol%",
+      "equation": "d = 1.711 + 3.5 x 10^-4 T",
+      "temperature": "1123-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "31.6-68.4 mol%",
+      "equation": "d = 1.702 + 3.5 x 10^-4 T",
+      "temperature": "1123-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "41.0-59.0 mol%",
+      "equation": "d = 1.537 + 4.8 x 10^-4 T",
+      "temperature": "1123-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "51.0-49.0 mol%",
+      "equation": "d = 1.425 + 5.5 x 10^-4 T",
+      "temperature": "1123-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "61.8-38.2 mol%",
+      "equation": "d = 1.421 + 5.3 x 10^-4 T",
+      "temperature": "1123-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "73.6-26.5 mol%",
+      "equation": "d = 1.356 + 5.5 x 10^-4 T",
+      "temperature": "1123-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBO2-KPO3",
+      "composition": "89.5-10.5 mol%",
+      "equation": "d = 1.288 + 5.6 x 10^-4 T",
+      "temperature": "1123-1223 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr",
+      "composition": "100 mol%",
+      "equation": "d = 2.9583 - 8.253 x 10^-4 T",
+      "temperature": "1014-1203 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-KCl",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.1089 - 5.583 x 10^-4 T",
+      "temperature": "1060-1210 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-KCl",
+      "composition": "20-80 mol%",
+      "equation": "d = 2.3228 - 6.367 x 10^-4 T",
+      "temperature": "1050-1200 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P047_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KBr-KCl",
+      "composition": "40-60 mol%",
+      "equation": "d = 2.503 - 6.937 x 10^-4 T",
+      "temperature": "1040-1220 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

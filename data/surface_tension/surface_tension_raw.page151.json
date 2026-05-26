@@ -1,0 +1,444 @@
+[
+  {
+    "index": "EXP_ST_P151_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na3AlF6",
+      "composition": "100 mol%",
+      "equation": "g = 297 - 0.128 T",
+      "temperature": "1273-1353 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na3AlF6",
+      "composition": "100 mol%",
+      "equation": "g = 309.896 - 0.1369 T",
+      "temperature": "1273-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7",
+      "composition": "100 mol%",
+      "equation": "g = 389.56 - 0.11001 T",
+      "temperature": "1280-1370 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "34-66 mol%",
+      "equation": "g = 303.37 - 0.10246 T",
+      "temperature": "1120-1360 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "40-60 mol%",
+      "equation": "g = 321.46 - 0.11081 T",
+      "temperature": "1120-1360 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "45-55 mol%",
+      "equation": "g = 334.214 - 0.11683 T",
+      "temperature": "1120-1360 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "50-50 mol%",
+      "equation": "g = 316.743 - 0.10014 T",
+      "temperature": "1120-1360 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "55.2-44.8 mol%",
+      "equation": "g = 326.81 - 0.10424 T",
+      "temperature": "1120-1360 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "60-40 mol%",
+      "equation": "g = 331.714 - 0.10344 T",
+      "temperature": "1120-1360 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "69.3-30.7 mol%",
+      "equation": "g = 340.58 - 0.10081 T",
+      "temperature": "1270-1370 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "77.8-22.2 mol%",
+      "equation": "g = 374.622 - 0.12203 T",
+      "temperature": "1270-1370 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "85.72-14.28 mol%",
+      "equation": "g = 414.07 - 0.14601 T",
+      "temperature": "1270-1370 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "92.5-7.5 mol%",
+      "equation": "g = 380.4 - 0.11301 T",
+      "temperature": "1270-1370 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na4P2O7-WO3",
+      "composition": "100-0 mol%",
+      "equation": "g = 389.56 - 0.11001 T",
+      "temperature": "1280-1370 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NH4NO3",
+      "composition": "100 mol%",
+      "equation": "g = 148.4 - 0.105 T",
+      "temperature": "443-493 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2",
+      "composition": "100 mol%",
+      "equation": "g = 233.7 - 0.124 T",
+      "temperature": "791-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2",
+      "composition": "100 mol%",
+      "equation": "g = 227.9 - 0.122 T",
+      "temperature": "823-873 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "27.50-72.50 mol%",
+      "equation": "g = 174.1704 - 0.082888 T",
+      "temperature": "840-860 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "42.23-57.77 mol%",
+      "equation": "g = 188.6019 - 0.102465 T",
+      "temperature": "800-820 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "45.00-55.00 mol%",
+      "equation": "g = 166.1787 - 0.073647 T",
+      "temperature": "800-850 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "49.08-50.92 mol%",
+      "equation": "g = 180.3699 - 0.091331 T",
+      "temperature": "800-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "68.10-31.90 mol%",
+      "equation": "g = 189.8578 - 0.098722 T",
+      "temperature": "800-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "80.20-19.80 mol%",
+      "equation": "g = 200.7342 - 0.103011 T",
+      "temperature": "800-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "96.04-3.96 mol%",
+      "equation": "g = 224.1056 - 0.117755 T",
+      "temperature": "800-850 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "100.00-0.00 mol%",
+      "equation": "g = 233.7 - 0.124 T",
+      "temperature": "791-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbMoO4",
+      "composition": "100 mol%",
+      "equation": "g = 257.94 - 0.08051 T",
+      "temperature": "1380-1470 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbMoO4-PbO",
+      "composition": "0-100 mol%",
+      "equation": "g = 244.26 - 0.0695 T",
+      "temperature": "1300-1350 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbMoO4-PbO",
+      "composition": "5-95 mol%",
+      "equation": "g = 196.6 - 0.0455 T",
+      "temperature": "1300-1400 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbMoO4-PbO",
+      "composition": "12-88 mol%",
+      "equation": "g = 174.14 - 0.0327 T",
+      "temperature": "1140-1220 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbMoO4-PbO",
+      "composition": "40-60 mol%",
+      "equation": "g = 238.05 - 0.0581 T",
+      "temperature": "1280-1360 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbMoO4-PbO",
+      "composition": "60-40 mol%",
+      "equation": "g = 198 - 0.0395 T",
+      "temperature": "1240-1360 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbMoO4-PbO",
+      "composition": "80-20 mol%",
+      "equation": "g = 209.68 - 0.0473 T",
+      "temperature": "1360-1440 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbMoO4-PbO",
+      "composition": "100-0 mol%",
+      "equation": "g = 257.94 - 0.08051 T",
+      "temperature": "1380-1470 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P151_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbO",
+      "composition": "100 mol%",
+      "equation": "g = 244.26 - 0.0695 T",
+      "temperature": "1300-1350 K",
+      "unit": "mN m^-1"
+    }
+  }
+]

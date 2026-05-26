@@ -1,0 +1,613 @@
+[
+  {
+    "index": "EXP_ST_P134_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-NdCl3",
+      "composition": "100-0 mol%",
+      "equation": "g = 175.559 - 0.0738 T",
+      "temperature": "1073-1223 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PbCl2",
+      "composition": "0.00-100.00 mol%",
+      "equation": "g = 233.7 - 0.124 T",
+      "temperature": "795-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PbCl2",
+      "composition": "24.32-75.68 mol%",
+      "equation": "g = 201.426 - 0.104167 T",
+      "temperature": "765-775 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PbCl2",
+      "composition": "35.88-64.12 mol%",
+      "equation": "g = 193.7382 - 0.098527 T",
+      "temperature": "775-845 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PbCl2",
+      "composition": "50.87-49.13 mol%",
+      "equation": "g = 193.1133 - 0.100855 T",
+      "temperature": "770-820 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PbCl2",
+      "composition": "51.15-48.85 mol%",
+      "equation": "g = 196.6602 - 0.105613 T",
+      "temperature": "765-825 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PbCl2",
+      "composition": "63.14-36.86 mol%",
+      "equation": "g = 180.9981 - 0.085499 T",
+      "temperature": "830-870 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PbCl2",
+      "composition": "68.23-31.77 mol%",
+      "equation": "g = 169.9381 - 0.073489 T",
+      "temperature": "870-895 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PrCl3",
+      "composition": "0-100 mol%",
+      "equation": "g = 146.1 - 0.03729 T",
+      "temperature": "1103-1199 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PrCl3",
+      "composition": "14-86 mol%",
+      "equation": "g = 140.8 - 0.03695 T",
+      "temperature": "1154-1225 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PrCl3",
+      "composition": "29.1-70.9 mol%",
+      "equation": "g = 142.3 - 0.04043 T",
+      "temperature": "1093-1222 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PrCl3",
+      "composition": "42.9-57.1 mol%",
+      "equation": "g = 147.8 - 0.04821 T",
+      "temperature": "1115-1215 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PrCl3",
+      "composition": "56.9-43.1 mol%",
+      "equation": "g = 155 - 0.05591 T",
+      "temperature": "1093-1213 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PrCl3",
+      "composition": "80-20 mol%",
+      "equation": "g = 166.2 - 0.06692 T",
+      "temperature": "1091-1212 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-PrCl3",
+      "composition": "100-0 mol%",
+      "equation": "g = 177.61 - 0.07519 T",
+      "temperature": "1127-1209 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-RbBr",
+      "composition": "0-100 mol%",
+      "equation": "g = 139.1 - 0.0545 T",
+      "temperature": "970-1170 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-RbBr",
+      "composition": "15-85 mol%",
+      "equation": "g = 149 - 0.063 T",
+      "temperature": "1060-1220 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-RbBr",
+      "composition": "30-70 mol%",
+      "equation": "g = 152.3 - 0.0644 T",
+      "temperature": "1050-1240 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-RbBr",
+      "composition": "50-50 mol%",
+      "equation": "g = 163.6 - 0.0725 T",
+      "temperature": "1050-1220 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-RbBr",
+      "composition": "70-30 mol%",
+      "equation": "g = 162.2 - 0.0684 T",
+      "temperature": "1080-1220 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-RbBr",
+      "composition": "80-20 mol%",
+      "equation": "g = 161.5 - 0.0659 T",
+      "temperature": "1070-1230 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-RbBr",
+      "composition": "90-10 mol%",
+      "equation": "g = 168.8 - 0.0707 T",
+      "temperature": "1060-1250 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-RbBr",
+      "composition": "100-0 mol%",
+      "equation": "g = 172.4 - 0.071 T",
+      "temperature": "1070-1260 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-SrCl2",
+      "composition": "0-100 mol%",
+      "equation": "g = 230.7 - 0.0541 T",
+      "temperature": "1157-1307 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-SrCl2",
+      "composition": "20-80 mol%",
+      "equation": "g = 210.9 - 0.0664 T",
+      "temperature": "1030-1300 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-SrCl2",
+      "composition": "40-60 mol%",
+      "equation": "g = 206.12 - 0.0711 T",
+      "temperature": "1010-1300 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-SrCl2",
+      "composition": "60-40 mol%",
+      "equation": "g = 186.87 - 0.0661 T",
+      "temperature": "1010-1300 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-SrCl2",
+      "composition": "80-20 mol%",
+      "equation": "g = 194.25 - 0.0788 T",
+      "temperature": "1010-1310 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-SrCl2",
+      "composition": "100-0 mol%",
+      "equation": "g = 187.57 - 0.0837 T",
+      "temperature": "1080-1290 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "0-100 mol%",
+      "equation": "g = 311.5 - 0.165 T",
+      "temperature": "1123-1323 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "10-90 mol%",
+      "equation": "g = 280.33 - 0.145 T",
+      "temperature": "1113-1343 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "20-80 mol%",
+      "equation": "g = 257.99 - 0.13122 T",
+      "temperature": "1024-1363 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "30-70 mol%",
+      "equation": "g = 236.07 - 0.122 T",
+      "temperature": "974-1323 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "40-60 mol%",
+      "equation": "g = 238.45 - 0.118 T",
+      "temperature": "979-1340 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "50-50 mol%",
+      "equation": "g = 234.39 - 0.115 T",
+      "temperature": "978-1348 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "60-40 mol%",
+      "equation": "g = 223.1 - 0.107 T",
+      "temperature": "984-1338 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "70-30 mol%",
+      "equation": "g = 211.14 - 0.1 T",
+      "temperature": "992-1330 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "80-20 mol%",
+      "equation": "g = 197.57 - 0.09 T",
+      "temperature": "1000-1323 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "90-10 mol%",
+      "equation": "g = 191.77 - 0.086 T",
+      "temperature": "1015-1336 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl3",
+      "composition": "100-0 mol%",
+      "equation": "g = 187 - 0.082 T",
+      "temperature": "1053-1323 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl4",
+      "composition": "0-100 mol%",
+      "equation": "g = 204.95 - 0.185 T",
+      "temperature": "880-960 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl4",
+      "composition": "39.33-60.67 mol%",
+      "equation": "g = 102.83 - 0.0621 T",
+      "temperature": "890-980 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl4",
+      "composition": "56.04-43.96 mol%",
+      "equation": "g = 93.04 - 0.04808 T",
+      "temperature": "880-990 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl4",
+      "composition": "64.31-35.69 mol%",
+      "equation": "g = 69.73 - 0.00865 T",
+      "temperature": "930-1010 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl4",
+      "composition": "73.68-26.32 mol%",
+      "equation": "g = 77.59 - 0.01349 T",
+      "temperature": "870-1050 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl4",
+      "composition": "96.00-4.00 mol%",
+      "equation": "g = 136.65 - 0.06732 T",
+      "temperature": "1020-1150 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P134_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KCl-UCl4",
+      "composition": "97.33-2.67 mol%",
+      "equation": "g = 164.82 - 0.08871 T",
+      "temperature": "1050-1090 K",
+      "unit": "mN m^-1"
+    }
+  }
+]

@@ -1,0 +1,561 @@
+[
+  {
+    "index": "EXP_VIS_P285_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LaCl3",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.03448 exp(28342.89018/RT)",
+      "temperature": "930-1030 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.05 exp(25941.234/RT)",
+      "temperature": "893-1083 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.044257 exp(26694.3666/RT)",
+      "temperature": "930-1060 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "25-75 mol%",
+      "equation": "v = 0.088 exp(20439.18195/RT)",
+      "temperature": "903-1083 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "30-70 mol%",
+      "equation": "v = 0.058263 exp(23388.9513/RT)",
+      "temperature": "840-1050 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "45-55 mol%",
+      "equation": "v = 0.042181 exp(26317.8003/RT)",
+      "temperature": "840-1060 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "50-50 mol%",
+      "equation": "v = 0.068 exp(23221.5885/RT)",
+      "temperature": "913-1093 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "60-40 mol%",
+      "equation": "v = 0.034348 exp(28284.3132/RT)",
+      "temperature": "920-1020 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "70-30 mol%",
+      "equation": "v = 0.041733 exp(26819.8887/RT)",
+      "temperature": "870-1060 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "75-25 mol%",
+      "equation": "v = 0.040057 exp(27070.9329/RT)",
+      "temperature": "830-1060 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "75-25 mol%",
+      "equation": "v = 0.061 exp(24476.8095/RT)",
+      "temperature": "908-1083 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "80-20 mol%",
+      "equation": "v = 0.049971 exp(25439.1456/RT)",
+      "temperature": "890-1060 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "90-10 mol%",
+      "equation": "v = 0.05926 exp(24602.3316/RT)",
+      "temperature": "910-1070 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.034478 exp(28242.4725/RT)",
+      "temperature": "930-1030 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-LiCl",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.084 exp(22552.1373/RT)",
+      "temperature": "963-1083 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-RbCl",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.072 exp(24602.3316/RT)",
+      "temperature": "1013-1113 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-RbCl",
+      "composition": "50-50 mol%",
+      "equation": "v = 0.063 exp(25200.6536/RT)",
+      "temperature": "943-1118 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-RbCl",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.084 exp(22552.1373/RT)",
+      "temperature": "963-1083 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ZnCl2",
+      "composition": "5.6-94.4 mol%",
+      "equation": "v = 3.961 x 10^-4 exp(67497.41724/RT)",
+      "temperature": "593-726 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ZnCl2",
+      "composition": "12.0-88.0 mol%",
+      "equation": "v = 0.001314 exp(56164.86365/RT)",
+      "temperature": "576-687 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ZnCl2",
+      "composition": "19.3-80.7 mol%",
+      "equation": "v = 0.00271 exp(47593.37784/RT)",
+      "temperature": "555-638 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ZnCl2",
+      "composition": "26.1-73.9 mol%",
+      "equation": "v = 0.005044 exp(42273.33284/RT)",
+      "temperature": "549-596 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ZnCl2",
+      "composition": "33.2-66.8 mol%",
+      "equation": "v = 0.00349 exp(42193.83551/RT)",
+      "temperature": "547-598 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ZnCl2",
+      "composition": "49.4-50.6 mol%",
+      "equation": "v = 0.05385 exp(26321.56596/RT)",
+      "temperature": "692-879 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ZnCl2",
+      "composition": "59.5-40.5 mol%",
+      "equation": "v = 0.06688 exp(26125.33308/RT)",
+      "temperature": "834-1016 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ZnCl2",
+      "composition": "68.3-31.7 mol%",
+      "equation": "v = 0.05935 exp(26978.46495/RT)",
+      "temperature": "883-1065 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ZnCl2",
+      "composition": "84.1-15.9 mol%",
+      "equation": "v = 0.08111 exp(23799.82697/RT)",
+      "temperature": "835-1013 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsCl-ZnCl2",
+      "composition": "100.0-0.0 mol%",
+      "equation": "v = 0.06791 exp(23342.92653/RT)",
+      "temperature": "944-1115 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsF",
+      "composition": "100 mol%",
+      "equation": "v = 0.101637 exp(22177.03542/RT)",
+      "temperature": "982-1281 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsF-CsI",
+      "composition": "0-100 CsI",
+      "equation": "v = 1.302 + 7.338 x 10^-4 C - 3.595 x 10^-4 C^2 + 6.08 x 10^-6 C^3 - 2.846 x 10^-8 C^4",
+      "temperature": "1070 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsI",
+      "composition": "100 mol%",
+      "equation": "v = 0.0772 exp(22701.2994/RT)",
+      "temperature": "917-1198 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2",
+      "composition": "100 mol%",
+      "equation": "v = 0.1058 exp(17627.48691/RT)",
+      "temperature": "688-739 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3",
+      "composition": "100 mol%",
+      "equation": "v = 0.039363 exp(23193.13682/RT)",
+      "temperature": "685-740 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-KNO3",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.07375 exp(18665.13627/RT)",
+      "temperature": "630-770 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-KNO3",
+      "composition": "25-75 mol%",
+      "equation": "v = 0.06704 exp(19351.32375/RT)",
+      "temperature": "600-770 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-KNO3",
+      "composition": "50-50 mol%",
+      "equation": "v = 0.07851 exp(18690.24069/RT)",
+      "temperature": "580-770 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-KNO3",
+      "composition": "75-25 mol%",
+      "equation": "v = 0.0845664 exp(18583.96531/RT)",
+      "temperature": "630-770 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-KNO3",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.05236 exp(22020.76041/RT)",
+      "temperature": "700-770 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO3",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.08363 exp(18690.24069/RT)",
+      "temperature": "550-690 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO3",
+      "composition": "20-80 mol%",
+      "equation": "v = 0.0905 exp(17485.22853/RT)",
+      "temperature": "530-690 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO3",
+      "composition": "40-60 mol%",
+      "equation": "v = 0.1199 exp(15669.34215/RT)",
+      "temperature": "530-690 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO3",
+      "composition": "60-40 mol%",
+      "equation": "v = 0.1118 exp(16203.64789/RT)",
+      "temperature": "550-690 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P285_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO3",
+      "composition": "80-20 mol%",
+      "equation": "v = 0.09988 exp(17380.62678/RT)",
+      "temperature": "580-690 K",
+      "unit": "mN s m^-2"
+    }
+  }
+]

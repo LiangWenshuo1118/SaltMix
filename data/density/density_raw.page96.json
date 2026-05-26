@@ -1,0 +1,483 @@
+[
+  {
+    "index": "EXP_DEN_P096_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ThCl4",
+      "composition": "100 mol%",
+      "equation": "d = 4.823 - 0.0014 T",
+      "temperature": "1050-1120 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "ThF4",
+      "composition": "100 mol%",
+      "equation": "d = 7.108 - 7.59 x 10^-4 T",
+      "temperature": "1393-1651 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TiCl4",
+      "composition": "100 mol%",
+      "equation": "d = 2.237 - 0.001735 T",
+      "temperature": "260-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr",
+      "composition": "100 mol%",
+      "equation": "d = 7.2682 - 0.001755 T",
+      "temperature": "760-920 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "0-100 mol%",
+      "equation": "d = 6.959 - 0.001876 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "10-90 mol%",
+      "equation": "d = 6.933 - 0.00181 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "20-80 mol%",
+      "equation": "d = 7.041 - 0.001898 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "30-70 mol%",
+      "equation": "d = 7.205 - 0.002048 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "40-60 mol%",
+      "equation": "d = 7.362 - 0.002186 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "50-50 mol%",
+      "equation": "d = 7.482 - 0.002271 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "60-40 mol%",
+      "equation": "d = 7.54 - 0.002278 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "70-30 mol%",
+      "equation": "d = 7.505 - 0.002185 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "80-20 mol%",
+      "equation": "d = 7.441 - 0.002056 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "90-10 mol%",
+      "equation": "d = 7.387 - 0.001936 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlCl",
+      "composition": "100-0 mol%",
+      "equation": "d = 7.441 - 0.001929 T",
+      "temperature": "786-923 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "0.0-100.0 mol%",
+      "equation": "d = 7.332 - 0.001703 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "11.47-88.53 mol%",
+      "equation": "d = 7.3071 - 0.0017026 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "22.56-77.44 mol%",
+      "equation": "d = 7.7623 - 0.0026808 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "33.31-66.69 mol%",
+      "equation": "d = 7.3122 - 0.0017352 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "44.81-55.19 mol%",
+      "equation": "d = 7.3009 - 0.0017374 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "45.8-54.2 mol%",
+      "equation": "d = 7.3134 - 0.0018438 T",
+      "temperature": "700-1250 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "54.23-45.77 mol%",
+      "equation": "d = 7.3022 - 0.0017517 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "63.61-36.39 mol%",
+      "equation": "d = 7.3071 - 0.0017707 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "73.11-26.89 mol%",
+      "equation": "d = 7.3076 - 0.001784 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "82.33-17.67 mol%",
+      "equation": "d = 7.3083 - 0.0017976 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "91.29-8.71 mol%",
+      "equation": "d = 7.2991 - 0.0018073 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlBr-TlI",
+      "composition": "100.0-0.0 mol%",
+      "equation": "d = 7.2944 - 0.0018136 T",
+      "temperature": "733-1173 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlCl",
+      "composition": "100 mol%",
+      "equation": "d = 6.893 - 0.0018 T",
+      "temperature": "708-915 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlCl-ZnCl2",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.822 - 5.06 x 10^-4 T",
+      "temperature": "630-720 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlCl-ZnCl2",
+      "composition": "10-90 mol%",
+      "equation": "d = 3.272 - 7.63 x 10^-4 T",
+      "temperature": "650-720 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlCl-ZnCl2",
+      "composition": "20-80 mol%",
+      "equation": "d = 3.569 - 8.1 x 10^-4 T",
+      "temperature": "630-770 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlCl-ZnCl2",
+      "composition": "28-72 mol%",
+      "equation": "d = 3.89 - 9.28 x 10^-4 T",
+      "temperature": "650-720 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlCl-ZnCl2",
+      "composition": "40-60 mol%",
+      "equation": "d = 4.344 - 0.001075 T",
+      "temperature": "640-720 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlCl-ZnCl2",
+      "composition": "50-50 mol%",
+      "equation": "d = 4.732 - 0.001209 T",
+      "temperature": "650-720 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlCl-ZnCl2",
+      "composition": "60-40 mol%",
+      "equation": "d = 4.986 - 0.001212 T",
+      "temperature": "650-770 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlCl-ZnCl2",
+      "composition": "70-30 mol%",
+      "equation": "d = 5.405 - 0.001355 T",
+      "temperature": "660-730 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P096_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "TlCl-ZnCl2",
+      "composition": "80-20 mol%",
+      "equation": "d = 5.833 - 0.001465 T",
+      "temperature": "660-730 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "index": "EXP_EC_P246_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3",
+      "composition": "100 mol%",
+      "equation": "k = 10.797 exp(-15941.3067/RT)",
+      "temperature": "940-1280 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "0-100 mol%",
+      "equation": "k = 4881.4 exp(-90821.93386/RT)",
+      "temperature": "965-1215 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "0-100 mol%",
+      "equation": "k = 16.1687 exp(-35010.20573/RT)",
+      "temperature": "1140-1237 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "1.0-99.0 mol%",
+      "equation": "k = 2290.87 exp(-78660.516/RT)",
+      "temperature": "1000-1100 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "6.6-93.4 mol%",
+      "equation": "k = 1621.81 exp(-71966.004/RT)",
+      "temperature": "1000-1100 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "9.8-90.2 mol%",
+      "equation": "k = 37.1483 exp(-35766.26717/RT)",
+      "temperature": "980-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "9.9-90.1 mol%",
+      "equation": "k = 588.84 exp(-61505.829/RT)",
+      "temperature": "1000-1100 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "15.5-84.5 mol%",
+      "equation": "k = 186.21 exp(-49790.433/RT)",
+      "temperature": "1000-1100 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "17.7-82.3 mol%",
+      "equation": "k = 41.9907 exp(-31824.87323/RT)",
+      "temperature": "1040-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "20.0-80.0 mol%",
+      "equation": "k = 208.93 exp(-49790.433/RT)",
+      "temperature": "1000-1100 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "21.0-79.0 mol%",
+      "equation": "k = 56.9945 exp(-34289.70887/RT)",
+      "temperature": "1040-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "23.8-76.2 mol%",
+      "equation": "k = 204.17 exp(-48953.619/RT)",
+      "temperature": "1000-1100 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "28.5-71.5 mol%",
+      "equation": "k = 162.18 exp(-45187.956/RT)",
+      "temperature": "1000-1100 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "33.0-67.0 mol%",
+      "equation": "k = 35.5096 exp(-30126.14081/RT)",
+      "temperature": "980-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "49.8-50.2 mol%",
+      "equation": "k = 6.3956 exp(-17941.71057/RT)",
+      "temperature": "920-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "56.9-43.1 mol%",
+      "equation": "k = 13.7617 exp(-24463.00207/RT)",
+      "temperature": "920-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "78.3-21.7 mol%",
+      "equation": "k = 6.70205 exp(-15657.20835/RT)",
+      "temperature": "920-1160 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaVO3-V2O5",
+      "composition": "100-0 mol%",
+      "equation": "k = 9.043 exp(-14276.04684/RT)",
+      "temperature": "923-1173 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7",
+      "composition": "100 mol%",
+      "equation": "k = 36.42 exp(-45016.40913/RT)",
+      "temperature": "1030-1260 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "50-50 mol%",
+      "equation": "k = 104.469 exp(-54246.46755/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "56.3-43.7 mol%",
+      "equation": "k = 67.9469 exp(-50664.90363/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "61.8-38.2 mol%",
+      "equation": "k = 81.6379 exp(-52970.3262/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "66.7-33.3 mol%",
+      "equation": "k = 49.7826 exp(-47472.45822/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "71-29 mol%",
+      "equation": "k = 53.4662 exp(-48405.50583/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "75-25 mol%",
+      "equation": "k = 59.009 exp(-50242.31256/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "79-21 mol%",
+      "equation": "k = 84.9694 exp(-53953.58265/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "81.8-18.2 mol%",
+      "equation": "k = 51.6383 exp(-48685.83852/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "84.8-15.2 mol%",
+      "equation": "k = 46.8646 exp(-47786.26347/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "87.5-12.5 mol%",
+      "equation": "k = 56.2119 exp(-49505.91624/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "90-10 mol%",
+      "equation": "k = 54.5624 exp(-49476.62775/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "92.3-7.7 mol%",
+      "equation": "k = 40.7502 exp(-46242.34164/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "94.4-5.6 mol%",
+      "equation": "k = 26.7059 exp(-41748.65046/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "96.4-3.6 mol%",
+      "equation": "k = 29.2078 exp(-42372.07689/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "98.3-1.7 mol%",
+      "equation": "k = 30.2486 exp(-42878.34936/RT)",
+      "temperature": "1070-1270 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2B4O7-WO3",
+      "composition": "100-0 mol%",
+      "equation": "k = 36.42 exp(-45016.40913/RT)",
+      "temperature": "1030-1260 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2CO3",
+      "composition": "100 mol%",
+      "equation": "k = 13.758 exp(-14757.21489/RT)",
+      "temperature": "1138-1240 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2CrO4",
+      "composition": "100 mol%",
+      "equation": "k = 21.858 exp(-21290.22179/RT)",
+      "temperature": "1073-1113 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2MoO4",
+      "composition": "100 mol%",
+      "equation": "k = 15.609 exp(-21388.96584/RT)",
+      "temperature": "1024-1237 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2S",
+      "composition": "100 mol%",
+      "equation": "k = 71.505 exp(-30376.3482/RT)",
+      "temperature": "1240-1320 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2S-PbS",
+      "composition": "7.3-92.7 mol%",
+      "equation": "k = 1388.63 exp(-28288.07886/RT)",
+      "temperature": "1383-1483 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2S-PbS",
+      "composition": "23.2-76.8 mol%",
+      "equation": "k = 4185.62 exp(-56794.56618/RT)",
+      "temperature": "1290-1310 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P246_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Na2S-PbS",
+      "composition": "30-70 mol%",
+      "equation": "k = 7867.04 exp(-70300.74414/RT)",
+      "temperature": "1250-1310 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

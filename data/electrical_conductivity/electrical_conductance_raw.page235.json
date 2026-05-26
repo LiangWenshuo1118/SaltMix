@@ -1,0 +1,470 @@
+[
+  {
+    "index": "EXP_EC_P235_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgCl2-MgO",
+      "composition": "98.2-1.8 mol%",
+      "equation": "k = 6.86689 exp(-15809.09009/RT)",
+      "temperature": "1000-1240 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgCl2-NaCl",
+      "composition": "0-100 mol%",
+      "equation": "k = 7.797 exp(-6851.83303/RT)",
+      "temperature": "1100-1130 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgCl2-NaCl",
+      "composition": "20-80 mol%",
+      "equation": "k = 6.925 exp(-7449.73664/RT)",
+      "temperature": "1020-1060 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgCl2-NaCl",
+      "composition": "40-60 mol%",
+      "equation": "k = 5.746 exp(-8150.56836/RT)",
+      "temperature": "1000-1090 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgCl2-NaCl",
+      "composition": "60-40 mol%",
+      "equation": "k = 9.585 exp(-13560.57087/RT)",
+      "temperature": "1000-1010 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgCl2-NaCl",
+      "composition": "80-20 mol%",
+      "equation": "k = 7.355 exp(-13109.94653/RT)",
+      "temperature": "1000-1050 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgCl2-NaCl",
+      "composition": "100-0 mol%",
+      "equation": "k = 10.193 exp(-19089.81938/RT)",
+      "temperature": "1020-1086 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgF2-Na3AlF6",
+      "composition": "0-100 mol%",
+      "equation": "k = 6.112 exp(-9363.94866/RT)",
+      "temperature": "1273-1423 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgF2-Na3AlF6",
+      "composition": "6.0-94.0 mol%",
+      "equation": "k = 6.51 exp(-10256.41079/RT)",
+      "temperature": "1273-1423 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgF2-Na3AlF6",
+      "composition": "37.3-62.7 mol%",
+      "equation": "k = 6.346 exp(-10422.09996/RT)",
+      "temperature": "1273-1423 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgF2-Na3AlF6",
+      "composition": "49.4-50.6 mol%",
+      "equation": "k = 6.591 exp(-11098.24568/RT)",
+      "temperature": "1273-1423 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgF2-Na3AlF6",
+      "composition": "94.1-5.9 mol%",
+      "equation": "k = 7.615 exp(-13370.19569/RT)",
+      "temperature": "1273-1423 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MgI2",
+      "composition": "100 mol%",
+      "equation": "k = 13.07 exp(-26497.71531/RT)",
+      "temperature": "910-1176 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2",
+      "composition": "100 mol%",
+      "equation": "k = 4.9986 exp(-9399.93166/RT)",
+      "temperature": "923-1123 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "0-100 mol%",
+      "equation": "k = 17.354 exp(-18641.70548/RT)",
+      "temperature": "1099-1174 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "9.94-90.06 mol%",
+      "equation": "k = 8.199 exp(-8727.97002/RT)",
+      "temperature": "1053-1143 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "19.98-80.02 mol%",
+      "equation": "k = 6.781 exp(-8008.72839/RT)",
+      "temperature": "977-1128 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "29.85-70.15 mol%",
+      "equation": "k = 7.611 exp(-9715.41054/RT)",
+      "temperature": "884-1074 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "39.71-60.29 mol%",
+      "equation": "k = 8.689 exp(-11377.74155/RT)",
+      "temperature": "733-1100 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "49.78-50.22 mol%",
+      "equation": "k = 7.801 exp(-10864.35616/RT)",
+      "temperature": "775-1108 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "59.12-40.88 mol%",
+      "equation": "k = 8.143 exp(-11555.14612/RT)",
+      "temperature": "766-1112 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "70.89-29.11 mol%",
+      "equation": "k = 7.322 exp(-11108.70585/RT)",
+      "temperature": "848-1122 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "74.44-25.56 mol%",
+      "equation": "k = 6.719 exp(-10689.88044/RT)",
+      "temperature": "878-1124 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "90.56-9.44 mol%",
+      "equation": "k = 6.14 exp(-10620.42488/RT)",
+      "temperature": "916-1119 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-NaCl",
+      "composition": "100-0 mol%",
+      "equation": "k = 5.493 exp(-10194.90496/RT)",
+      "temperature": "931-1106 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "0-100 mol%",
+      "equation": "k = 6.945 exp(-12639.23866/RT)",
+      "temperature": "999-1107 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "9.67-90.33 mol%",
+      "equation": "k = 6.166 exp(-12733.38023/RT)",
+      "temperature": "1003-1104 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "20.36-79.64 mol%",
+      "equation": "k = 6.092 exp(-14003.66388/RT)",
+      "temperature": "882-1105 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "30-70 mol%",
+      "equation": "k = 6.435 exp(-15262.23214/RT)",
+      "temperature": "785-1087 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "40-60 mol%",
+      "equation": "k = 5.005 exp(-13439.65125/RT)",
+      "temperature": "897-1090 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "50-50 mol%",
+      "equation": "k = 4.286 exp(-11755.14467/RT)",
+      "temperature": "868-1105 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "60-40 mol%",
+      "equation": "k = 4.08 exp(-10648.45815/RT)",
+      "temperature": "816-1097 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "70-30 mol%",
+      "equation": "k = 6.967 exp(-14296.96719/RT)",
+      "temperature": "778-1104 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "79-21 mol%",
+      "equation": "k = 6.554 exp(-13259.31783/RT)",
+      "temperature": "848-1106 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "90-10 mol%",
+      "equation": "k = 5.509 exp(-11080.25417/RT)",
+      "temperature": "956-1103 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P235_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "MnCl2-RbCl",
+      "composition": "100-0 mol%",
+      "equation": "k = 5.493 exp(-10194.90496/RT)",
+      "temperature": "931-1106 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

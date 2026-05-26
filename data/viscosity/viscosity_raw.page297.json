@@ -1,0 +1,535 @@
+[
+  {
+    "index": "EXP_VIS_P297_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-NaPO3",
+      "composition": "20-80 mol%",
+      "equation": "v = 240",
+      "temperature": "1173 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-Na2SO4",
+      "composition": "100-0 Na2SO4",
+      "equation": "v = 1.169 + 0.02943 C - 8.586 x 10^-4 C^2 + 1.021 x 10^-5 C^3",
+      "temperature": "1173 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-Na3AlF6",
+      "composition": "28.5-71.5 mol%",
+      "equation": "v = 0.0264946 exp(47572.8759/RT)",
+      "temperature": "1240-1300 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-Na3AlF6",
+      "composition": "47.3-52.7 mol%",
+      "equation": "v = 0.0769671 exp(35004.34803/RT)",
+      "temperature": "1180-1300 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-Na3AlF6",
+      "composition": "60.6-39.4 mol%",
+      "equation": "v = 0.0894914 exp(31167.97424/RT)",
+      "temperature": "1180-1300 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-Na3AlF6",
+      "composition": "70.5-29.5 mol%",
+      "equation": "v = 0.0636424 exp(32693.06776/RT)",
+      "temperature": "1180-1300 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-Na3AlF6",
+      "composition": "78.2-21.8 mol%",
+      "equation": "v = 0.0961257 exp(26872.60798/RT)",
+      "temperature": "1180-1300 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-Na3AlF6",
+      "composition": "84.3-15.7 mol%",
+      "equation": "v = 0.0307744 exp(37412.28031/RT)",
+      "temperature": "1180-1300 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-Na3AlF6",
+      "composition": "89.3-10.7 mol%",
+      "equation": "v = 0.00354645 exp(57572.8032/RT)",
+      "temperature": "1180-1300 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-Na3AlF6",
+      "composition": "93.5-6.5 mol%",
+      "equation": "v = 0.00294991 exp(59556.05238/RT)",
+      "temperature": "1120-1300 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-Na3AlF6",
+      "composition": "97.0-3.0 mol%",
+      "equation": "v = 0.00827424 exp(47698.398/RT)",
+      "temperature": "1180-1300 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "11.1-88.9 mol%",
+      "equation": "v = 4.034 x 10^-4 exp(64872.33172/RT)",
+      "temperature": "575-729 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "11.7-88.3 mol%",
+      "equation": "v = 3.888 x 10^-4 exp(64719.19476/RT)",
+      "temperature": "578-730 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "20.3-79.7 mol%",
+      "equation": "v = 0.001326 exp(52690.41192/RT)",
+      "temperature": "576-637 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "20.7-79.3 mol%",
+      "equation": "v = 8.179 x 10^-4 exp(55076.58704/RT)",
+      "temperature": "570-645 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "20.7-79.3 mol%",
+      "equation": "v = 0.006974 exp(43523.53295/RT)",
+      "temperature": "645-768 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "30.4-69.6 mol%",
+      "equation": "v = 0.002749 exp(44871.64031/RT)",
+      "temperature": "553-631 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "30.4-69.6 mol%",
+      "equation": "v = 0.01925 exp(34536.569/RT)",
+      "temperature": "631-769 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "31.0-69.0 mol%",
+      "equation": "v = 0.008074 exp(39683.39351/RT)",
+      "temperature": "576-626 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "38.1-61.9 mol%",
+      "equation": "v = 0.00274 exp(42765.79788/RT)",
+      "temperature": "533-606 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "38.1-61.9 mol%",
+      "equation": "v = 0.02364 exp(31801.44244/RT)",
+      "temperature": "606-772 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "39.4-60.6 mol%",
+      "equation": "v = 0.002732 exp(42698.43435/RT)",
+      "temperature": "539-599 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "51.9-48.1 mol%",
+      "equation": "v = 0.03685 exp(28180.12986/RT)",
+      "temperature": "627-815 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "55.7-44.3 mol%",
+      "equation": "v = 0.04458 exp(26181.81803/RT)",
+      "temperature": "635-723 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "55.7-44.3 mol%",
+      "equation": "v = 0.1158 exp(20468.05203/RT)",
+      "temperature": "723-771 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "58.3-41.7 mol%",
+      "equation": "v = 0.06682 exp(24552.12276/RT)",
+      "temperature": "714-896 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "68.2-31.8 mol%",
+      "equation": "v = 0.07445 exp(21338.33859/RT)",
+      "temperature": "864-1014 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "81.4-18.6 mol%",
+      "equation": "v = 0.2048 exp(14626.2535/RT)",
+      "temperature": "1025-1115 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "84.9-15.1 mol%",
+      "equation": "v = 0.1093 exp(21224.53189/RT)",
+      "temperature": "1059-1149 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaCl-ZnCl2",
+      "composition": "100.0-0.0 mol%",
+      "equation": "v = 0.1053 exp(21853.81602/RT)",
+      "temperature": "1092-1240 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO3",
+      "composition": "100 mol%",
+      "equation": "v = 0.02439 exp(25109.85929/RT)",
+      "temperature": "535-555 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO3-NaNO3",
+      "composition": "38.9-61.1 mol%",
+      "equation": "v = 0.0366 exp(22214.48285/RT)",
+      "temperature": "520-560 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO3-NaNO3",
+      "composition": "51.5-48.5 mol%",
+      "equation": "v = 0.02385 exp(24468.44136/RT)",
+      "temperature": "510-560 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO3-NaNO3",
+      "composition": "72.7-27.3 mol%",
+      "equation": "v = 0.02054 exp(25606.08999/RT)",
+      "temperature": "510-560 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO3-NaNO3",
+      "composition": "100-0 mol%",
+      "equation": "v = 0.02439 exp(25109.85929/RT)",
+      "temperature": "540-560 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO4-NaNO3",
+      "composition": "0-100 mol%",
+      "equation": "v = 0.09139 exp(16891.09059/RT)",
+      "temperature": "580-720 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO4-NaNO3",
+      "composition": "10-90 mol%",
+      "equation": "v = 0.09425 exp(16950.50438/RT)",
+      "temperature": "590-700 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO4-NaNO3",
+      "composition": "20-80 mol%",
+      "equation": "v = 0.09332 exp(17232.92911/RT)",
+      "temperature": "570-700 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO4-NaNO3",
+      "composition": "38.5-61.5 mol%",
+      "equation": "v = 0.09085 exp(17598.19842/RT)",
+      "temperature": "530-700 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO4-NaNO3",
+      "composition": "45-55 mol%",
+      "equation": "v = 0.08937 exp(17847.15059/RT)",
+      "temperature": "570-700 K",
+      "unit": "mN s m^-2"
+    }
+  },
+  {
+    "index": "EXP_VIS_P297_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "NaClO4-NaNO3",
+      "composition": "70-30 mol%",
+      "equation": "v = 0.09587 exp(18063.467/RT)",
+      "temperature": "670-700 K",
+      "unit": "mN s m^-2"
+    }
+  }
+]

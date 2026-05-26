@@ -1,0 +1,509 @@
+[
+  {
+    "index": "EXP_DEN_P021_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ag2SO4",
+      "composition": "100 mol%",
+      "equation": "d = 5.843 - 0.001089 T",
+      "temperature": "953-1043 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ag2SO4-Li2SO4",
+      "composition": "0-100 mol%",
+      "equation": "d = 2.3824 - 3.35 x 10^-4 T",
+      "temperature": "1150-1230 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ag2SO4-Li2SO4",
+      "composition": "50-50 mol%",
+      "equation": "d = 4.4768 - 9.643 x 10^-4 T",
+      "temperature": "890-1010 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ag2SO4-Li2SO4",
+      "composition": "100-0 mol%",
+      "equation": "d = 5.8436 - 0.0010895 T",
+      "temperature": "950-1050 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Ag2Te",
+      "composition": "100 mol%",
+      "equation": "d = 8.4178 - 8.125 x 10^-4 T",
+      "temperature": "1230-1250 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3",
+      "composition": "100 mol%",
+      "equation": "d = 3.5491 - 0.0024356 T",
+      "temperature": "380-540 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-HgBr2",
+      "composition": "66.67-33.33 mol%",
+      "equation": "d = 4.4973 - 0.0024002 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-HgBr2",
+      "composition": "69.51-30.49 mol%",
+      "equation": "d = 4.4393 - 0.0024499 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-HgBr2",
+      "composition": "71.87-28.13 mol%",
+      "equation": "d = 4.1321 - 0.00188 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-HgBr2",
+      "composition": "73.54-26.46 mol%",
+      "equation": "d = 4.2456 - 0.00229 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-HgBr2",
+      "composition": "76.94-23.06 mol%",
+      "equation": "d = 4.2233 - 0.00247 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-HgBr2",
+      "composition": "80.15-19.85 mol%",
+      "equation": "d = 4.1432 - 0.00253 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-HgBr2",
+      "composition": "84.80-15.20 mol%",
+      "equation": "d = 3.9315 - 0.0023501 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-HgBr2",
+      "composition": "92.66-7.34 mol%",
+      "equation": "d = 3.7383 - 0.0023801 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-HgBr2",
+      "composition": "100-0 mol%",
+      "equation": "d = 3.4969 - 0.0022801 T",
+      "temperature": "385-415 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "66.67-33.33 mol%",
+      "equation": "d = 3.3615 - 0.0014202 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "68.77-31.23 mol%",
+      "equation": "d = 3.3951 - 0.0015102 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "71.21-28.79 mol%",
+      "equation": "d = 3.3838 - 0.0015001 T",
+      "temperature": "395-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "75.66-24.34 mol%",
+      "equation": "d = 3.4219 - 0.0016301 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KBr",
+      "composition": "76.59-23.41 mol%",
+      "equation": "d = 3.4186 - 0.0016401 T",
+      "temperature": "385-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KCl",
+      "composition": "66.7-33.3 mol%",
+      "equation": "d = 3.2364 - 0.0014321 T",
+      "temperature": "360-440 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-KCl",
+      "composition": "100.0-0.0 mol%",
+      "equation": "d = 3.5104 - 0.0023143 T",
+      "temperature": "380-430 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "33.3-66.7 mol%",
+      "equation": "d = 3.026 - 8.12 x 10^-4 T",
+      "temperature": "960-1140 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "50.0-50.0 mol%",
+      "equation": "d = 3.267 - 0.00113 T",
+      "temperature": "600-1140 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "66.7-33.3 mol%",
+      "equation": "d = 3.321 - 0.00132 T",
+      "temperature": "460-800 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NaBr",
+      "composition": "80.0-20.0 mol%",
+      "equation": "d = 3.421 - 0.0017 T",
+      "temperature": "400-640 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "66.69-33.31 mol%",
+      "equation": "d = 3.2035 - 0.0013152 T",
+      "temperature": "385-420 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "70.90-29.10 mol%",
+      "equation": "d = 3.2491 - 0.001404 T",
+      "temperature": "385-420 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "74.78-25.22 mol%",
+      "equation": "d = 3.2763 - 0.0014586 T",
+      "temperature": "385-420 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "75.63-24.37 mol%",
+      "equation": "d = 3.2968 - 0.0015179 T",
+      "temperature": "385-420 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "78.40-21.60 mol%",
+      "equation": "d = 3.3275 - 0.0016029 T",
+      "temperature": "385-420 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-NH4Br",
+      "composition": "100-0 mol%",
+      "equation": "d = 3.4969 - 0.0022801 T",
+      "temperature": "385-420 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "0-100 mol%",
+      "equation": "d = 4.6695 - 0.0026044 T",
+      "temperature": "375-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "4.39-95.61 mol%",
+      "equation": "d = 4.7948 - 0.0029759 T",
+      "temperature": "375-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "15.47-84.53 mol%",
+      "equation": "d = 4.5433 - 0.0025024 T",
+      "temperature": "375-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "24.69-75.31 mol%",
+      "equation": "d = 4.4314 - 0.0023764 T",
+      "temperature": "375-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "28.50-71.50 mol%",
+      "equation": "d = 4.9025 - 0.0036345 T",
+      "temperature": "375-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "34.06-65.94 mol%",
+      "equation": "d = 4.305 - 0.0022264 T",
+      "temperature": "375-410 K",
+      "unit": "g/cm^3"
+    }
+  },
+  {
+    "index": "EXP_DEN_P021_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AlBr3-SbBr3",
+      "composition": "39.63-60.37 mol%",
+      "equation": "d = 4.268 - 0.0022804 T",
+      "temperature": "375-410 K",
+      "unit": "g/cm^3"
+    }
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "index": "EXP_ST_P137_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KNO3-RbNO3",
+      "composition": "25-75 mol%",
+      "equation": "g = 157.4 - 0.082 T",
+      "temperature": "585-660 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KNO3-RbNO3",
+      "composition": "50-50 mol%",
+      "equation": "g = 159.6 - 0.083 T",
+      "temperature": "570-660 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KNO3-RbNO3",
+      "composition": "70-30 mol%",
+      "equation": "g = 162.1 - 0.084 T",
+      "temperature": "570-660 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KNO3-RbNO3",
+      "composition": "75-25 mol%",
+      "equation": "g = 161.2 - 0.083 T",
+      "temperature": "570-660 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3",
+      "composition": "100 mol%",
+      "equation": "g = 208.4 - 0.0556 T",
+      "temperature": "1132-1773 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "0-100 mol%",
+      "equation": "g = 218.282 - 0.0241 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "10.12-89.88 mol%",
+      "equation": "g = 227.071 - 0.0398 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "20.02-79.98 mol%",
+      "equation": "g = 228.583 - 0.0468 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "29.98-70.02 mol%",
+      "equation": "g = 226.812 - 0.0502 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "40.05-59.95 mol%",
+      "equation": "g = 225.467 - 0.0526 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "49.90-50.10 mol%",
+      "equation": "g = 223.55 - 0.054 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "59.98-40.02 mol%",
+      "equation": "g = 219.331 - 0.0532 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "68.91-31.09 mol%",
+      "equation": "g = 219.878 - 0.0563 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "80.19-19.81 mol%",
+      "equation": "g = 220.115 - 0.059 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "89.87-10.13 mol%",
+      "equation": "g = 220.307 - 0.0608 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-LiPO3",
+      "composition": "100-0 mol%",
+      "equation": "g = 221.672 - 0.0636 T",
+      "temperature": "1030-1410 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "0-100 mol%",
+      "equation": "g = 237.02 - 0.0488 T",
+      "temperature": "1078-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "10.06-89.94 mol%",
+      "equation": "g = 231.53 - 0.0492 T",
+      "temperature": "980-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "19.97-80.03 mol%",
+      "equation": "g = 226.53 - 0.0492 T",
+      "temperature": "980-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "29.89-70.11 mol%",
+      "equation": "g = 223.1 - 0.0498 T",
+      "temperature": "980-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "39.82-60.18 mol%",
+      "equation": "g = 222.99 - 0.0527 T",
+      "temperature": "980-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "50.05-49.95 mol%",
+      "equation": "g = 222.85 - 0.0555 T",
+      "temperature": "980-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "60.03-39.97 mol%",
+      "equation": "g = 217.53 - 0.0532 T",
+      "temperature": "980-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "70.09-29.91 mol%",
+      "equation": "g = 216 - 0.0542 T",
+      "temperature": "1078-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "78.82-21.18 mol%",
+      "equation": "g = 218.17 - 0.0577 T",
+      "temperature": "1078-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "90.06-9.94 mol%",
+      "equation": "g = 217.85 - 0.0595 T",
+      "temperature": "1078-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-NaPO3",
+      "composition": "100-0 mol%",
+      "equation": "g = 221.67 - 0.0636 T",
+      "temperature": "1078-1420 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-ZnO",
+      "composition": "72.3-27.7 mol%",
+      "equation": "g = 231.6 - 0.0419 T",
+      "temperature": "1200-1380 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-ZnO",
+      "composition": "77.9-22.1 mol%",
+      "equation": "g = 218.2 - 0.0405 T",
+      "temperature": "1050-1320 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-ZnO",
+      "composition": "89.6-10.4 mol%",
+      "equation": "g = 204.2 - 0.0471 T",
+      "temperature": "1080-1350 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "0-100 mol%",
+      "equation": "g = 196.58 + 0.00195 T",
+      "temperature": "1244-1476 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "8.3-91.7 mol%",
+      "equation": "g = 175.6 - 0.004 T",
+      "temperature": "1233-1360 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "18.1-81.9 mol%",
+      "equation": "g = 171.14 - 0.0042 T",
+      "temperature": "1206-1344 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "30.1-69.9 mol%",
+      "equation": "g = 195.3 - 0.00367 T",
+      "temperature": "1140-1320 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "44.1-55.9 mol%",
+      "equation": "g = 186.24 - 0.0313 T",
+      "temperature": "1100-1340 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "61.2-38.8 mol%",
+      "equation": "g = 190.36 - 0.0416 T",
+      "temperature": "1080-1340 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "70.05-29.5 mol%",
+      "equation": "g = 197.79 - 0.0472 T",
+      "temperature": "1080-1340 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "78.1-21.9 mol%",
+      "equation": "g = 189.16 - 0.0405 T",
+      "temperature": "1140-1320 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "85.2-14.8 mol%",
+      "equation": "g = 191.9 - 0.0425 T",
+      "temperature": "1169-1334 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "94.5-5.5 mol%",
+      "equation": "g = 206.01 - 0.0535 T",
+      "temperature": "1146-1335 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KPO3-Zn(PO3)2",
+      "composition": "100-0 mol%",
+      "equation": "g = 208.38 - 0.0556 T",
+      "temperature": "1152-1347 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P137_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "KSCN",
+      "composition": "100 mol%",
+      "equation": "g = 133.97 - 0.0581 T",
+      "temperature": "464-514 K",
+      "unit": "mN m^-1"
+    }
+  }
+]

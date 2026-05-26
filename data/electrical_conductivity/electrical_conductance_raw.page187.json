@@ -1,0 +1,678 @@
+[
+  {
+    "index": "EXP_EC_P187_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "21.2-78.8 mol%",
+      "equation": "k = 15.843 exp(-19552.15911/RT)",
+      "temperature": "550-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "23.1-76.9 mol%",
+      "equation": "k = 16.95 exp(-19974.75018/RT)",
+      "temperature": "510-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "25-75 mol%",
+      "equation": "k = 21.248 exp(-21087.7128/RT)",
+      "temperature": "490-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "27-73 mol%",
+      "equation": "k = 27.233 exp(-22317.82938/RT)",
+      "temperature": "470-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "29-71 mol%",
+      "equation": "k = 37.964 exp(-23824.09458/RT)",
+      "temperature": "450-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "31.1-68.9 mol%",
+      "equation": "k = 36.311 exp(-23677.65213/RT)",
+      "temperature": "450-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "33.3-66.7 mol%",
+      "equation": "k = 36.583 exp(-23752.96539/RT)",
+      "temperature": "450-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "35.6-64.4 mol%",
+      "equation": "k = 38.351 exp(-24020.74587/RT)",
+      "temperature": "450-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "37.9-62.1 mol%",
+      "equation": "k = 43.343 exp(-24663.83743/RT)",
+      "temperature": "450-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "40.4-59.6 mol%",
+      "equation": "k = 74.98 exp(-27221.55942/RT)",
+      "temperature": "430-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "42.9-57.1 mol%",
+      "equation": "k = 106.16 exp(-28886.81928/RT)",
+      "temperature": "430-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "48.1-51.9 mol%",
+      "equation": "k = 72.797 exp(-27514.44432/RT)",
+      "temperature": "470-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "53.8-46.2 mol%",
+      "equation": "k = 58.677 exp(-26974.69929/RT)",
+      "temperature": "510-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "60-40 mol%",
+      "equation": "k = 58.669 exp(-27497.70804/RT)",
+      "temperature": "550-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-CsNO3",
+      "composition": "66.7-33.3 mol%",
+      "equation": "k = 111 exp(-31393.07721/RT)",
+      "temperature": "570-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "5.3-94.7 mol%",
+      "equation": "k = 0.56",
+      "temperature": "593.2 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "11.2-88.8 mol%",
+      "equation": "k = 30.749 exp(-20029.14309/RT)",
+      "temperature": "573-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "14.3-85.7 mol%",
+      "equation": "k = 20.304 exp(-18171.41601/RT)",
+      "temperature": "553-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "17.7-82.3 mol%",
+      "equation": "k = 16.587 exp(-17351.33829/RT)",
+      "temperature": "533-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "21.3-78.7 mol%",
+      "equation": "k = 28.998 exp(-20263.45101/RT)",
+      "temperature": "493-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "25.0-75.0 mol%",
+      "equation": "k = 61.096 exp(-23924.51226/RT)",
+      "temperature": "453-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "27.0-73.0 mol%",
+      "equation": "k = 49.333 exp(-23045.85756/RT)",
+      "temperature": "473-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "29.1-70.9 mol%",
+      "equation": "k = 66.412 exp(-24585.59532/RT)",
+      "temperature": "453-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "31.2-68.8 mol%",
+      "equation": "k = 40.2 exp(-22418.24706/RT)",
+      "temperature": "493-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "33.4-66.6 mol%",
+      "equation": "k = 51.822 exp(-23773.88574/RT)",
+      "temperature": "473-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "35.2-64.8 mol%",
+      "equation": "k = 57.977 exp(-24451.70508/RT)",
+      "temperature": "473-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "38.0-62.0 mol%",
+      "equation": "k = 94.14 exp(-26849.17719/RT)",
+      "temperature": "453-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "40.4-59.6 mol%",
+      "equation": "k = 100.02 exp(-27388.92222/RT)",
+      "temperature": "473-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "42.9-57.1 mol%",
+      "equation": "k = 240.02 exp(-31629.47717/RT)",
+      "temperature": "453-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "45.0-55.0 mol%",
+      "equation": "k = 325.84 exp(-33278.41915/RT)",
+      "temperature": "453-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "48.2-51.8 mol%",
+      "equation": "k = 453.19 exp(-35104.3473/RT)",
+      "temperature": "453-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "51.0-49.0 mol%",
+      "equation": "k = 492.01 exp(-36020.65863/RT)",
+      "temperature": "453-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "53.9-46.1 mol%",
+      "equation": "k = 0.8327 - 0.004559 T + 6.115 x 10^-6 T^2",
+      "temperature": "453-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-KNO3",
+      "composition": "60.0-40.0 mol%",
+      "equation": "k = 1.027 - 0.005167 T + 6.447 x 10^-6 T^2",
+      "temperature": "453-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "0-100 mol%",
+      "equation": "k = 49.484 exp(-18280.20183/RT)",
+      "temperature": "540-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "5.3-94.7 mol%",
+      "equation": "k = 66.696 exp(-21045.8721/RT)",
+      "temperature": "540-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "11.1-88.9 mol%",
+      "equation": "k = 53.167 exp(-20830.8109/RT)",
+      "temperature": "540-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "14.3-85.7 mol%",
+      "equation": "k = 41.979 exp(-20096.08821/RT)",
+      "temperature": "520-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "17.6-82.4 mol%",
+      "equation": "k = 61.961 exp(-22422.43113/RT)",
+      "temperature": "520-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "21.2-78.8 mol%",
+      "equation": "k = 65.013 exp(-23085.81579/RT)",
+      "temperature": "520-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "25.0-75.0 mol%",
+      "equation": "k = 91.914 exp(-24952.11985/RT)",
+      "temperature": "500-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "27.0-73.0 mol%",
+      "equation": "k = 105.45 exp(-25839.97951/RT)",
+      "temperature": "500-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "29.0-71.0 mol%",
+      "equation": "k = 133.12 exp(-27288.50454/RT)",
+      "temperature": "500-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "31.1-68.9 mol%",
+      "equation": "k = 186.2 exp(-29145.39481/RT)",
+      "temperature": "480-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "33.3-66.7 mol%",
+      "equation": "k = 269.74 exp(-31284.29189/RT)",
+      "temperature": "480-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "35.1-64.9 mol%",
+      "equation": "k = 409.32 exp(-33497.66442/RT)",
+      "temperature": "480-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "36.5-63.5 mol%",
+      "equation": "k = 472.71 exp(-34330.29435/RT)",
+      "temperature": "480-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "37.9-62.1 mol%",
+      "equation": "k = 426 exp(-34288.45365/RT)",
+      "temperature": "500-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_049",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "40.4-59.6 mol%",
+      "equation": "k = 363.56 exp(-33736.15641/RT)",
+      "temperature": "510-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_050",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "42.9-57.1 mol%",
+      "equation": "k = 385.52 exp(-34367.95098/RT)",
+      "temperature": "540-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_051",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "45.4-54.4 mol%",
+      "equation": "k = 389.9 exp(-34824.01461/RT)",
+      "temperature": "540-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P187_052",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cd(NO3)2-LiNO3",
+      "composition": "48.1-51.9 mol%",
+      "equation": "k = 2718.7 exp(-44521.43365/RT)",
+      "temperature": "580-590 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

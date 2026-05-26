@@ -1,0 +1,626 @@
+[
+  {
+    "index": "EXP_EC_P198_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "64.0-36.0 mol%",
+      "equation": "k = 22.4756 exp(-14917.88318/RT)",
+      "temperature": "1090-1250 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "69.6-30.4 mol%",
+      "equation": "k = 8.98952 exp(-6949.32186/RT)",
+      "temperature": "1070-1250 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "73.3-26.7 mol%",
+      "equation": "k = 9.16393 exp(-7191.16111/RT)",
+      "temperature": "1070-1250 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "74.0-26.0 mol%",
+      "equation": "k = 8.16229 exp(-6256.02146/RT)",
+      "temperature": "970-1250 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "80.8-19.2 mol%",
+      "equation": "k = 7.49294 exp(-5651.84176/RT)",
+      "temperature": "890-1170 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "83.8-16.2 mol%",
+      "equation": "k = 6.03957 exp(-4027.87867/RT)",
+      "temperature": "770-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "87.5-12.5 mol%",
+      "equation": "k = 5.48952 exp(-3328.09296/RT)",
+      "temperature": "770-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "90.7-9.3 mol%",
+      "equation": "k = 4.3691 exp(-1747.8534/RT)",
+      "temperature": "770-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "92.3-7.7 mol%",
+      "equation": "k = 7.24154 exp(-5467.32427/RT)",
+      "temperature": "770-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "96.5-3.5 mol%",
+      "equation": "k = 4.91558 exp(-2295.71553/RT)",
+      "temperature": "770-1170 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-Cu2S",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 4.801 exp(-1819.65204/RT)",
+      "temperature": "770-1250 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-KCl",
+      "composition": "20.6-79.4 mol%",
+      "equation": "k = 12.101 exp(-12289.4504/RT)",
+      "temperature": "860-900 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-KCl",
+      "composition": "28.9-71.1 mol%",
+      "equation": "k = 8.736 exp(-9684.86683/RT)",
+      "temperature": "770-900 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-KCl",
+      "composition": "35.1-64.9 mol%",
+      "equation": "k = 4.897 exp(-5469.4163/RT)",
+      "temperature": "700-900 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-KCl",
+      "composition": "40.5-59.5 mol%",
+      "equation": "k = 4.422 exp(-4500.8041/RT)",
+      "temperature": "700-900 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-KCl",
+      "composition": "50.3-49.7 mol%",
+      "equation": "k = 6.885 exp(-7009.57247/RT)",
+      "temperature": "700-900 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-KCl",
+      "composition": "59.2-40.8 mol%",
+      "equation": "k = 6.113 exp(-5525.48284/RT)",
+      "temperature": "700-900 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-KCl",
+      "composition": "70.4-29.6 mol%",
+      "equation": "k = 5.602 exp(-4369.84271/RT)",
+      "temperature": "700-900 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-KCl",
+      "composition": "82.1-17.9 mol%",
+      "equation": "k = 5.816 exp(-4049.34295/RT)",
+      "temperature": "700-900 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuCl-KCl",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 5.851 exp(-3391.18874/RT)",
+      "temperature": "700-900 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuF2",
+      "composition": "100 mol%",
+      "equation": "k = 4.03099 exp(-6397.02462/RT)",
+      "temperature": "1270-1370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuSCN-N(C3H7)4SCN",
+      "composition": "0-100 mol%",
+      "equation": "k = 2554.1 exp(-42920.19006/RT)",
+      "temperature": "330-370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuSCN-N(C3H7)4SCN",
+      "composition": "7-93 mol%",
+      "equation": "k = 4792.9 exp(-45518.49753/RT)",
+      "temperature": "330-370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuSCN-N(C3H7)4SCN",
+      "composition": "18.1-81.9 mol%",
+      "equation": "k = 73614 exp(-54953.57538/RT)",
+      "temperature": "330-370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuSCN-N(C3H7)4SCN",
+      "composition": "25.4-74.6 mol%",
+      "equation": "k = 1.94440 x 10^5 exp(-59242.24713/RT)",
+      "temperature": "330-370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuSCN-N(C3H7)4SCN",
+      "composition": "30.7-69.3 mol%",
+      "equation": "k = 8.92020 x 10^5 exp(-64443.04614/RT)",
+      "temperature": "330-370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuSCN-N(C3H7)4SCN",
+      "composition": "37.9-62.1 mol%",
+      "equation": "k = 3.333600 x 10^6 exp(-68551.80288/RT)",
+      "temperature": "330-370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuSCN-N(C3H7)4SCN",
+      "composition": "43.9-56.1 mol%",
+      "equation": "k = 4.048900 x 10^6 exp(-68794.47894/RT)",
+      "temperature": "330-370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuSCN-N(C3H7)4SCN",
+      "composition": "50-50 mol%",
+      "equation": "k = 7.65922 x 10^5 exp(-64309.99271/RT)",
+      "temperature": "330-370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CuSCN-N(C3H7)4SCN",
+      "composition": "51.7-48.3 mol%",
+      "equation": "k = 7.707800 x 10^6 exp(-71589.4377/RT)",
+      "temperature": "350-370 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S",
+      "composition": "100 mol%",
+      "equation": "k = 1.30540 x 10^5 exp(-92286.35836/RT)",
+      "temperature": "1402-1523 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-FeS",
+      "composition": "0-100 mol%",
+      "equation": "k = 1157.5 exp(3594.11613/RT)",
+      "temperature": "1470-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-FeS",
+      "composition": "15.6-84.4 mol%",
+      "equation": "k = 1102.1 exp(-2055.63359/RT)",
+      "temperature": "1370-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-FeS",
+      "composition": "22.9-77.1 mol%",
+      "equation": "k = 877.35 exp(-913.92641/RT)",
+      "temperature": "1370-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-FeS",
+      "composition": "35.9-64.1 mol%",
+      "equation": "k = 1356.1 exp(-12355.1403/RT)",
+      "temperature": "1270-1610 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-FeS",
+      "composition": "50.6-49.4 mol%",
+      "equation": "k = 3071.8 exp(-25348.35128/RT)",
+      "temperature": "1330-1670 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-FeS",
+      "composition": "62.4-37.6 mol%",
+      "equation": "k = 5861.7 exp(-36139.90463/RT)",
+      "temperature": "1330-1670 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-FeS",
+      "composition": "100-0 mol%",
+      "equation": "k = 20232 exp(-68873.97627/RT)",
+      "temperature": "1370-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "0.0-100.0 mol%",
+      "equation": "k = 3.909955 x 10^5 - 458.8387 T + 0.1358 T^2",
+      "temperature": "1470-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "17.5-82.5 mol%",
+      "equation": "k = 10000",
+      "temperature": "1470 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "27.5-72.5 mol%",
+      "equation": "k = 9090.9",
+      "temperature": "1470 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "39.4-60.6 mol%",
+      "equation": "k = 7692.3",
+      "temperature": "1470 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "50.0-50.0 mol%",
+      "equation": "k = 8934.44 exp(-4658.96195/RT)",
+      "temperature": "1470-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "60.2-39.8 mol%",
+      "equation": "k = 3979.94 exp(-3358.2601/RT)",
+      "temperature": "1470-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "69.3-30.7 mol%",
+      "equation": "k = 1.78968 x 10^5 - 227.9502 T + 0.0731133 T^2",
+      "temperature": "1470-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "77.9-22.1 mol%",
+      "equation": "k = 1930.14 exp(-7861.86753/RT)",
+      "temperature": "1470-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "85.8-14.2 mol%",
+      "equation": "k = 1474.53 exp(-8483.20193/RT)",
+      "temperature": "1470-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P198_048",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Cu2S-Ni3S2",
+      "composition": "93.15-6.85 mol%",
+      "equation": "k = 1201.98 exp(-15335.45336/RT)",
+      "temperature": "1470-1770 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

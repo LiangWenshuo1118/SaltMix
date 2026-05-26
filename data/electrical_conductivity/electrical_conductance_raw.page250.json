@@ -1,0 +1,600 @@
+[
+  {
+    "index": "EXP_EC_P250_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-PbCl2",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 13.59 exp(-16623.72852/RT)",
+      "temperature": "700-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "0-100 mol%",
+      "equation": "k = 11.291 exp(-15907.83414/RT)",
+      "temperature": "733-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "10-90 mol%",
+      "equation": "k = 8.615 exp(-15164.3249/RT)",
+      "temperature": "733-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "20-80 mol%",
+      "equation": "k = 10.941 exp(-16201.97426/RT)",
+      "temperature": "713-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "30-70 mol%",
+      "equation": "k = 10.313 exp(-16055.53181/RT)",
+      "temperature": "673-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "40-60 mol%",
+      "equation": "k = 9.361 exp(-16571.01651/RT)",
+      "temperature": "673-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "50-50 mol%",
+      "equation": "k = 10.529 exp(-16322.89388/RT)",
+      "temperature": "673-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "60-40 mol%",
+      "equation": "k = 12.399 exp(-17248.41017/RT)",
+      "temperature": "653-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "70-30 mol%",
+      "equation": "k = 12.805 exp(-17365.98254/RT)",
+      "temperature": "653-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "80-20 mol%",
+      "equation": "k = 13.37 exp(-17344.22537/RT)",
+      "temperature": "653-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "90-10 mol%",
+      "equation": "k = 14.319 exp(-17297.78219/RT)",
+      "temperature": "653-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbBr2-TlBr",
+      "composition": "100-0 mol%",
+      "equation": "k = 20.373 exp(-18807.39465/RT)",
+      "temperature": "653-773 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2",
+      "composition": "100 mol%",
+      "equation": "k = 16.55 exp(-15183.99003/RT)",
+      "temperature": "773-923 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "54.00-46.00 mol%",
+      "equation": "k = 1.45966 exp(-4351.4328/RT)",
+      "temperature": "970-1170 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "55.39-44.61 mol%",
+      "equation": "k = 1.48834 exp(-4370.26112/RT)",
+      "temperature": "970-1170 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "60.68-39.32 mol%",
+      "equation": "k = 1.48119 exp(-3915.2435/RT)",
+      "temperature": "970-1170 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "64.06-35.94 mol%",
+      "equation": "k = 1.45749 exp(-3447.25527/RT)",
+      "temperature": "850-1110 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "67.29-32.71 mol%",
+      "equation": "k = 1.49361 exp(-3278.80461/RT)",
+      "temperature": "850-1130 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "73.11-26.89 mol%",
+      "equation": "k = 1.58283 exp(-2945.66896/RT)",
+      "temperature": "850-1110 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "74.80-25.20 mol%",
+      "equation": "k = 1.61226 exp(-2899.39315/RT)",
+      "temperature": "850-1110 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "81.36-18.64 mol%",
+      "equation": "k = 1.65176 exp(-2358.01633/RT)",
+      "temperature": "790-990 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "83.97-16.03 mol%",
+      "equation": "k = 1.69545 exp(-2268.39355/RT)",
+      "temperature": "770-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "89.42-10.58 mol%",
+      "equation": "k = 1.77931 exp(-2111.90933/RT)",
+      "temperature": "790-990 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "97.21-2.79 mol%",
+      "equation": "k = 1.93213 exp(-1879.94449/RT)",
+      "temperature": "790-990 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-PbS",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 10.998 exp(-12694.46838/RT)",
+      "temperature": "790-990 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "10.0-90.0 mol%",
+      "equation": "k = 11.4 exp(-17312.42644/RT)",
+      "temperature": "940-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "25.0-75.0 mol%",
+      "equation": "k = 9.01 exp(-19645.91136/RT)",
+      "temperature": "780-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "33.3-66.7 mol%",
+      "equation": "k = 12.363 exp(-18308.65351/RT)",
+      "temperature": "740-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "50.0-50.0 mol%",
+      "equation": "k = 9.24 exp(-19180.22437/RT)",
+      "temperature": "740-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "66.7-33.3 mol%",
+      "equation": "k = 8.689 exp(-13601.57476/RT)",
+      "temperature": "740-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "85.0-15.0 mol%",
+      "equation": "k = 10.846 exp(-18638.81298/RT)",
+      "temperature": "740-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-RbCl",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 12.297 exp(-13480.65513/RT)",
+      "temperature": "840-1060 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "0-100 mol%",
+      "equation": "k = 8.681 exp(-12076.48124/RT)",
+      "temperature": "730-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "10-90 mol%",
+      "equation": "k = 9.245 exp(-13163.92103/RT)",
+      "temperature": "730-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "13.5-86.5 mol%",
+      "equation": "k = 8.789 exp(-12979.82195/RT)",
+      "temperature": "730-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "25-75 mol%",
+      "equation": "k = 8.749 exp(-13268.10438/RT)",
+      "temperature": "730-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "41-59 mol%",
+      "equation": "k = 8.741 exp(-13107.8545/RT)",
+      "temperature": "730-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "50-50 mol%",
+      "equation": "k = 8.312 exp(-12622.92078/RT)",
+      "temperature": "730-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "66.7-33.3 mol%",
+      "equation": "k = 8.731 exp(-12571.03832/RT)",
+      "temperature": "730-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "74-26 mol%",
+      "equation": "k = 10.742 exp(-13922.49293/RT)",
+      "temperature": "730-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "85-15 mol%",
+      "equation": "k = 10.801 exp(-13695.29792/RT)",
+      "temperature": "730-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "90-10 mol%",
+      "equation": "k = 10.3991 exp(-13272.28845/RT)",
+      "temperature": "780-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-TlCl",
+      "composition": "100-0 mol%",
+      "equation": "k = 14.955 exp(-14902.40212/RT)",
+      "temperature": "780-920 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-ZnCl2",
+      "composition": "0-100 mol%",
+      "equation": "k = 1.286 - 0.004048 T + 3.326 x 10^-6 T^2",
+      "temperature": "593-863 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-ZnCl2",
+      "composition": "3.1-96.9 mol%",
+      "equation": "k = 1.371 - 0.004593 T + 3.871 x 10^-6 T^2",
+      "temperature": "593-853 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P250_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "PbCl2-ZnCl2",
+      "composition": "9.6-90.4 mol%",
+      "equation": "k = 0.7805 - 0.0032 T + 3.233 x 10^-6 T^2",
+      "temperature": "593-913 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

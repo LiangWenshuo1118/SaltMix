@@ -1,0 +1,613 @@
+[
+  {
+    "index": "EXP_EC_P165_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaBr",
+      "composition": "0-100 mol%",
+      "equation": "k = 2.83",
+      "temperature": "1000 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaBr",
+      "composition": "40-60 mol%",
+      "equation": "k = 5.012 exp(-4712.51804/RT)",
+      "temperature": "900-950 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaBr",
+      "composition": "60-40 mol%",
+      "equation": "k = 5.39939 exp(-5009.58701/RT)",
+      "temperature": "800-950 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaBr",
+      "composition": "80-20 mol%",
+      "equation": "k = 5.177 exp(-3928.84173/RT)",
+      "temperature": "700-950 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaBr",
+      "composition": "100-0 mol%",
+      "equation": "k = 5.06529 exp(-3077.71821/RT)",
+      "temperature": "710-1000 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "0-100 mol%",
+      "equation": "k = 9.0177 exp(-8223.78959/RT)",
+      "temperature": "1080-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "20-80 mol%",
+      "equation": "k = 7.5724 exp(-7208.3158/RT)",
+      "temperature": "1030-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "40-60 mol%",
+      "equation": "k = 6.1372 exp(-5697.02971/RT)",
+      "temperature": "980-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "60-40 mol%",
+      "equation": "k = 6.05 exp(-5626.73734/RT)",
+      "temperature": "930-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "80-20 mol%",
+      "equation": "k = 5.2182 exp(-4064.4056/RT)",
+      "temperature": "880-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-NaCl",
+      "composition": "100-0 mol%",
+      "equation": "k = 5.0604 exp(-3288.26061/RT)",
+      "temperature": "880-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-RbBr",
+      "composition": "0-100 mol%",
+      "equation": "k = 16.571 exp(-21959.25458/RT)",
+      "temperature": "955-1050 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-RbBr",
+      "composition": "20-80 mol%",
+      "equation": "k = 9.037 exp(-16576.44853/RT)",
+      "temperature": "880-1000 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-RbBr",
+      "composition": "40-60 mol%",
+      "equation": "k = 8.41 exp(-14593.19935/RT)",
+      "temperature": "750-1000 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-RbBr",
+      "composition": "60-40 mol%",
+      "equation": "k = 8.28633 exp(-14465.58521/RT)",
+      "temperature": "600-1000 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-RbBr",
+      "composition": "70-30 mol%",
+      "equation": "k = 4.518 exp(-7443.87894/RT)",
+      "temperature": "600-1000 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-RbBr",
+      "composition": "80-20 mol%",
+      "equation": "k = 8.92478 exp(-16435.02696/RT)",
+      "temperature": "600-1000 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgBr-RbBr",
+      "composition": "100-0 mol%",
+      "equation": "k = 5.055 exp(-3077.80189/RT)",
+      "temperature": "710-1000 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl",
+      "composition": "100 mol%",
+      "equation": "k = 8.482 exp(-4941.38667/RT)",
+      "temperature": "753-1013 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgI",
+      "composition": "10-90 mol%",
+      "equation": "k = 3.712 exp(-2929.68581/RT)",
+      "temperature": "830-870 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgI",
+      "composition": "25-75 mol%",
+      "equation": "k = 3.653 exp(-2680.73365/RT)",
+      "temperature": "730-870 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgI",
+      "composition": "42-58 mol%",
+      "equation": "k = 4.5244 exp(-3277.38203/RT)",
+      "temperature": "580-870 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgI",
+      "composition": "90-10 mol%",
+      "equation": "k = 7.0061 exp(-4381.1397/RT)",
+      "temperature": "730-870 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgNO3",
+      "composition": "0-100 mol%",
+      "equation": "k = 5.757 exp(-7941.36486/RT)",
+      "temperature": "573-823 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgNO3",
+      "composition": "18.5-81.5 mol%",
+      "equation": "k = 6.78333 exp(-8731.73568/RT)",
+      "temperature": "580-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgNO3",
+      "composition": "20-80 mol%",
+      "equation": "k = 6.88415 exp(-8807.04894/RT)",
+      "temperature": "580-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgNO3",
+      "composition": "40-60 mol%",
+      "equation": "k = 7.36215 exp(-8643.0334/RT)",
+      "temperature": "580-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgNO3",
+      "composition": "60-40 mol%",
+      "equation": "k = 7.10145 exp(-7469.82017/RT)",
+      "temperature": "640-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgNO3",
+      "composition": "80-20 mol%",
+      "equation": "k = 7.79843 exp(-6418.78179/RT)",
+      "temperature": "640-820 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AgNO3",
+      "composition": "100-0 mol%",
+      "equation": "k = 7.4195 exp(-4022.14649/RT)",
+      "temperature": "730-823 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-Ag2S",
+      "composition": "10.06-89.94 mol%",
+      "equation": "k = 66.0159 exp(-11593.63956/RT)",
+      "temperature": "1030-1050 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-Ag2S",
+      "composition": "22.8-77.2 mol%",
+      "equation": "k = 37.4301 exp(-12814.9696/RT)",
+      "temperature": "965-1200 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-Ag2S",
+      "composition": "52.17-47.83 mol%",
+      "equation": "k = 399.576 exp(-23544.5987/RT)",
+      "temperature": "910-1050 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-Ag2S",
+      "composition": "60.0-40.0 mol%",
+      "equation": "k = 1349.45 exp(-34828.61709/RT)",
+      "temperature": "850-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-Ag2S",
+      "composition": "65.0-35.0 mol%",
+      "equation": "k = 113.569 exp(-22250.46585/RT)",
+      "temperature": "710-1030 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-Ag2S",
+      "composition": "70.0-30.0 mol%",
+      "equation": "k = 35.6091 exp(-15565.99562/RT)",
+      "temperature": "710-1030 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-Ag2S",
+      "composition": "80.0-20.0 mol%",
+      "equation": "k = 11.2275 exp(-8174.41756/RT)",
+      "temperature": "730-970 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-Ag2S",
+      "composition": "90.0-10.0 mol%",
+      "equation": "k = 8.18487 exp(-5790.75288/RT)",
+      "temperature": "730-1040 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-Ag2S",
+      "composition": "95.0-5.0 mol%",
+      "equation": "k = 9.44444 exp(-6393.25896/RT)",
+      "temperature": "720-1030 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-Ag2S",
+      "composition": "100.0-0.0 mol%",
+      "equation": "k = 8.482 exp(-4941.38667/RT)",
+      "temperature": "730-1020 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-AlBr3",
+      "composition": "26.2-73.8 mol%",
+      "equation": "k = 11.779 exp(-21855.90805/RT)",
+      "temperature": "373-443 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "0-100 mol%",
+      "equation": "k = 5.8551 exp(-10852.22236/RT)",
+      "temperature": "1030-1120 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "20-80 mol%",
+      "equation": "k = 5.7007 exp(-10146.78816/RT)",
+      "temperature": "880-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "40-60 mol%",
+      "equation": "k = 5.5346 exp(-9107.46517/RT)",
+      "temperature": "830-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_045",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "60-40 mol%",
+      "equation": "k = 5.3994 exp(-7243.46198/RT)",
+      "temperature": "780-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_046",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "80-20 mol%",
+      "equation": "k = 5.5676 exp(-4867.74704/RT)",
+      "temperature": "780-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P165_047",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "AgCl-KBr",
+      "composition": "100-0 mol%",
+      "equation": "k = 7.4195 exp(-4022.14649/RT)",
+      "temperature": "780-1070 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]

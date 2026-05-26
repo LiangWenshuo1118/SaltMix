@@ -1,0 +1,63 @@
+starting density model_setting=phys_true_rk_true_n_0 phys=true rk=true arrhenius=false n=0 seed=46 batch_size=64 full_data=true
+{'property': 'density', 'normalized_records': 3780, 'filtered_records': 363, 'excluded_systems': ['AlI3-SbI3'], 'validation_ratio': 0.2, 'temperature_interval': None, 'temperature_mean': 937.524477443609, 'temperature_std': 268.26094636168347, 'composition_interval': None, 'low_data_learning': False, 'low_data_learning_ratio': 1.0, 'train_records': 2672, 'val_records': 668, 'test_records': 440, 'train_samples_before_low_data': 13300, 'train_samples': 13300, 'val_samples': 3312, 'test_samples': 2196, 'systems_train': 571, 'systems_val': 343}
+/usr/local/lib/python3.12/dist-packages/torch/nn/modules/transformer.py:505: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. We recommend specifying layout=torch.jagged when constructing a nested tensor, as this layout receives active development, has better operator coverage, and works with torch.compile. (Triggered internally at /opt/pytorch/pytorch/aten/src/ATen/NestedTensorImpl.cpp:178.)
+  output = torch._nested_tensor_from_mask(
+{'epoch': 1, 'train_loss': 0.7919456750297775, 'val_loss': 0.10676944076728362, 'val_rmse': 0.32585724455414544, 'val_mae': 0.19711952188596632}
+{'epoch': 2, 'train_loss': 0.046953597938856825, 'val_loss': 0.03715015823343912, 'val_rmse': 0.19306021480250307, 'val_mae': 0.11521893898070147}
+{'epoch': 3, 'train_loss': 0.029197279372825645, 'val_loss': 0.03152551554824011, 'val_rmse': 0.17773446519079417, 'val_mae': 0.10196673089035467}
+{'epoch': 4, 'train_loss': 0.024102723073715773, 'val_loss': 0.027492861379869282, 'val_rmse': 0.16604349276471772, 'val_mae': 0.09474318859657803}
+{'epoch': 5, 'train_loss': 0.02143764201677046, 'val_loss': 0.025404446986683, 'val_rmse': 0.15956560294058772, 'val_mae': 0.09125376661906495}
+{'epoch': 6, 'train_loss': 0.019072506811845906, 'val_loss': 0.022267830911844682, 'val_rmse': 0.1493817125131054, 'val_mae': 0.08730443397869811}
+{'epoch': 7, 'train_loss': 0.01519954421494801, 'val_loss': 0.01943864204132786, 'val_rmse': 0.13953321965550278, 'val_mae': 0.08194999299619508}
+{'epoch': 8, 'train_loss': 0.013811303083247576, 'val_loss': 0.019184040169840537, 'val_rmse': 0.13866453676460136, 'val_mae': 0.08026422092304138}
+{'epoch': 9, 'train_loss': 0.01223721022072893, 'val_loss': 0.017274113421220906, 'val_rmse': 0.13151579308192649, 'val_mae': 0.07770641428836877}
+{'epoch': 10, 'train_loss': 0.011604174208164645, 'val_loss': 0.016602569008962467, 'val_rmse': 0.12887914634089928, 'val_mae': 0.07552564889192581}
+{'epoch': 11, 'train_loss': 0.010566673341180341, 'val_loss': 0.01661822438920633, 'val_rmse': 0.12881951241347414, 'val_mae': 0.0769497788902642}
+{'epoch': 12, 'train_loss': 0.010168943596699346, 'val_loss': 0.01579902521245038, 'val_rmse': 0.12555621038790887, 'val_mae': 0.0743783452876524}
+{'epoch': 13, 'train_loss': 0.00959289394533978, 'val_loss': 0.015524680332209054, 'val_rmse': 0.12451326905351572, 'val_mae': 0.0733881269172194}
+{'epoch': 14, 'train_loss': 0.00842309424702902, 'val_loss': 0.015431042088983724, 'val_rmse': 0.1240005429832454, 'val_mae': 0.07430838034060842}
+{'epoch': 15, 'train_loss': 0.008062134388287982, 'val_loss': 0.015008023796746364, 'val_rmse': 0.12223090422444047, 'val_mae': 0.07223129366043109}
+{'epoch': 16, 'train_loss': 0.007778876491311866, 'val_loss': 0.014075104487486757, 'val_rmse': 0.11833803224381675, 'val_mae': 0.07119936841553536}
+{'epoch': 17, 'train_loss': 0.007838760420921832, 'val_loss': 0.014304007486386511, 'val_rmse': 0.11931922835057851, 'val_mae': 0.0723610556355997}
+{'epoch': 18, 'train_loss': 0.0071301707738222414, 'val_loss': 0.013752742813756833, 'val_rmse': 0.11686073875295018, 'val_mae': 0.06929032011452504}
+{'epoch': 19, 'train_loss': 0.006735717862074335, 'val_loss': 0.013384346893872134, 'val_rmse': 0.1152546061978897, 'val_mae': 0.06961157010949176}
+{'epoch': 20, 'train_loss': 0.007271986850985111, 'val_loss': 0.014383478025243117, 'val_rmse': 0.11953109802192488, 'val_mae': 0.07143033421845828}
+{'epoch': 21, 'train_loss': 0.006284275724633167, 'val_loss': 0.01376206529004356, 'val_rmse': 0.11682392083745302, 'val_mae': 0.06967390742566851}
+{'epoch': 22, 'train_loss': 0.006498096387636347, 'val_loss': 0.014367443735514266, 'val_rmse': 0.1194128542525636, 'val_mae': 0.07097477955374741}
+{'epoch': 23, 'train_loss': 0.006589824065136222, 'val_loss': 0.014167560613714159, 'val_rmse': 0.11850638663546235, 'val_mae': 0.06943230788056977}
+{'epoch': 24, 'train_loss': 0.006410203298750835, 'val_loss': 0.013944205451899996, 'val_rmse': 0.11745164219223966, 'val_mae': 0.06959081783098875}
+{'epoch': 25, 'train_loss': 0.006266440036527526, 'val_loss': 0.0143870961059852, 'val_rmse': 0.11930484583016109, 'val_mae': 0.06922257896782695}
+{'epoch': 26, 'train_loss': 0.006612731411363571, 'val_loss': 0.014508303610804992, 'val_rmse': 0.11964983048307817, 'val_mae': 0.06869642206148249}
+{'epoch': 27, 'train_loss': 0.005796984218669912, 'val_loss': 0.013512951612938195, 'val_rmse': 0.11551608705930694, 'val_mae': 0.06817869752069602}
+{'epoch': 28, 'train_loss': 0.006035802242247603, 'val_loss': 0.013696196806939462, 'val_rmse': 0.11619984561811343, 'val_mae': 0.068308773248092}
+{'epoch': 29, 'train_loss': 0.006193226459100305, 'val_loss': 0.01345211132698191, 'val_rmse': 0.1152774425673014, 'val_mae': 0.06795559244023429}
+{'epoch': 30, 'train_loss': 0.006205549789368748, 'val_loss': 0.013597098788103232, 'val_rmse': 0.11598034602851098, 'val_mae': 0.06908838044186145}
+{'epoch': 31, 'train_loss': 0.005608177203752208, 'val_loss': 0.013541102181009661, 'val_rmse': 0.1156260384671041, 'val_mae': 0.06859369824330012}
+{'epoch': 32, 'train_loss': 0.006469765968526749, 'val_loss': 0.01340197161054955, 'val_rmse': 0.11492413466231186, 'val_mae': 0.06913085465413937}
+{'epoch': 33, 'train_loss': 0.005790429083460297, 'val_loss': 0.014228015026534334, 'val_rmse': 0.1185027856975859, 'val_mae': 0.06884595866940448}
+{'epoch': 34, 'train_loss': 0.005297092721985581, 'val_loss': 0.013353799366786216, 'val_rmse': 0.1147850453058294, 'val_mae': 0.06942647544370181}
+{'epoch': 35, 'train_loss': 0.00549432445572725, 'val_loss': 0.013065059575288055, 'val_rmse': 0.11351898825549049, 'val_mae': 0.06781468551228012}
+{'epoch': 36, 'train_loss': 0.005690502766251134, 'val_loss': 0.013900468687867172, 'val_rmse': 0.11716604470400872, 'val_mae': 0.06934578353224169}
+{'epoch': 37, 'train_loss': 0.005204466144697597, 'val_loss': 0.013743477996635752, 'val_rmse': 0.11640122164999016, 'val_mae': 0.06837549730055574}
+{'epoch': 38, 'train_loss': 0.005118069274780842, 'val_loss': 0.013624913860649731, 'val_rmse': 0.11586020470858127, 'val_mae': 0.06637285808146288}
+{'epoch': 39, 'train_loss': 0.005432234873296693, 'val_loss': 0.01343609459469847, 'val_rmse': 0.11514178017833347, 'val_mae': 0.06685519635965283}
+{'epoch': 40, 'train_loss': 0.005120026303092555, 'val_loss': 0.013590885362086387, 'val_rmse': 0.11574269620932683, 'val_mae': 0.0675736960509549}
+{'epoch': 41, 'train_loss': 0.00505275018748272, 'val_loss': 0.013834547658916563, 'val_rmse': 0.11652956623345062, 'val_mae': 0.06673844460991846}
+{'epoch': 42, 'train_loss': 0.00497020801412873, 'val_loss': 0.013704561743697222, 'val_rmse': 0.11605022245284648, 'val_mae': 0.06733141864699442}
+{'epoch': 43, 'train_loss': 0.005456674330791709, 'val_loss': 0.014403969817347108, 'val_rmse': 0.11904147747235047, 'val_mae': 0.06868609692451459}
+{'epoch': 44, 'train_loss': 0.0051213920036948715, 'val_loss': 0.014503086690987961, 'val_rmse': 0.11950552930483906, 'val_mae': 0.06891016356179104}
+{'epoch': 45, 'train_loss': 0.004874393109415765, 'val_loss': 0.013810518385770802, 'val_rmse': 0.1166130763128304, 'val_mae': 0.06779423906751302}
+{'epoch': 46, 'train_loss': 0.004686599050518663, 'val_loss': 0.013759491576750476, 'val_rmse': 0.11633915159769419, 'val_mae': 0.06710221607615982}
+{'epoch': 47, 'train_loss': 0.004988779320018903, 'val_loss': 0.01333087087662604, 'val_rmse': 0.11462233555289165, 'val_mae': 0.06628287997510698}
+{'epoch': 48, 'train_loss': 0.004941137649718887, 'val_loss': 0.013398825623041306, 'val_rmse': 0.11476986679256754, 'val_mae': 0.0666860715634581}
+{'epoch': 49, 'train_loss': 0.004946002140059136, 'val_loss': 0.013477519886621919, 'val_rmse': 0.11495679070226425, 'val_mae': 0.06578108409176701}
+{'epoch': 50, 'train_loss': 0.004892040696666719, 'val_loss': 0.01399821455617292, 'val_rmse': 0.11732123579782948, 'val_mae': 0.06665340649045032}
+{'epoch': 51, 'train_loss': 0.004689105872015576, 'val_loss': 0.013512118329974608, 'val_rmse': 0.11529335276344992, 'val_mae': 0.06683569739838154}
+{'epoch': 52, 'train_loss': 0.004728369760134508, 'val_loss': 0.014448517820430705, 'val_rmse': 0.11906437147335294, 'val_mae': 0.06727385250986487}
+{'epoch': 53, 'train_loss': 0.0043945344989949195, 'val_loss': 0.01381806193855412, 'val_rmse': 0.116429637915128, 'val_mae': 0.06523986661059845}
+{'epoch': 54, 'train_loss': 0.004427048219860388, 'val_loss': 0.014057590582524426, 'val_rmse': 0.11746043127169241, 'val_mae': 0.06616729260354802}
+{'epoch': 55, 'train_loss': 0.004540526948403567, 'val_loss': 0.01378717083515277, 'val_rmse': 0.11639505285146878, 'val_mae': 0.0661043217000754}
+{'property': 'density', 'validation': {'rmse': 0.11351898825549049, 'mae': 0.06781468551228012, 'pearson_r': 0.9966568895821135, 'rmse_log': None, 'mae_log': None, 'pearson_r_log': None}, 'ternary_test': {'rmse': 0.13554218423390518, 'mae': 0.08965953766539665, 'pearson_r': 0.9903002834743805, 'rmse_log': None, 'mae_log': None, 'pearson_r_log': None}}
+/usr/local/lib/python3.12/dist-packages/torch/nn/modules/transformer.py:505: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. We recommend specifying layout=torch.jagged when constructing a nested tensor, as this layout receives active development, has better operator coverage, and works with torch.compile. (Triggered internally at /opt/pytorch/pytorch/aten/src/ATen/NestedTensorImpl.cpp:178.)
+  output = torch._nested_tensor_from_mask(
+{'property': 'density', 'validation': {'rmse': 0.11351898825549049, 'mae': 0.06781468551228012, 'pearson_r': 0.9966568895821135, 'rmse_log': None, 'mae_log': None, 'pearson_r_log': None}, 'ternary_test': {'rmse': 0.13554218423390518, 'mae': 0.08965953766539665, 'pearson_r': 0.9903002834743805, 'rmse_log': None, 'mae_log': None, 'pearson_r_log': None}}

@@ -1,0 +1,522 @@
+[
+  {
+    "index": "EXP_ST_P144_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2CO3-Ti2O3",
+      "composition": "100-97 Li2CO3 mol%",
+      "equation": "g = -739.95 + 9.802 C",
+      "temperature": "1038 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4",
+      "composition": "100 mol%",
+      "equation": "g = 367.49 - 0.1282 T",
+      "temperature": "1013-1281 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-MoO3",
+      "composition": "30-70 mol%",
+      "equation": "g = 180.95 - 0.05849 T",
+      "temperature": "1070-1220 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-MoO3",
+      "composition": "40-60 mol%",
+      "equation": "g = 203.77 - 0.06488 T",
+      "temperature": "920-1250 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-MoO3",
+      "composition": "60-40 mol%",
+      "equation": "g = 217.46 - 0.05877 T",
+      "temperature": "980-1280 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-MoO3",
+      "composition": "80-20 mol%",
+      "equation": "g = 233.47 - 0.05342 T",
+      "temperature": "1040-1250 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-MoO3",
+      "composition": "100-0 mol%",
+      "equation": "g = 276.08 - 0.05786 T",
+      "temperature": "1110-1290 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-Na2MoO4",
+      "composition": "0-100 mol%",
+      "equation": "g = 288.84 - 0.08173 T",
+      "temperature": "1001-1132 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-Na2MoO4",
+      "composition": "20-80 mol%",
+      "equation": "g = 293.22 - 0.084326 T",
+      "temperature": "870-1070 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-Na2MoO4",
+      "composition": "38-62 mol%",
+      "equation": "g = 295.52 - 0.08305 T",
+      "temperature": "770-950 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-Na2MoO4",
+      "composition": "45-55 mol%",
+      "equation": "g = 306.17 - 0.08975 T",
+      "temperature": "830-990 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-Na2MoO4",
+      "composition": "52-48 mol%",
+      "equation": "g = 326.87 - 0.1059 T",
+      "temperature": "810-990 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-Na2MoO4",
+      "composition": "75-25 mol%",
+      "equation": "g = 336.07 - 0.10795 T",
+      "temperature": "890-1070 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2MoO4-Na2MoO4",
+      "composition": "100-0 mol%",
+      "equation": "g = 367.49 - 0.1282 T",
+      "temperature": "1013-1281 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SiO3",
+      "composition": "100 mol%",
+      "equation": "g = 490.268 - 0.077906 T",
+      "temperature": "1527-1874 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4",
+      "composition": "100 mol%",
+      "equation": "g = 301 - 0.0672 T",
+      "temperature": "1133-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaCl",
+      "composition": "0-100 mol%",
+      "equation": "g = 191.72 - 0.07 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaCl",
+      "composition": "25-75 mol%",
+      "equation": "g = 218.42 - 0.074 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaCl",
+      "composition": "50-50 mol%",
+      "equation": "g = 233.47 - 0.072 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaCl",
+      "composition": "70-30 mol%",
+      "equation": "g = 236.64 - 0.058 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaCl",
+      "composition": "90-10 mol%",
+      "equation": "g = 269.39 - 0.06 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaCl",
+      "composition": "97.5-2.5 mol%",
+      "equation": "g = 281.94 - 0.062 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaCl",
+      "composition": "98-2 mol%",
+      "equation": "g = 294.32 - 0.07 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaCl",
+      "composition": "98.5-1.5 mol%",
+      "equation": "g = 289.63 - 0.066 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaCl",
+      "composition": "99-1 mol%",
+      "equation": "g = 292.23 - 0.066 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaCl",
+      "composition": "100-0 mol%",
+      "equation": "g = 300.08 - 0.064 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaPO3",
+      "composition": "0-100 mol%",
+      "equation": "g = 228.7 - 0.0398 T",
+      "temperature": "940-1100 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-NaPO3",
+      "composition": "10-90 mol%",
+      "equation": "g = 224.8 - 0.0352 T",
+      "temperature": "780-980 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "0-100 mol%",
+      "equation": "g = 181.15 - 0.084 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "40-60 mol%",
+      "equation": "g = 184.58 - 0.068 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "60-40 mol%",
+      "equation": "g = 199.13 - 0.062 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "70-30 mol%",
+      "equation": "g = 210.4 - 0.06 T",
+      "temperature": "1173-1323 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "80-20 mol%",
+      "equation": "g = 215.6 - 0.052 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "90-10 mol%",
+      "equation": "g = 245.1 - 0.056 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "97-3 mol%",
+      "equation": "g = 252.86 - 0.05 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "98-2 mol%",
+      "equation": "g = 265.55 - 0.054 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "98.5-1.5 mol%",
+      "equation": "g = 278.14 - 0.062 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "99-1 mol%",
+      "equation": "g = 278.71 - 0.06 T",
+      "temperature": "1173-1273 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "99.25-0.75 mol%",
+      "equation": "g = 285.43 - 0.06501 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  },
+  {
+    "index": "EXP_ST_P144_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "Li2SO4-RbCl",
+      "composition": "99.5-0.5 mol%",
+      "equation": "g = 286.63 - 0.066 T",
+      "temperature": "1173-1373 K",
+      "unit": "mN m^-1"
+    }
+  }
+]

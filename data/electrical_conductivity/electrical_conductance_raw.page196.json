@@ -1,0 +1,574 @@
+[
+  {
+    "index": "EXP_EC_P196_001",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-CsNO3",
+      "composition": "70-30 mol%",
+      "equation": "k = 6.872 exp(-13284.42225/RT)",
+      "temperature": "675-730 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_002",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-CsNO3",
+      "composition": "80-20 mol%",
+      "equation": "k = 7.473 exp(-13651.7836/RT)",
+      "temperature": "675-730 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_003",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-CsNO3",
+      "composition": "90-10 mol%",
+      "equation": "k = 7.26 exp(-13301.15853/RT)",
+      "temperature": "675-730 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_004",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-CsNO3",
+      "composition": "100-0 mol%",
+      "equation": "k = 7.359 exp(-13280.23818/RT)",
+      "temperature": "675-730 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_005",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "10-90 mol%",
+      "equation": "k = 21.361 exp(-15468.50679/RT)",
+      "temperature": "473-553 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_006",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "20-80 mol%",
+      "equation": "k = 19.907 exp(-16124.56897/RT)",
+      "temperature": "473-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_007",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "30-70 mol%",
+      "equation": "k = 27.579 exp(-18314.92961/RT)",
+      "temperature": "433-593 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_008",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "40-60 mol%",
+      "equation": "k = -1.028435 + 0.00274025 T",
+      "temperature": "393-633 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_009",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "45-55 mol%",
+      "equation": "k = -0.128 - 8.312 x 10^-4 T + 3.37 x 10^-6 T^2",
+      "temperature": "393-633 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_010",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "50-50 mol%",
+      "equation": "k = -0.3702 + 1.618 x 10^-4 T + 2.325 x 10^-6 T^2",
+      "temperature": "393-673 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_011",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "55-45 mol%",
+      "equation": "k = -0.265 - 2.825 x 10^-4 T + 2.723 x 10^-6 T^2",
+      "temperature": "393-673 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_012",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "60-40 mol%",
+      "equation": "k = -0.3828 + 1.647 x 10^-4 T + 2.269 x 10^-6 T^2",
+      "temperature": "393-673 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_013",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "70-30 mol%",
+      "equation": "k = 16.427 exp(-17338.78608/RT)",
+      "temperature": "513-713 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_014",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "80-20 mol%",
+      "equation": "k = 11.227 exp(-15429.17653/RT)",
+      "temperature": "593-713 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_015",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO2",
+      "composition": "90-10 mol%",
+      "equation": "k = 8.2 exp(-13737.55703/RT)",
+      "temperature": "673-713 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_016",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO3",
+      "composition": "10-90 mol%",
+      "equation": "k = 10.925 exp(-12545.09708/RT)",
+      "temperature": "553-633 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_017",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO3",
+      "composition": "20-80 mol%",
+      "equation": "k = 8.157 - 0.05106 T + 1.031 x 10^-4 T^2 - 6.427 x 10^-8 T^3",
+      "temperature": "433-673 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_018",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO3",
+      "composition": "30-70 mol%",
+      "equation": "k = 19.1877 exp(-17108.24382/RT)",
+      "temperature": "433-673 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_019",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO3",
+      "composition": "40-60 mol%",
+      "equation": "k = 15.4016 exp(-16535.86305/RT)",
+      "temperature": "433-673 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_020",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO3",
+      "composition": "50-50 mol%",
+      "equation": "k = -2.443674 + 0.01241919 T - 2.1413565 x 10^-5 T^2 + 1.5070768 x 10^-8 T^3",
+      "temperature": "393-713 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_021",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO3",
+      "composition": "60-40 mol%",
+      "equation": "k = 10.708 exp(-15376.45725/RT)",
+      "temperature": "473-713 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_022",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO3",
+      "composition": "70-30 mol%",
+      "equation": "k = 11.399 exp(-15906.99733/RT)",
+      "temperature": "553-713 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_023",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO3",
+      "composition": "80-20 mol%",
+      "equation": "k = 10.227 exp(-15421.2268/RT)",
+      "temperature": "593-713 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_024",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO2-LiNO3",
+      "composition": "90-10 mol%",
+      "equation": "k = 8.117 exp(-14020.81857/RT)",
+      "temperature": "637-713 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_025",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3",
+      "composition": "100 mol%",
+      "equation": "k = 5.804 exp(-13602.41157/RT)",
+      "temperature": "688-764 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_026",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-KNO3",
+      "composition": "0-100 mol%",
+      "equation": "k = 10.874 exp(-14543.82732/RT)",
+      "temperature": "620-730 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_027",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-KNO3",
+      "composition": "25-75 mol%",
+      "equation": "k = 12.28 exp(-16040.05075/RT)",
+      "temperature": "590-670 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_028",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-KNO3",
+      "composition": "50-50 mol%",
+      "equation": "k = 11.228 exp(-16202.81108/RT)",
+      "temperature": "580-680 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_029",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-KNO3",
+      "composition": "75-25 mol%",
+      "equation": "k = 7.4854 exp(-14630.85598/RT)",
+      "temperature": "640-680 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_030",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-KNO3",
+      "composition": "100-0 mol%",
+      "equation": "k = 5.8807 exp(-13707.01332/RT)",
+      "temperature": "700-740 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_031",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO2",
+      "composition": "10-90 mol%",
+      "equation": "k = 9.432 exp(-11652.63495/RT)",
+      "temperature": "505-520 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_032",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO2",
+      "composition": "20-80 mol%",
+      "equation": "k = 23.712 exp(-16945.4835/RT)",
+      "temperature": "460-565 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_033",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO2",
+      "composition": "30-70 mol%",
+      "equation": "k = 39.3794 exp(-20172.69853/RT)",
+      "temperature": "430-565 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_034",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO2",
+      "composition": "40-60 mol%",
+      "equation": "k = 23.393 exp(-18705.72175/RT)",
+      "temperature": "415-610 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_035",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO2",
+      "composition": "50-50 mol%",
+      "equation": "k = 21.112 exp(-18624.9692/RT)",
+      "temperature": "415-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_036",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO2",
+      "composition": "60-40 mol%",
+      "equation": "k = 10.665 exp(-15554.28023/RT)",
+      "temperature": "505-685 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_037",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO2",
+      "composition": "70-30 mol%",
+      "equation": "k = 9.626 exp(-15274.36594/RT)",
+      "temperature": "580-685 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_038",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO2",
+      "composition": "80-20 mol%",
+      "equation": "k = 11.536 exp(-16625.40215/RT)",
+      "temperature": "625-730 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_039",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO2",
+      "composition": "90-10 mol%",
+      "equation": "k = 13.409 exp(-18267.64962/RT)",
+      "temperature": "700-730 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_040",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO3",
+      "composition": "0-100 mol%",
+      "equation": "k = 16.295 exp(-13002.83434/RT)",
+      "temperature": "580-690 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_041",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO3",
+      "composition": "25-75 mol%",
+      "equation": "k = 11.8 exp(-13819.98321/RT)",
+      "temperature": "570-650 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_042",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO3",
+      "composition": "50-50 mol%",
+      "equation": "k = 14.135 exp(-16598.20569/RT)",
+      "temperature": "530-640 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_043",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO3",
+      "composition": "75-25 mol%",
+      "equation": "k = 7.7237 exp(-14660.98128/RT)",
+      "temperature": "570-660 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  },
+  {
+    "index": "EXP_EC_P196_044",
+    "source": {
+      "doi": ""
+    },
+    "data": {
+      "system": "CsNO3-LiNO3",
+      "composition": "100-0 mol%",
+      "equation": "k = 5.8807 exp(-13707.01332/RT)",
+      "temperature": "700-740 K",
+      "unit": "ohm^-1 cm^-1"
+    }
+  }
+]
