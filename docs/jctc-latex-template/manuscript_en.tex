@@ -150,14 +150,14 @@ z_{\mathrm{CW}}=\sum_{i=1}^{C}x_i z_i.
 \tag{6}
 \]
 
-CW is used only as a composition-weighted inductive bias in the target space; it is not a thermodynamically rigorous mixing rule based on molar volume or excess properties. On top of this contribution, the CW+RK model adds pairwise Redlich--Kister corrections. For a component pair \((i,j)\), \(\mathrm{MLP}_{\mathrm{RK}}\) is a single network shared across all RK orders. It outputs an \(N+1\)-dimensional coefficient vector, and \([\cdot]_k\) denotes its \(k\)-th component. The \(k\)-th RK coefficient is defined as
+CW is used only as a composition-weighted inductive bias in the target space; it is not a thermodynamically rigorous mixing rule based on molar volume or excess properties. On top of this contribution, the CW+RK model adds pairwise Redlich--Kister corrections. For a component pair \((i,j)\), \(\mathrm{MLP}_{\mathrm{RK}}([s_i,s_j])\) denotes the scalar coefficient produced for the current RK order \(k\). The \(k\)-th RK coefficient is defined as
 
 \[
 B^k_{\mathrm{RK},i,j}
 =
 \frac{
-\left[\mathrm{MLP}_{\mathrm{RK}}([s_i,s_j])\right]_k
-+(-1)^k\left[\mathrm{MLP}_{\mathrm{RK}}([s_j,s_i])\right]_k
+\mathrm{MLP}_{\mathrm{RK}}([s_i,s_j])
++(-1)^k\mathrm{MLP}_{\mathrm{RK}}([s_j,s_i])
 }{2},
 \quad k=0,\ldots,N.
 \tag{7}
