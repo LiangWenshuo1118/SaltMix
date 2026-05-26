@@ -7,7 +7,6 @@
 - `salt_property/`: 核心 Python 包，包含数据预处理、化学式解析、模型、训练、评估和推理入口。
 - `configs/`: 各性质和模型变体的 YAML 配置。
 - `data/`: 整理后的 Janz 相关 JSON 数据。Janz 页面 PNG、原始 PDF 和 MSTDB-TP 相关文件不随仓库发布。
-- `scripts/`: 远程打包、上传和训练脚本。
 - `tests/`: CLI、预处理、解析和模型行为的单元测试。
 - `docs/`: 论文草稿、补充材料和结果文档。
 - `outputs/`: 精选训练产物和处理后的结果汇总；远程 bundle 不随仓库发布。
@@ -169,38 +168,6 @@ python -m salt_property predict \
 
 如果未传 `--checkpoint`，默认读取配置输出目录中的 `best_model.pt`。
 
-## 远程训练
-
-本仓库提供了远程打包和启动脚本：
-
-```bash
-scripts/package_for_remote.sh viscosity
-scripts/run_remote.sh viscosity 2026_05_25_12_00 detach
-```
-
-`scripts/run_remote.sh` 支持的常用任务名包括：
-
-- `density`
-- `viscosity`
-- `viscosity_arrhenius`
-- `surface_tension`
-- `electrical_conductivity`
-- `electrical_conductivity_arrhenius`
-- `all`
-- `all_fractional_serial`
-- `all_seed42_formula_space`
-
-远程连接信息建议通过环境变量或私有的 `AGENTS.md` 管理：
-
-```bash
-export REMOTE_PORT=2222
-export REMOTE_USER='user'
-export REMOTE_HOST='host.example.com'
-export REMOTE_PASSWORD='...'
-```
-
-`detach` 模式会在远程用 `nohup` 后台运行，并打印日志路径。
-
 ## 批量预测工具
 
 `tools/` 中有面向论文最终模型目录的批量预测脚本。MSTDB-TP 输入路径仅作为示例，实际文件不随仓库发布：
@@ -240,5 +207,4 @@ python3 -m unittest discover tests
 
 - `outputs/` 中只应提交精选结果和指定最优模型训练目录，提交或同步前请确认白名单仍然生效。
 - 配置文件中的 `training.output_dir` 会被训练流程直接写入。
-- 远程脚本会打包 `salt_property/`、`configs/`、`scripts/`、`requirements-remote.txt` 和四类性质数据目录。
 - 预测输入的组分顺序会参与 token 编码，但模型结构对有效组分排列保持置换不变。

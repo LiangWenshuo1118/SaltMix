@@ -13,6 +13,7 @@ __pycache__/
 venv/
 tmp/
 Rplots.pdf
+scripts/
 
 # Data policy: keep curated non-MSTDB JSON only
 data/**/*.png
