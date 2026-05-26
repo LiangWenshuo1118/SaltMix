@@ -230,8 +230,9 @@ python3 -m unittest discover tests
 
 ## 相关文档
 
-- [docs/Salt.md](docs/Salt.md): 论文主文档草稿。
-- [docs/Salt_SI.md](docs/Salt_SI.md): 补充材料草稿。
+- [docs/Salt_en.md](docs/Salt_en.md): English manuscript draft.
+- [docs/Salt_SI.md](docs/Salt_SI.md): English supporting-information draft.
+- [docs/jctc-latex-template/manuscript_en.pdf](docs/jctc-latex-template/manuscript_en.pdf): English manuscript PDF.
 - [docs/Janz-data-corrections.md](docs/Janz-data-corrections.md): Janz 数据修正记录。
 - MSTDB-TP 数据未随仓库发布；使用前请从有授权的数据源自行准备。
 
