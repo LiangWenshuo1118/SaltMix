@@ -6,7 +6,7 @@
 
 - `salt_property/`: 核心 Python 包，包含数据预处理、化学式解析、模型、训练、评估和推理入口。
 - `configs/`: 各性质和模型变体的 YAML 配置。
-- `data/`: 整理后的 Janz 相关 JSON 数据。Janz 页面 PNG、原始 PDF 和 MSTDB-TP 相关文件不随仓库发布。
+- `data/`: 整理后的 Janz 相关 JSON 数据和 Janz 原始 PDF。Janz 页面 PNG 不随仓库发布；MSTDB-TP 数据本体不随仓库发布，仅保留官方获取说明。
 - `tests/`: CLI、预处理、解析和模型行为的单元测试。
 - `docs/`: 论文草稿、补充材料和结果文档。
 - `outputs/`: 精选训练产物和处理后的结果汇总；远程 bundle 不随仓库发布。
@@ -133,7 +133,7 @@ data:
 
 对于粘度和电导率，`metrics.json` 中会同时包含原始值空间指标和 log-space 指标。
 
-本仓库只包含可公开保存的整理后 JSON 数据。MSTDB-TP 相关 CSV/JSON 文件未随仓库发布；如需运行依赖 MSTDB-TP 的补充分析，请从有授权的数据来源自行准备对应文件，并放回配置或脚本期望的位置。
+本仓库包含整理后的 Janz JSON 数据和 `data/Janz_1988/Janz.pdf`。MSTDB-TP 相关 CSV/JSON 文件未随仓库发布；如需运行依赖 MSTDB-TP 的补充分析，请访问官方链接 https://msd.ornl.gov/ 获取数据，并放回配置或脚本期望的位置。
 
 ## 推理
 
@@ -201,4 +201,4 @@ python3 -m unittest discover tests
 - [docs/Salt_SI.md](docs/Salt_SI.md): English supporting-information draft.
 - [docs/jctc-latex-template/manuscript_en.pdf](docs/jctc-latex-template/manuscript_en.pdf): English manuscript PDF.
 - [docs/Janz-data-corrections.md](docs/Janz-data-corrections.md): Janz 数据修正记录。
-- MSTDB-TP 数据未随仓库发布；使用前请从有授权的数据源自行准备。
+- `data/mstdb-tp-v4/README.md` 提供 MSTDB-TP 官方获取入口。

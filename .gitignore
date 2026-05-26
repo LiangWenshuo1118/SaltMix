@@ -15,11 +15,14 @@ tmp/
 Rplots.pdf
 scripts/
 
-# Data policy: keep curated non-MSTDB JSON only
+# Data policy: keep curated JSON, Janz PDF, and MSTDB pointer text only
 data/**/*.png
-data/Janz_1988/
-data/mstdb-tp-v4/
+data/Janz_1988/*
+!data/Janz_1988/Janz.pdf
 data/**/*mstdb*
+!data/mstdb-tp-v4/
+data/mstdb-tp-v4/*
+!data/mstdb-tp-v4/README.md
 
 # Output policy: ignore all outputs by default, then allow selected results
 outputs/*
