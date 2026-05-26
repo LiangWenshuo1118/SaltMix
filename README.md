@@ -202,9 +202,3 @@ python3 -m unittest discover tests
 - [docs/jctc-latex-template/manuscript_en.pdf](docs/jctc-latex-template/manuscript_en.pdf): English manuscript PDF.
 - [docs/Janz-data-corrections.md](docs/Janz-data-corrections.md): Janz 数据修正记录。
 - MSTDB-TP 数据未随仓库发布；使用前请从有授权的数据源自行准备。
-
-## 注意事项
-
-- `outputs/` 中只应提交精选结果和指定最优模型训练目录，提交或同步前请确认白名单仍然生效。
-- 配置文件中的 `training.output_dir` 会被训练流程直接写入。
-- 预测输入的组分顺序会参与 token 编码，但模型结构对有效组分排列保持置换不变。
