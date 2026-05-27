@@ -109,13 +109,13 @@ Each salt component is represented as a structured token sequence:
 
 \subsection{Model architecture}\label{sec:model}
 
-Consider a molten salt system with \(C\) components. The structured sequence of component \(i\) is \(S_i\), its mole fraction is \(x_i\), and the temperature is \(T\). We denote the model target space by \(z\): density and surface tension are modeled in their original property spaces, whereas viscosity and electrical conductivity are modeled in log space. All models share the same component encoder, but use different mixture representations and output constraints. The overall workflow is shown in Figure~\ref{fig:saltmix-mechanism}.
+Consider a molten salt system with \(C\) components. The structured sequence of component \(i\) is \(S_i\), its mole fraction is \(x_i\), and the temperature is \(T\). We denote the model target space by \(z\): density and surface tension are modeled in their original property spaces, whereas viscosity and electrical conductivity are modeled in log space. All models share the same component encoder, but use different mixture representations and output constraints. The overall workflow is shown in Figure~\ref{fig:SaltMix-Mechanism}.
 
 \begin{figure}[!htbp]
 \centering
-\includegraphics[width=\linewidth]{figures/SaltMix_mechanism.png}
+\includegraphics[width=\linewidth]{figures/SaltMix_Mechanism.png}
 \caption{Mechanistic schematic of the molten salt property-prediction framework. (a) Structured salt-component sequence representation, in which each component is encoded by formula, cation, anion, and stoichiometric tokens. (b) Two physics-inspired prediction families: CW/CW+RK composition-mixing models and linear/Arrhenius temperature-constrained models. (c) Overall architecture with a shared component encoder and a physics-inspired property predictor. (d) Detailed CW/CW+RK branch, where mixture predictions are obtained from composition-weighted component contributions and pairwise RK corrections. (e) Detailed linear/Arrhenius branch, where a mixture representation is mapped to temperature-law parameters that constrain either linear or Arrhenius-type temperature dependence.}
-\label{fig:saltmix-mechanism}
+\label{fig:SaltMix-Mechanism}
 \end{figure}
 
 Each component sequence is first passed through a Transformer encoder to obtain a component representation:

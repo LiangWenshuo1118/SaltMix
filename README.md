@@ -201,6 +201,6 @@ Tests cover:
 
 - [docs/Salt_en.md](docs/Salt_en.md): English manuscript draft.
 - [docs/Salt_SI.md](docs/Salt_SI.md): English supporting-information draft.
-- [docs/saltmix-manuscript/manuscript_en.pdf](docs/saltmix-manuscript/manuscript_en.pdf): English manuscript PDF.
-- [docs/saltmix-manuscript/manuscript_en.tex](docs/saltmix-manuscript/manuscript_en.tex): English manuscript LaTeX source.
+- [docs/SaltMix_Manuscript/manuscript.pdf](docs/SaltMix_Manuscript/manuscript.pdf): English manuscript PDF.
+- [docs/SaltMix_Manuscript/manuscript.tex](docs/SaltMix_Manuscript/manuscript.tex): English manuscript LaTeX source.
 - [docs/Janz-data-corrections.md](docs/Janz-data-corrections.md): Janz data-correction record.

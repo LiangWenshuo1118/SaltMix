@@ -11,21 +11,21 @@ compiled on a minimal LaTeX setup.
 ## Compile
 
 ```bash
-cd docs/saltmix-presentation
-tectonic saltmix_presentation.tex
+cd docs/SaltMix_Presentation
+tectonic SaltMix_Presentation.tex
 ```
 
 or:
 
 ```bash
-cd docs/saltmix-presentation
-latexmk -pdf saltmix_presentation.tex
+cd docs/SaltMix_Presentation
+latexmk -pdf SaltMix_Presentation.tex
 ```
 
 ## Notes
 
-- Edit `saltmix_presentation.tex` directly.
-- Put local slide figures in `docs/saltmix-presentation/figures/`.
-- The presentation reuses figures from `docs/saltmix-manuscript/figures/`.
+- Edit `SaltMix_Presentation.tex` directly.
+- Put local slide figures in `docs/SaltMix_Presentation/figures/`.
+- The presentation reuses figures from `docs/SaltMix_Manuscript/figures/`.
 - Beamer documentation: <https://ctan.org/pkg/beamer>
 - Metropolis theme: <https://ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/themes/metropolis>
