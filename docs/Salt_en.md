@@ -16,7 +16,7 @@ Thermophysical and transport properties of molten salts are essential for advanc
 
 **Keywords:** molten salts; physics-inspired machine learning; thermophysical and transport properties; mixture-order extrapolation
 
-![TOC Graphic](jctc-latex-template/figures/toc_graphic.png)
+![TOC Graphic](saltmix-manuscript/figures/toc_graphic.png)
 
 ## 1. Introduction
 
@@ -67,7 +67,7 @@ Each salt component is represented as a structured token sequence:
 
 Consider a molten salt system with $C$ components. The structured sequence of component $i$ is $S_i$, its mole fraction is $x_i$, and the temperature is $T$. We denote the model target space by $z$: density and surface tension are modeled in their original property spaces, whereas viscosity and electrical conductivity are modeled in log space. All models share the same component encoder, but use different mixture representations and output constraints. The overall workflow is shown in Figure 1.
 
-![Figure 1. Mechanistic schematic of the molten salt property-prediction framework. (a) Structured salt-component sequence representation, in which each component is encoded by formula, cation, anion, and stoichiometric tokens. (b) Two physics-inspired prediction families: CW/CW+RK composition-mixing models and linear/Arrhenius temperature-constrained models. (c) Overall architecture with a shared component encoder and a physics-inspired property predictor. (d) Detailed CW/CW+RK branch, where mixture predictions are obtained from composition-weighted component contributions and pairwise RK corrections. (e) Detailed linear/Arrhenius branch, where a mixture representation is mapped to temperature-law parameters that constrain either linear or Arrhenius-type temperature dependence.](jctc-latex-template/figures/SaltMix_mechanism.png)
+![Figure 1. Mechanistic schematic of the molten salt property-prediction framework. (a) Structured salt-component sequence representation, in which each component is encoded by formula, cation, anion, and stoichiometric tokens. (b) Two physics-inspired prediction families: CW/CW+RK composition-mixing models and linear/Arrhenius temperature-constrained models. (c) Overall architecture with a shared component encoder and a physics-inspired property predictor. (d) Detailed CW/CW+RK branch, where mixture predictions are obtained from composition-weighted component contributions and pairwise RK corrections. (e) Detailed linear/Arrhenius branch, where a mixture representation is mapped to temperature-law parameters that constrain either linear or Arrhenius-type temperature dependence.](saltmix-manuscript/figures/SaltMix_mechanism.png)
 
 Each component sequence is first passed through a Transformer encoder to obtain a component representation:
 
@@ -263,7 +263,7 @@ For density, the validation and test sets give different model rankings. On the 
 
 Supporting Information Figure S1 reports RMSE and MAE distributions across random seeds, Figure S2 reports prediction--reference correlations by test system, and Tables S12 and S13 summarize subsystem coverage for ternary and quaternary density test systems. The largest system-level errors are associated with incomplete low-order subsystem coverage. For example, the error in NaCl--PuCl$_3$--UCl$_3$ is related to insufficient pure-salt coverage for PuCl$_3$. Thus, the density results identify low-order RK correction as the strongest test-set model among the variants considered, while also showing that extrapolation error remains sensitive to low-order coverage gaps.
 
-![Figure 2. Prediction--reference correlations for selected density model variants. Panels a--d show validation results for the unconstrained model, CW, the best CW+RK variant ($N=0$), and the linear model, respectively. Panels e--h show test results in the same model order.](jctc-latex-template/figures/density_correlation_grid.png)
+![Figure 2. Prediction--reference correlations for selected density model variants. Panels a--d show validation results for the unconstrained model, CW, the best CW+RK variant ($N=0$), and the linear model, respectively. Panels e--h show test results in the same model order.](saltmix-manuscript/figures/density_correlation_grid.png)
 
 ### 3.3 Surface tension
 
@@ -271,7 +271,7 @@ For surface tension, the linear model gives the best validation performance, wit
 
 CW and CW+RK variants do not show a consistent advantage for surface tension, and test performance does not improve systematically with RK order. Supporting Information Figure S3 reports RMSE and MAE distributions across random seeds, Figure S4 reports prediction--reference correlations by test system, and Table S14 summarizes subsystem coverage for ternary surface-tension test systems. System-level errors are mainly associated with missing low-order subsystem coverage. For example, BeF$_2$--LiF--ThF$_4$ lacks pure BeF$_2$ and BeF$_2$--ThF$_4$ coverage, and the models show systematic overestimation for this system.
 
-![Figure 3. Prediction--reference correlations for selected surface-tension model variants. Panels a--d show validation results for the unconstrained model, CW, the best CW+RK variant ($N=4$), and the linear model, respectively. Panels e--h show test results in the same model order.](jctc-latex-template/figures/surface_tension_correlation_grid.png)
+![Figure 3. Prediction--reference correlations for selected surface-tension model variants. Panels a--d show validation results for the unconstrained model, CW, the best CW+RK variant ($N=4$), and the linear model, respectively. Panels e--h show test results in the same model order.](saltmix-manuscript/figures/surface_tension_correlation_grid.png)
 
 ### 3.4 Viscosity
 
@@ -279,7 +279,7 @@ For viscosity, the unconstrained model gives the lowest validation RMSE and MAE,
 
 Supporting Information Figure S5 reports RMSE and MAE distributions across random seeds, Figure S6 reports prediction--reference correlations by test system, and Tables S15 and S16 summarize subsystem coverage for ternary and quaternary viscosity test systems. System-level errors are concentrated in low-temperature, high-viscosity regions and in systems with insufficient high-valence-component coverage. For example, KCl--MgCl$_2$--NaCl is strongly underestimated in the highest log-viscosity region, and systems such as LiF--NaF--ZrF$_4$ are additionally limited by sparse ZrF$_4$-related coverage.
 
-![Figure 4. Prediction--reference correlations for selected viscosity model variants. Panels a--d show validation results for the unconstrained model, CW, the best CW+RK variant ($N=4$), and the Arrhenius model, respectively. Panels e--h show test results in the same model order.](jctc-latex-template/figures/viscosity_correlation_grid.png)
+![Figure 4. Prediction--reference correlations for selected viscosity model variants. Panels a--d show validation results for the unconstrained model, CW, the best CW+RK variant ($N=4$), and the Arrhenius model, respectively. Panels e--h show test results in the same model order.](saltmix-manuscript/figures/viscosity_correlation_grid.png)
 
 ### 3.5 Electrical conductivity
 
@@ -287,7 +287,7 @@ For electrical conductivity, the unconstrained model gives the best validation p
 
 CW and CW+RK variants do not show stable advantages for electrical conductivity, and higher RK order reduces test performance. In particular, CW+RK $N=4$ increases test error and lowers correlation. Because the electrical-conductivity test set contains relatively few systems, the unconstrained and Arrhenius models should be regarded as comparable rather than unambiguously ranked. Supporting Information Figure S7 reports RMSE and MAE distributions across random seeds, Figure S8 reports prediction--reference correlations by test system, and Table S17 summarizes subsystem coverage for ternary electrical-conductivity test systems. System-level errors mainly occur in low-conductivity regions with low-order coverage gaps. For example, CaCrO$_4$--KCl--LiCl lacks pure CaCrO$_4$ and CaCrO$_4$--KCl coverage, and the model substantially overestimates low-conductivity samples in this system.
 
-![Figure 5. Prediction--reference correlations for selected electrical-conductivity model variants. Panels a--d show validation results for the unconstrained model, CW, the best CW+RK variant ($N=0$), and the Arrhenius model, respectively. Panels e--h show test results in the same model order.](jctc-latex-template/figures/electrical_conductivity_correlation_grid.png)
+![Figure 5. Prediction--reference correlations for selected electrical-conductivity model variants. Panels a--d show validation results for the unconstrained model, CW, the best CW+RK variant ($N=0$), and the Arrhenius model, respectively. Panels e--h show test results in the same model order.](saltmix-manuscript/figures/electrical_conductivity_correlation_grid.png)
 
 ## 4. Discussion
 

@@ -26,6 +26,6 @@ latexmk -pdf saltmix_presentation.tex
 
 - Edit `saltmix_presentation.tex` directly.
 - Put local slide figures in `docs/saltmix-presentation/figures/`.
-- The presentation reuses figures from `docs/jctc-latex-template/figures/`.
+- The presentation reuses figures from `docs/saltmix-manuscript/figures/`.
 - Beamer documentation: <https://ctan.org/pkg/beamer>
 - Metropolis theme: <https://ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/themes/metropolis>
