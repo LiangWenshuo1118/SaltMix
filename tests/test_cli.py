@@ -59,6 +59,39 @@ class CliDispatchTests(unittest.TestCase):
                     main()
         mock_preprocess.assert_called_once_with(Path("demo.yaml"), "electrical_conductivity")
 
+    def test_salt_mix_predict_dispatches_coverage_output(self):
+        from salt_mix.__main__ import main
+
+        with patch("salt_mix.inference.predict_from_config", return_value={"ok": True}) as mock_predict:
+            with patch("builtins.print"):
+                with patch.object(
+                    sys,
+                    "argv",
+                    [
+                        "salt_mix",
+                        "predict",
+                        "--config",
+                        "demo.yaml",
+                        "--property",
+                        "viscosity",
+                        "--input",
+                        "input.json",
+                        "--output",
+                        "predictions.csv",
+                        "--coverage-output",
+                        "coverage.json",
+                    ],
+                ):
+                    main()
+        mock_predict.assert_called_once_with(
+            Path("demo.yaml"),
+            "viscosity",
+            Path("input.json"),
+            Path("predictions.csv"),
+            None,
+            Path("coverage.json"),
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -29,6 +29,7 @@ def main() -> None:
     predict_parser.add_argument("--input", required=True)
     predict_parser.add_argument("--output", required=True)
     predict_parser.add_argument("--checkpoint", required=False)
+    predict_parser.add_argument("--coverage-output", required=False)
 
     args = parser.parse_args()
     config_path = Path(args.config)
@@ -56,7 +57,15 @@ def main() -> None:
         from .inference import predict_from_config
 
         checkpoint = Path(args.checkpoint) if args.checkpoint else None
-        summary = predict_from_config(config_path, args.property, Path(args.input), Path(args.output), checkpoint)
+        coverage_output = Path(args.coverage_output) if args.coverage_output else None
+        summary = predict_from_config(
+            config_path,
+            args.property,
+            Path(args.input),
+            Path(args.output),
+            checkpoint,
+            coverage_output,
+        )
         print(summary)
         return
     raise ValueError(f"Unsupported command: {args.command}")

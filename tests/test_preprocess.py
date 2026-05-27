@@ -8,7 +8,7 @@ import unittest
 
 from salt_mix.chemistry import classify_component, decompose_component
 from salt_mix.preprocess import preprocess_from_config
-from salt_mix.inference import _prediction_rows
+from salt_mix.inference import _build_subsystem_coverage_report, _build_subsystem_index, _prediction_rows
 from salt_mix.properties import (
     evaluate_property_targets,
     parse_arrhenius_equation,
@@ -127,6 +127,97 @@ class PreprocessTests(unittest.TestCase):
 
         self.assertEqual([sample["temperature"] for sample in samples], [900.0, 950.0, 1000.0])
         self.assertTrue(all("target_log_value" not in sample for sample in samples))
+
+    def test_subsystem_coverage_report_summarizes_training_data(self):
+        coverage_samples = [
+            {
+                "record_id": "R_NACL",
+                "system": "NaCl",
+                "components": ["NaCl"],
+                "mole_fractions": [1.0],
+                "temperature": 1000.0,
+            },
+            {
+                "record_id": "R_KCL_NACL",
+                "system": "KCl-NaCl",
+                "components": ["KCl", "NaCl"],
+                "mole_fractions": [0.25, 0.75],
+                "temperature": 950.0,
+            },
+            {
+                "record_id": "R_KCL_NACL",
+                "system": "KCl-NaCl",
+                "components": ["KCl", "NaCl"],
+                "mole_fractions": [0.25, 0.75],
+                "temperature": 1000.0,
+            },
+            {
+                "record_id": "R_TERNARY",
+                "system": "KCl-MgCl2-NaCl",
+                "components": ["KCl", "MgCl2", "NaCl"],
+                "mole_fractions": [0.4, 0.1, 0.5],
+                "temperature": 900.0,
+            },
+        ]
+        prediction_sample = {
+            "record_id": "PRED_1",
+            "system": "MgCl2-CaCl2-NaCl-KCl",
+            "components": ["MgCl2", "CaCl2", "NaCl", "KCl"],
+            "mole_fractions": [0.0496, 0.0327, 0.5144, 0.4033],
+        }
+
+        report = _build_subsystem_coverage_report(
+            prediction_sample,
+            _build_subsystem_index(coverage_samples),
+        )
+
+        self.assertEqual(report["subsystem_count"], 14)
+        self.assertEqual(report["covered_subsystem_count"], 3)
+        self.assertIn("MgCl2-CaCl2", report["missing_subsystems"])
+        self.assertIn("3/14 lower-order subsystems covered", report["summary"])
+
+        nacl_kcl = next(item for item in report["subsystems"] if item["subsystem"] == "NaCl-KCl")
+        self.assertTrue(nacl_kcl["covered"])
+        self.assertEqual(nacl_kcl["systems"], ["KCl-NaCl"])
+        self.assertEqual(nacl_kcl["temperature_range_K"], {"min": 950.0, "max": 1000.0})
+        self.assertEqual(
+            nacl_kcl["composition_ranges_mol_pct"],
+            {"NaCl": {"min_mol_pct": 75.0, "max_mol_pct": 75.0}, "KCl": {"min_mol_pct": 25.0, "max_mol_pct": 25.0}},
+        )
+
+    def test_subsystem_coverage_report_aligns_composition_to_requested_order(self):
+        coverage_samples = [
+            {
+                "record_id": "R_TERNARY",
+                "system": "KCl-MgCl2-NaCl",
+                "components": ["KCl", "MgCl2", "NaCl"],
+                "mole_fractions": [0.4, 0.1, 0.5],
+                "temperature": 900.0,
+            },
+        ]
+        prediction_sample = {
+            "record_id": "PRED_1",
+            "system": "MgCl2-CaCl2-NaCl-KCl",
+            "components": ["MgCl2", "CaCl2", "NaCl", "KCl"],
+            "mole_fractions": [0.0496, 0.0327, 0.5144, 0.4033],
+        }
+
+        report = _build_subsystem_coverage_report(
+            prediction_sample,
+            _build_subsystem_index(coverage_samples),
+        )
+
+        ternary = next(item for item in report["subsystems"] if item["subsystem"] == "MgCl2-NaCl-KCl")
+        self.assertEqual(ternary["systems"], ["KCl-MgCl2-NaCl"])
+        self.assertAlmostEqual(
+            ternary["query_subsystem_composition_mol_pct"]["MgCl2"],
+            100.0 * 0.0496 / (0.0496 + 0.5144 + 0.4033),
+            places=3,
+        )
+        self.assertEqual(
+            ternary["composition_points_mol_pct"]["values"],
+            [{"MgCl2": 10.0, "NaCl": 50.0, "KCl": 40.0}],
+        )
 
     def test_filtering(self):
         self.assertEqual(classify_component("N(C3H7)4B(C6H5)4"), "non_inorganic")

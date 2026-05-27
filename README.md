@@ -163,10 +163,18 @@ python -m salt_mix predict \
   --config configs/viscosity_config.yaml \
   --property viscosity \
   --input path/to/predict_input.json \
-  --output outputs/predict/viscosity_predictions.csv
+  --output outputs/predict/viscosity_predictions.csv \
+  --coverage-output outputs/predict/viscosity_predictions_coverage.json
 ```
 
 When `--checkpoint` is omitted, prediction reads `best_model.pt` from the configured output directory.
+Prediction CSVs include a lower-order subsystem coverage summary. A detailed JSON coverage report is also written to
+`--coverage-output`; when omitted, SaltMix writes `<output-stem>_coverage.json` next to the prediction CSV. The report
+lists covered/missing lower-order subsystems with observed composition ranges, composition points, temperature ranges,
+temperature points, source systems, record IDs, and the query composition projected onto each subsystem from the model
+artifact's `train_samples.json`.
+Prediction outputs report compositions as `mole_percent`; predicted property/log values and coverage scores are rounded
+to three decimal places.
 
 ## Testing
 
