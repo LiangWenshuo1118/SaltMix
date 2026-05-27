@@ -206,56 +206,32 @@
 \end{frame}
 
 \begin{frame}{Three Model Families}
-  \begin{block}{Unconstrained}
-    \begin{columns}[c,onlytextwidth]
-      \begin{column}{0.39\textwidth}
-        \footnotesize Set pooling over component representations, followed by direct property prediction.
-      \end{column}
-      \begin{column}{0.56\textwidth}
-        \[
-          z=f_\theta(\{s_i,x_i,T\})
-        \]
-      \end{column}
-    \end{columns}
-  \end{block}
-  \vspace{-0.10cm}
-  \begin{block}{CW/CW+RK}
-    \begin{columns}[c,onlytextwidth]
-      \begin{column}{0.34\textwidth}
-        \footnotesize Composition-weighted component terms plus pairwise RK-style corrections.
-      \end{column}
-      \begin{column}{0.61\textwidth}
-        \scriptsize
-        \[
-          \begin{aligned}
-            z_{\mathrm{mix}}
-            &= \sum_{i=1}^{C}x_i z_i \\
-            &\quad+\sum_{i<j}x_i x_j
-            \sum_{k=0}^{N}B^k_{\mathrm{RK},i,j}(x_i-x_j)^k
-          \end{aligned}
-        \]
-      \end{column}
-    \end{columns}
-  \end{block}
-  \vspace{-0.10cm}
-  \begin{block}{Temperature constrained}
-    \begin{columns}[c,onlytextwidth]
-      \begin{column}{0.39\textwidth}
-        \footnotesize Linear output for density/surface tension; Arrhenius output for transport properties.
-      \end{column}
-      \begin{column}{0.56\textwidth}
-        \[
-          z=a+bT
-          \quad \mathrm{or} \quad
-          \ln z=\ln a+\frac{b}{T}
-        \]
-      \end{column}
-    \end{columns}
-  \end{block}
-  \vspace{-0.06cm}
+  \begin{enumerate}
+    \item \best{Unconstrained}. Set pooling over component representations.
+      \[
+        z_{\mathrm{mix}}=f_\theta(\{s_i,x_i,T\})
+      \]
+
+    \item \best{CW/CW+RK}. Composition-weighted component terms plus pairwise RK-style corrections.
+      \[
+        z_{\mathrm{mix}}
+        =
+        \sum_{i=1}^{C}x_i z_i
+        +
+        \sum_{i<j}x_i x_j
+        \sum_{k=0}^{N}B^k_{\mathrm{RK},i,j}(x_i-x_j)^k
+      \]
+
+    \item \best{Temperature constrained}. Linear form for density/surface tension; Arrhenius form for transport properties.
+      \[
+        z_{\mathrm{mix}}=a+bT
+        \quad \mathrm{or} \quad
+        \ln z_{\mathrm{mix}}=\ln a+\frac{b}{T}
+      \]
+  \end{enumerate}
+
   \begin{center}
-    \small \watchout{Hypothesis:} the best inductive bias should match\\
-    the target property's dominant physics.
+    \small \watchout{Hypothesis:} the best inductive bias should match the target property's dominant physics.
   \end{center}
 \end{frame}
 
