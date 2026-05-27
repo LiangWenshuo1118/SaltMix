@@ -203,45 +203,35 @@
 
 \begin{frame}{Three Model Families}
   \begin{columns}[T,onlytextwidth]
-	    \begin{column}{0.31\textwidth}
-	      \begin{block}{Unconstrained}
-	        \begin{minipage}[t][0.27\textheight][t]{0.92\linewidth}
-	          \footnotesize\raggedright
-	          Set pooling over component representations, followed by direct property prediction.
-	          \vfill
-	          \[
-	            z=f_\theta(\{s_i,x_i,T\})
-	          \]
-	        \end{minipage}
-	      \end{block}
-	    \end{column}
-	    \begin{column}{0.33\textwidth}
-	      \begin{block}{CW/CW+RK}
-	        \begin{minipage}[t][0.27\textheight][t]{0.92\linewidth}
-	          \footnotesize\raggedright
-	          Composition-weighted component terms plus pairwise RK-style corrections.
-	          \vfill
-	          \[
-	            z=\sum_i x_i z_i+\sum_{i<j}\Delta z^{\mathrm{RK}}_{ij}
-	          \]
-	        \end{minipage}
-	      \end{block}
-	    \end{column}
-	    \begin{column}{0.31\textwidth}
-	      \begin{block}{Temperature constrained}
-	        \begin{minipage}[t][0.27\textheight][t]{0.92\linewidth}
-	          \footnotesize\raggedright
-	          Linear output for density/surface tension; Arrhenius output for transport properties.
-	          \vfill
-	          \[
-	            \begin{aligned}
-	              z &= a+bT \\
-	              \ln z &= \ln a+\frac{b}{T}
-	            \end{aligned}
-	          \]
-	        \end{minipage}
-	      \end{block}
-	    \end{column}
+    \begin{column}{0.31\textwidth}
+      \begin{block}{Unconstrained}
+        \footnotesize
+        Set pooling over component representations, followed by direct property prediction.
+        \[
+          z=f_\theta(\{s_i,x_i,T\})
+        \]
+      \end{block}
+    \end{column}
+    \begin{column}{0.33\textwidth}
+      \begin{block}{CW/CW+RK}
+        \footnotesize
+        Composition-weighted component terms plus pairwise RK-style corrections.
+        \[
+          z=\sum_i x_i z_i+\sum_{i<j}\Delta z^{\mathrm{RK}}_{ij}
+        \]
+      \end{block}
+    \end{column}
+    \begin{column}{0.31\textwidth}
+      \begin{block}{Temperature constrained}
+        \footnotesize
+        Linear output for density/surface tension; Arrhenius output for transport properties.
+        \[
+          z=a+bT
+          \quad \mathrm{or} \quad
+          \ln z=\ln a+\frac{b}{T}
+        \]
+      \end{block}
+    \end{column}
   \end{columns}
   \vfill
   \begin{center}
@@ -421,28 +411,24 @@
 
 \begin{frame}{Limitations And Next Steps}
   \begin{columns}[T,onlytextwidth]
-	    \begin{column}{0.48\textwidth}
-	      \begin{block}{Current limitations}
-	        \begin{minipage}[t][0.36\textheight][t]{0.96\linewidth}
-	          \begin{itemize}
-	            \item Data come from empirical correlations and evaluated databases.
-	            \item Coverage remains uneven across salt families, properties, and mixture orders.
-	            \item Low-order subsystem gaps drive some high-order extrapolation errors.
-	          \end{itemize}
-	        \end{minipage}
-	      \end{block}
-	    \end{column}
-	    \begin{column}{0.48\textwidth}
-	      \begin{block}{Future directions}
-	        \begin{minipage}[t][0.36\textheight][t]{0.96\linewidth}
-	          \begin{itemize}
-	            \item Extend the framework to additional properties.
-	            \item Explore property-specific constraints that better reflect dominant mechanisms.
-	            \item Evaluate model reliability using ML-accelerated simulations or independent experimental data.
-	          \end{itemize}
-	        \end{minipage}
-	      \end{block}
-	    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Current limitations}
+        \begin{itemize}
+          \item Data come from empirical correlations and evaluated databases.
+          \item Coverage remains uneven across salt families, properties, and mixture orders.
+          \item Low-order subsystem gaps drive some high-order extrapolation errors.
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Future directions}
+        \begin{itemize}
+          \item Extend the framework to additional properties.
+          \item Explore property-specific constraints that better reflect dominant mechanisms.
+          \item Evaluate model reliability using ML-accelerated simulations or independent experimental data.
+        \end{itemize}
+      \end{block}
+    \end{column}
   \end{columns}
 \end{frame}
 
