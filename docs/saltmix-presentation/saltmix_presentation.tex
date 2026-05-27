@@ -25,7 +25,7 @@
 \definecolor{SaltInk}{HTML}{243142}
 
 \setbeamercolor{normal text}{fg=SaltInk}
-\setbeamercolor{frametitle}{fg=SaltBlue}
+\setbeamercolor{frametitle}{fg=white}
 \setbeamercolor{title}{fg=SaltBlue}
 \setbeamercolor{progress bar}{fg=SaltTeal,bg=SaltBlue!18}
 \setbeamercolor{alerted text}{fg=SaltOrange}
@@ -183,6 +183,16 @@
       \end{itemize}
     \end{column}
   \end{columns}
+\end{frame}
+
+\begin{frame}{Training Details}
+  \begin{itemize}
+    \item Shared component encoder: 128-dimensional embeddings, two-layer Transformer, four attention heads.
+    \item Component latent representation: formula/cation/anion/stoichiometry features fused with mole fraction and normalized temperature.
+    \item Optimizer: AdamW, learning rate $5\times10^{-4}$, weight decay $10^{-4}$, batch size 64.
+    \item Early stopping patience: 20 epochs; maximum epochs: 200.
+    \item Each setting is trained with five random seeds; reported metrics are mean $\pm$ SD.
+  \end{itemize}
 \end{frame}
 
 \begin{frame}{Three Model Families}
@@ -426,18 +436,6 @@
   \begin{block}{Repository}
     Code, configurations, processed data, and selected outputs: \texttt{github.com/LiangWenshuo1118/SaltMix}
   \end{block}
-\end{frame}
-
-\appendix
-
-\begin{frame}{Backup: Training Details}
-  \begin{itemize}
-    \item Shared component encoder: 128-dimensional embeddings, two-layer Transformer, four attention heads.
-    \item Component latent representation: formula/cation/anion/stoichiometry features fused with mole fraction and normalized temperature.
-    \item Optimizer: AdamW, learning rate $5\times10^{-4}$, weight decay $10^{-4}$, batch size 64.
-    \item Early stopping patience: 20 epochs; maximum epochs: 200.
-    \item Each setting is trained with five random seeds; reported metrics are mean $\pm$ SD.
-  \end{itemize}
 \end{frame}
 
 \end{document}
