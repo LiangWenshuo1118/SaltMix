@@ -39,6 +39,7 @@
 \newcommand{\best}[1]{\textcolor{SaltTeal}{\textbf{#1}}}
 \newcommand{\watchout}[1]{\textcolor{SaltOrange}{\textbf{#1}}}
 \newcommand{\slidecaption}[1]{\vspace{0.10cm}{\scriptsize\textbf{#1}}\par}
+\newcommand{\zmix}{z_{\mathrm{mix}}}
 \newcommand{\figmissing}[1]{%
   \fbox{\parbox[c][0.50\textheight][c]{0.95\linewidth}{\centering #1}}%
 }
@@ -209,14 +210,14 @@
   \begin{enumerate}
     \item \best{Unconstrained}. Set pooling over component representations.
       \[
-        z_{\mathrm{mix}}=f_\theta(\{s_i,x_i,T\})
+        \zmix=f_\theta(\{s_i,x_i,T\})
       \]
 
     \item \best{CW/CW+RK}. Composition-weighted component terms plus pairwise RK-style corrections.
       \[
-        z_{\mathrm{mix}}
+        \zmix
         =
-        \sum_{i=1}^{C}x_i z_i
+        \sum_{i=1}^{C}x_i c_i
         +
         \sum_{i<j}x_i x_j
         \sum_{k=0}^{N}B^k_{\mathrm{RK},i,j}(x_i-x_j)^k
@@ -224,9 +225,9 @@
 
     \item \best{Temperature constrained}. Linear form for density/surface tension; Arrhenius form for transport properties.
       \[
-        z_{\mathrm{mix}}=a+bT
+        \zmix=a+bT
         \quad \mathrm{or} \quad
-        \ln z_{\mathrm{mix}}=\ln a+\frac{b}{T}
+        \ln \zmix=\ln a+\frac{b}{T}
       \]
   \end{enumerate}
 
