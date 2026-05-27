@@ -383,6 +383,7 @@ def predict_from_config(
                     "components": "-".join(sample["components"]),
                     "mole_percent": _format_mole_percent(sample["mole_fractions"]),
                     "prediction_value": _format_output_float(prediction_value),
+                    "prediction_unit": spec.display_unit,
                     "prediction_log_value": _format_output_float(prediction_log_value),
                     "subsystems_covered": coverage_report["covered_subsystem_count"],
                     "subsystems_total": coverage_report["subsystem_count"],
@@ -402,6 +403,7 @@ def predict_from_config(
         "components",
         "mole_percent",
         "prediction_value",
+        "prediction_unit",
         "prediction_log_value",
         "subsystems_covered",
         "subsystems_total",
@@ -418,6 +420,7 @@ def predict_from_config(
         json.dump(
             {
                 "property": property_name,
+                "prediction_unit": spec.display_unit,
                 "coverage_source": str(artifact_dir / "train_samples.json"),
                 "records": list(coverage_reports.values()),
             },
@@ -428,6 +431,7 @@ def predict_from_config(
         "property": property_name,
         "input_rows": len(rows),
         "prediction_rows": len(output_rows),
+        "prediction_unit": spec.display_unit,
         "output": str(output_path),
         "coverage_output": str(coverage_output_path),
     }

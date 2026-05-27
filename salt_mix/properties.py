@@ -52,6 +52,8 @@ class PropertySpec:
     training_target_key: str
     supports_log_metrics: bool
     equation_family: str
+    display_unit: str
+    unit_aliases: Tuple[str, ...] = ()
 
 
 PROPERTY_REGISTRY: Dict[str, PropertySpec] = {
@@ -61,6 +63,8 @@ PROPERTY_REGISTRY: Dict[str, PropertySpec] = {
         training_target_key="target_value",
         supports_log_metrics=False,
         equation_family="linear",
+        display_unit="g/cm^3",
+        unit_aliases=("g cm^-3",),
     ),
     "viscosity": PropertySpec(
         name="viscosity",
@@ -68,6 +72,8 @@ PROPERTY_REGISTRY: Dict[str, PropertySpec] = {
         training_target_key="target_log_value",
         supports_log_metrics=True,
         equation_family="arrhenius",
+        display_unit="mPa s",
+        unit_aliases=("mN s m^-2",),
     ),
     "surface_tension": PropertySpec(
         name="surface_tension",
@@ -75,6 +81,8 @@ PROPERTY_REGISTRY: Dict[str, PropertySpec] = {
         training_target_key="target_value",
         supports_log_metrics=False,
         equation_family="linear",
+        display_unit="mN/m",
+        unit_aliases=("mN m^-1",),
     ),
     "electrical_conductivity": PropertySpec(
         name="electrical_conductivity",
@@ -82,6 +90,8 @@ PROPERTY_REGISTRY: Dict[str, PropertySpec] = {
         training_target_key="target_log_value",
         supports_log_metrics=True,
         equation_family="arrhenius",
+        display_unit="S/cm",
+        unit_aliases=("ohm^-1 cm^-1", "S cm^-1"),
     ),
 }
 
@@ -91,6 +101,22 @@ def get_property_spec(property_name: str) -> PropertySpec:
         return PROPERTY_REGISTRY[property_name]
     except KeyError as exc:
         raise ValueError(f"Unsupported property: {property_name}") from exc
+
+
+def _normalize_unit_text(unit: str) -> str:
+    return re.sub(r"\s+", " ", unit.strip()).lower()
+
+
+def canonical_property_unit(property_name: str, unit: str = "") -> str:
+    spec = get_property_spec(property_name)
+    if not unit.strip():
+        return spec.display_unit
+    normalized_unit = _normalize_unit_text(unit)
+    known_units = (spec.display_unit,) + spec.unit_aliases
+    for known_unit in known_units:
+        if normalized_unit == _normalize_unit_text(known_unit):
+            return spec.display_unit
+    return unit.strip()
 
 
 def parse_scientific_literal(token: str) -> float:

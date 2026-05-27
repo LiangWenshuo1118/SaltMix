@@ -174,7 +174,10 @@ lists covered/missing lower-order subsystems with observed composition ranges, c
 temperature points, source systems, record IDs, and the query composition projected onto each subsystem from the model
 artifact's `train_samples.json`.
 Prediction outputs report compositions as `mole_percent`; predicted property/log values and coverage scores are rounded
-to three decimal places.
+to three decimal places. The `prediction_unit` column reports the model output unit: `g/cm^3` for density, `mPa s`
+for viscosity, `mN/m` for surface tension, and `S/cm` for electrical conductivity. Janz electrical-conductivity
+records written as `ohm^-1 cm^-1` are equivalent to `S/cm`; SaltMix does not apply an `S/m` conversion during
+electrical-conductivity inference.
 
 ## Testing
 

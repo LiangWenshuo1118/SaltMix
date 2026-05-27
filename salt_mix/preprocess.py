@@ -12,6 +12,7 @@ import yaml
 from .chemistry import classify_component, tokenize_components
 from .config_utils import normalize_ratio, resolve_low_data_learning
 from .properties import (
+    canonical_property_unit,
     evaluate_property_targets,
     get_property_spec,
     parse_composition,
@@ -273,7 +274,7 @@ def normalize_record(row: Dict[str, object], property_name: str) -> NormalizedRe
         composition_spec=composition_spec,
         temperature_spec=temperature_spec,
         equation_params=equation_params,
-        unit=str(data["unit"]),
+        unit=canonical_property_unit(property_name, str(data["unit"])),
         parser_warning=parser_warning,
         tokenized_components=[
             {

@@ -10,6 +10,7 @@ from salt_mix.chemistry import classify_component, decompose_component
 from salt_mix.preprocess import preprocess_from_config
 from salt_mix.inference import _build_subsystem_coverage_report, _build_subsystem_index, _prediction_rows
 from salt_mix.properties import (
+    canonical_property_unit,
     evaluate_property_targets,
     parse_arrhenius_equation,
     parse_composition,
@@ -47,6 +48,10 @@ class PreprocessTests(unittest.TestCase):
         a, b = parse_arrhenius_equation("k = 5.183 exp(-3476.96217/RT)")
         self.assertAlmostEqual(a, 5.183)
         self.assertAlmostEqual(b, -3476.96217)
+
+    def test_electrical_conductivity_unit_is_reported_as_s_per_cm(self):
+        self.assertEqual(canonical_property_unit("electrical_conductivity", "ohm^-1 cm^-1"), "S/cm")
+        self.assertEqual(canonical_property_unit("electrical_conductivity", "S cm^-1"), "S/cm")
 
     def test_parse_log10_arrhenius_equation(self):
         a, b, c = parse_log10_arrhenius_equation("v = 10^(-0.545 + 597/T + 546000/T^2)")
@@ -1220,6 +1225,7 @@ class PreprocessTests(unittest.TestCase):
             self.assertEqual(filter_report, [])
             self.assertEqual(len(samples), 3)
             self.assertIn("target_log_value", samples_by_id["GOOD_EC"])
+            self.assertTrue(all(sample["unit"] == "S/cm" for sample in samples))
 
             const_sample = samples_by_id["CONST_EC_POINT"]
             self.assertEqual(const_sample["temperature"], 1000.0)
