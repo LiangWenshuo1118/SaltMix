@@ -79,6 +79,17 @@ def compute_metrics(y_true: List[float], y_pred: List[float]) -> Dict[str, float
     return {"rmse": math.sqrt(mse), "mae": mae, "pearson_r": pearson_r}
 
 
+def _public_float(value: float) -> float:
+    numeric = float(value)
+    if not math.isfinite(numeric):
+        return numeric
+    return float(f"{numeric:.8g}")
+
+
+def _public_value_with_unit(value: float, unit: str) -> str:
+    return f"{_public_float(value)} {unit}"
+
+
 def build_loss_fn(loss_name: str):
     torch, nn, _ = _lazy_torch()
     normalized = loss_name.strip().lower()
@@ -103,8 +114,8 @@ def set_training_seed(seed: int) -> None:
 def epoch_history_fieldnames(property_name: str) -> List[str]:
     spec = get_property_spec(property_name)
     if spec.supports_log_metrics:
-        return ["epoch", "train_loss", "val_loss", "val_rmse_log", "val_mae_log"]
-    return ["epoch", "train_loss", "val_loss", "val_rmse", "val_mae"]
+        return ["epoch", "train_loss", "val_loss", "val_rmse_log", "val_mae_log", "property_unit"]
+    return ["epoch", "train_loss", "val_loss", "val_rmse", "val_mae", "property_unit"]
 
 
 def write_epoch_history(
@@ -112,6 +123,14 @@ def write_epoch_history(
     history: List[Dict[str, float | int | None]],
     property_name: str,
 ) -> None:
+    spec = get_property_spec(property_name)
+    rows = [
+        {
+            **row,
+            "property_unit": spec.display_unit,
+        }
+        for row in history
+    ]
     csv_path = output_dir / "epoch_metrics.csv"
     with csv_path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(
@@ -120,7 +139,7 @@ def write_epoch_history(
             extrasaction="ignore",
         )
         writer.writeheader()
-        writer.writerows(csv_safe_rows(history))
+        writer.writerows(csv_safe_rows(rows))
 
 
 def evaluate_model(model, dataloader, device, property_name: str) -> Tuple[Dict[str, float], List[Dict[str, object]]]:
@@ -150,14 +169,27 @@ def evaluate_model(model, dataloader, device, property_name: str) -> Tuple[Dict[
                     target_log_values,
                     target_values,
                 ):
+                    public_pred_log = _public_float(pred_log)
+                    public_prediction_value = _public_float(math.exp(public_pred_log))
+                    public_target_value = _public_float(target_value)
                     predictions.append(
                         {
                             "record_id": record_id,
                             "system": system,
-                            "prediction_value": pred_value,
-                            "target_value": target_value,
-                            "prediction_log_value": pred_log,
-                            "target_log_value": target_log,
+                            "prediction_value": public_prediction_value,
+                            "prediction_unit": spec.display_unit,
+                            "prediction_value_with_unit": _public_value_with_unit(
+                                public_prediction_value,
+                                spec.display_unit,
+                            ),
+                            "target_value": public_target_value,
+                            "target_unit": spec.display_unit,
+                            "target_value_with_unit": _public_value_with_unit(
+                                public_target_value,
+                                spec.display_unit,
+                            ),
+                            "prediction_log_value": public_pred_log,
+                            "target_log_value": _public_float(target_log),
                         }
                     )
                 y_true_log.extend(target_log_values)
@@ -169,12 +201,24 @@ def evaluate_model(model, dataloader, device, property_name: str) -> Tuple[Dict[
                 for record_id, system, pred_value, target_value in zip(
                     batch["record_id"], batch["system"], raw_outputs, target_values
                 ):
+                    public_prediction_value = _public_float(pred_value)
+                    public_target_value = _public_float(target_value)
                     predictions.append(
                         {
                             "record_id": record_id,
                             "system": system,
-                            "prediction_value": pred_value,
-                            "target_value": target_value,
+                            "prediction_value": public_prediction_value,
+                            "prediction_unit": spec.display_unit,
+                            "prediction_value_with_unit": _public_value_with_unit(
+                                public_prediction_value,
+                                spec.display_unit,
+                            ),
+                            "target_value": public_target_value,
+                            "target_unit": spec.display_unit,
+                            "target_value_with_unit": _public_value_with_unit(
+                                public_target_value,
+                                spec.display_unit,
+                            ),
                             "prediction_log_value": None,
                             "target_log_value": None,
                         }
@@ -405,7 +449,18 @@ def evaluate_from_config(config_path: Path, property_name: str, checkpoint_path:
     with (output_dir / "metrics.json").open("w", encoding="utf-8") as handle:
         json.dump(metrics_payload, handle, indent=2)
 
-    fieldnames = ["record_id", "system", "prediction_value", "target_value", "prediction_log_value", "target_log_value"]
+    fieldnames = [
+        "record_id",
+        "system",
+        "prediction_value",
+        "prediction_unit",
+        "prediction_value_with_unit",
+        "target_value",
+        "target_unit",
+        "target_value_with_unit",
+        "prediction_log_value",
+        "target_log_value",
+    ]
     for filename, rows in (("val_predictions.csv", val_predictions), ("test_predictions.csv", test_predictions)):
         with (output_dir / filename).open("w", encoding="utf-8", newline="") as handle:
             writer = csv.DictWriter(handle, fieldnames=fieldnames)

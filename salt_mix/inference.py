@@ -105,6 +105,13 @@ def _format_output_float(value: Optional[float]) -> str:
     return f"{float(value):.{OUTPUT_DECIMAL_PLACES}f}"
 
 
+def _format_value_with_unit(value: Optional[float], unit: str) -> str:
+    formatted_value = _format_output_float(value)
+    if not formatted_value:
+        return ""
+    return f"{formatted_value} {unit}"
+
+
 def _round_public_float(value: float) -> float:
     return round(float(value), OUTPUT_DECIMAL_PLACES)
 
@@ -375,6 +382,7 @@ def predict_from_config(
             else:
                 prediction_log_value = None
                 prediction_value = output
+            prediction_value_text = _format_output_float(prediction_value)
             output_rows.append(
                 {
                     "record_id": sample["record_id"],
@@ -382,8 +390,9 @@ def predict_from_config(
                     "temperature": sample["temperature"],
                     "components": "-".join(sample["components"]),
                     "mole_percent": _format_mole_percent(sample["mole_fractions"]),
-                    "prediction_value": _format_output_float(prediction_value),
+                    "prediction_value": prediction_value_text,
                     "prediction_unit": spec.display_unit,
+                    "prediction_value_with_unit": _format_value_with_unit(prediction_value, spec.display_unit),
                     "prediction_log_value": _format_output_float(prediction_log_value),
                     "subsystems_covered": coverage_report["covered_subsystem_count"],
                     "subsystems_total": coverage_report["subsystem_count"],
@@ -404,6 +413,7 @@ def predict_from_config(
         "mole_percent",
         "prediction_value",
         "prediction_unit",
+        "prediction_value_with_unit",
         "prediction_log_value",
         "subsystems_covered",
         "subsystems_total",

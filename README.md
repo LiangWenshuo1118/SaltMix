@@ -132,6 +132,9 @@ Training uses AdamW, exponential moving average weights, and early stopping. Tra
 - `test_predictions.csv`: test-set predictions.
 
 For viscosity and electrical conductivity, `metrics.json` includes both original-value and log-space metrics.
+Prediction CSVs include both separate unit columns and `*_with_unit` columns for reported property values.
+`epoch_metrics.csv` includes `property_unit` so RMSE/MAE columns can be interpreted in the original property scale
+when they are not log-space metrics.
 
 The repository includes curated Janz JSON data and `data/Janz_1988/Janz.pdf`. MSTDB-TP CSV/JSON data files are not redistributed here; `data/mstdb-tp-v4/README.md` points to the official ORNL access page at https://msd.ornl.gov/.
 
@@ -174,10 +177,10 @@ lists covered/missing lower-order subsystems with observed composition ranges, c
 temperature points, source systems, record IDs, and the query composition projected onto each subsystem from the model
 artifact's `train_samples.json`.
 Prediction outputs report compositions as `mole_percent`; predicted property/log values and coverage scores are rounded
-to three decimal places. The `prediction_unit` column reports the model output unit: `g/cm^3` for density, `mPa s`
-for viscosity, `mN/m` for surface tension, and `S/cm` for electrical conductivity. Janz electrical-conductivity
-records written as `ohm^-1 cm^-1` are equivalent to `S/cm`; SaltMix does not apply an `S/m` conversion during
-electrical-conductivity inference.
+to three decimal places. Property CSVs report units explicitly, including `prediction_unit` and
+`prediction_value_with_unit`. Model output units are `g/cm^3` for density, `mPa s` for viscosity, `mN/m` for surface
+tension, and `S/cm` for electrical conductivity. Janz electrical-conductivity records written as `ohm^-1 cm^-1` are
+equivalent to `S/cm`; SaltMix does not apply an `S/m` conversion during electrical-conductivity inference.
 
 ## Testing
 

@@ -565,7 +565,11 @@ class ModelSmokeTests(unittest.TestCase):
         self.assertAlmostEqual(metrics["rmse"], 0.0)
         self.assertIsNone(metrics["rmse_log"])
         self.assertEqual(predictions[0]["prediction_value"], 1.23)
+        self.assertEqual(predictions[0]["prediction_unit"], "g/cm^3")
+        self.assertEqual(predictions[0]["prediction_value_with_unit"], "1.23 g/cm^3")
         self.assertEqual(predictions[0]["target_value"], 1.23)
+        self.assertEqual(predictions[0]["target_unit"], "g/cm^3")
+        self.assertEqual(predictions[0]["target_value_with_unit"], "1.23 g/cm^3")
         self.assertIsNone(predictions[0]["prediction_log_value"])
         self.assertIsNone(predictions[0]["target_log_value"])
 
@@ -617,6 +621,10 @@ class ModelSmokeTests(unittest.TestCase):
         self.assertAlmostEqual(metrics["rmse_log"], 0.0)
         self.assertAlmostEqual(predictions[0]["prediction_value"], math.exp(predictions[0]["prediction_log_value"]))
         self.assertAlmostEqual(predictions[1]["prediction_value"], math.exp(predictions[1]["prediction_log_value"]))
+        self.assertEqual(predictions[0]["prediction_unit"], "S/cm")
+        self.assertEqual(predictions[0]["target_unit"], "S/cm")
+        self.assertTrue(predictions[1]["prediction_value_with_unit"].endswith(" S/cm"))
+        self.assertEqual(predictions[1]["target_value_with_unit"], "3.0 S/cm")
 
     def test_surface_tension_eval_uses_unified_output_fields(self):
         try:
@@ -687,8 +695,9 @@ class ModelSmokeTests(unittest.TestCase):
             csv_text = (output_dir / "epoch_metrics.csv").read_text(encoding="utf-8")
 
         self.assertIn("epoch,train_loss,val_loss,val_rmse,val_mae", csv_text)
-        self.assertIn("1,0.5,0.45,10.0,8.0", csv_text)
-        self.assertIn("2,0.25,0.2,8.0,6.0", csv_text)
+        self.assertIn("property_unit", csv_text)
+        self.assertIn("1,0.5,0.45,10.0,8.0,g/cm^3", csv_text)
+        self.assertIn("2,0.25,0.2,8.0,6.0,g/cm^3", csv_text)
         self.assertNotIn("pearson", csv_text)
         self.assertNotIn("rmse_log", csv_text)
 
@@ -727,8 +736,9 @@ class ModelSmokeTests(unittest.TestCase):
             csv_text = (output_dir / "epoch_metrics.csv").read_text(encoding="utf-8")
 
         self.assertIn("epoch,train_loss,val_loss,val_rmse_log,val_mae_log", csv_text)
-        self.assertIn("1,0.5,0.45,0.4,0.3", csv_text)
-        self.assertIn("2,0.25,0.2,0.3,0.2", csv_text)
+        self.assertIn("property_unit", csv_text)
+        self.assertIn("1,0.5,0.45,0.4,0.3,mPa s", csv_text)
+        self.assertIn("2,0.25,0.2,0.3,0.2,mPa s", csv_text)
         self.assertNotIn("pearson", csv_text)
         self.assertNotIn("val_rmse,val_mae", csv_text)
 
