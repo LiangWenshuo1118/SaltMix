@@ -206,38 +206,53 @@
 \end{frame}
 
 \begin{frame}{Three Model Families}
-  \begin{columns}[T,onlytextwidth]
-    \begin{column}{0.31\textwidth}
-      \begin{block}{Unconstrained}
-        \footnotesize
-        Set pooling over component representations, followed by direct property prediction.
+  \begin{block}{Unconstrained}
+    \begin{columns}[c,onlytextwidth]
+      \begin{column}{0.39\textwidth}
+        \footnotesize Set pooling over component representations, followed by direct property prediction.
+      \end{column}
+      \begin{column}{0.56\textwidth}
         \[
           z=f_\theta(\{s_i,x_i,T\})
         \]
-      \end{block}
-    \end{column}
-    \begin{column}{0.33\textwidth}
-      \begin{block}{CW/CW+RK}
-        \footnotesize
-        Composition-weighted component terms plus pairwise RK-style corrections.
+      \end{column}
+    \end{columns}
+  \end{block}
+  \vspace{-0.10cm}
+  \begin{block}{CW/CW+RK}
+    \begin{columns}[c,onlytextwidth]
+      \begin{column}{0.34\textwidth}
+        \footnotesize Composition-weighted component terms plus pairwise RK-style corrections.
+      \end{column}
+      \begin{column}{0.61\textwidth}
+        \scriptsize
         \[
-          z=\sum_i x_i z_i+\sum_{i<j}\Delta z^{\mathrm{RK}}_{ij}
+          \begin{aligned}
+            z_{\mathrm{mix}}
+            &= \sum_{i=1}^{C}x_i z_i \\
+            &\quad+\sum_{i<j}x_i x_j
+            \sum_{k=0}^{N}B^k_{\mathrm{RK},i,j}(x_i-x_j)^k
+          \end{aligned}
         \]
-      \end{block}
-    \end{column}
-    \begin{column}{0.31\textwidth}
-      \begin{block}{Temperature constrained}
-        \footnotesize
-        Linear output for density/surface tension; Arrhenius output for transport properties.
+      \end{column}
+    \end{columns}
+  \end{block}
+  \vspace{-0.10cm}
+  \begin{block}{Temperature constrained}
+    \begin{columns}[c,onlytextwidth]
+      \begin{column}{0.39\textwidth}
+        \footnotesize Linear output for density/surface tension; Arrhenius output for transport properties.
+      \end{column}
+      \begin{column}{0.56\textwidth}
         \[
           z=a+bT
           \quad \mathrm{or} \quad
           \ln z=\ln a+\frac{b}{T}
         \]
-      \end{block}
-    \end{column}
-  \end{columns}
-  \vfill
+      \end{column}
+    \end{columns}
+  \end{block}
+  \vspace{-0.06cm}
   \begin{center}
     \small \watchout{Hypothesis:} the best inductive bias should match\\
     the target property's dominant physics.
