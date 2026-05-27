@@ -138,16 +138,14 @@
 
 \begin{frame}{Dataset Construction}
   \begin{columns}[T,onlytextwidth]
-    \begin{column}{0.50\textwidth}
-      \small
-      \begin{itemize}
-        \item Sources: Janz molten salt compilation and MSTDB-TP v4.0.
-        \item Retained inorganic halides and common oxyanion salts; excluded organics, oxides, and sulfides.
-        \item Data were first organized as record-level entries.
-        \item Record-level split: pure/binary records were split 80:20 into train/validation; ternary and higher-order records were held out as test.
-        \item Records were expanded into samples by sampling temperature or composition intervals.
-      \end{itemize}
-    \end{column}
+	    \begin{column}{0.50\textwidth}
+	      \small
+	      \begin{itemize}
+	        \item Sources: Janz molten salt compilation and MSTDB-TP v4.0.
+	        \item Retained inorganic halides and common oxyanion salts; excluded organics, oxides, and sulfides.
+	        \item Data were first organized as record-level entries.
+	      \end{itemize}
+	    \end{column}
     \begin{column}{0.46\textwidth}
       \footnotesize
       \begin{tabular}{lrr}
@@ -163,8 +161,14 @@
 
       \vspace{0.4cm}
       Units: \si{g.cm^{-3}}, \si{mPa.s}, \si{mN.m^{-1}}, and \si{S.cm^{-1}}.
-    \end{column}
-  \end{columns}
+	    \end{column}
+	  \end{columns}
+	  \vspace{0.20cm}
+	  \small
+	  \begin{itemize}
+	    \item Record-level split: pure/binary records were split 80:20 into train/validation; ternary and higher-order records were held out as test.
+	    \item Records were expanded into samples by sampling temperature or composition intervals.
+	  \end{itemize}
 \end{frame}
 
 \begin{frame}{Component-Encoded Framework}
