@@ -139,11 +139,13 @@
 \begin{frame}{Dataset Construction}
   \begin{columns}[T,onlytextwidth]
     \begin{column}{0.50\textwidth}
+      \small
       \begin{itemize}
         \item Sources: Janz molten salt compilation and MSTDB-TP v4.0.
-        \item Retained inorganic halides and common oxyanion salts.
-        \item Excluded organic-group salts, oxides, and sulfides.
-        \item Records are expanded by sampling temperature or composition intervals.
+        \item Retained inorganic halides and common oxyanion salts; excluded organics, oxides, and sulfides.
+        \item Data were first organized as record-level entries.
+        \item Record-level split: pure/binary records were split 80:20 into train/validation; ternary and higher-order records were held out as test.
+        \item Records were expanded into samples by sampling temperature or composition intervals.
       \end{itemize}
     \end{column}
     \begin{column}{0.46\textwidth}
