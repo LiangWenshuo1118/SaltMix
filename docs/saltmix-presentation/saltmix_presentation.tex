@@ -46,7 +46,7 @@
 \title[SaltMix]{Physics-Inspired Neural Models for\\Mixture-Order Extrapolation of Molten Salt Properties}
 \subtitle{Component-encoded models for thermophysical and transport properties}
 \author[Liang et al.]{Wenshuo Liang, Yuan Yin, Wentao Zhou, Dezhong Wang}
-\institute{Shanghai Jiao Tong University \quad / \quad Shanghai Smartlogic Technology Ltd.}
+\institute{Shanghai Jiao Tong University\\Shanghai Smartlogic Technology Ltd.}
 \date{\today}
 
 \begin{document}
@@ -72,7 +72,7 @@
       }{%
         \figmissing{TOC graphic}
       }
-      \slidecaption{Figure: SaltMix graphical overview.}
+      \slidecaption{Figure 1: SaltMix graphical overview.}
     \end{column}
     \begin{column}{0.40\textwidth}
       \begin{block}{Question}
@@ -136,7 +136,7 @@
   \]
 \end{frame}
 
-\section{Data And Models}
+\section{Data and Models}
 
 \begin{frame}{Dataset Construction}
   \begin{columns}[T,onlytextwidth]
@@ -150,7 +150,7 @@
 	    \end{column}
     \begin{column}{0.46\textwidth}
       \footnotesize
-      \slidecaption{Table: Dataset size after sample expansion.}
+      \slidecaption{Table 1: Dataset size after sample expansion.}
       \begin{tabular}{lrr}
         \toprule
         Property & Records & Samples \\
@@ -182,7 +182,7 @@
       }{%
         \figmissing{SaltMix mechanism figure}
       }
-      \slidecaption{Figure: Component-encoded SaltMix workflow.}
+      \slidecaption{Figure 2: Component-encoded SaltMix workflow.}
     \end{column}
     \begin{column}{0.38\textwidth}
       \begin{itemize}
@@ -259,7 +259,7 @@
     \begin{column}{0.47\textwidth}
       \scriptsize
       \setlength{\tabcolsep}{3pt}
-      \slidecaption{Table: Best low-order validation model by property.}
+      \slidecaption{Table 2: Best low-order validation model by property.}
       \begin{tabular}{L{0.34\linewidth}L{0.32\linewidth}L{0.22\linewidth}}
         \toprule
         Property & Best validation model & Val $r$ \\
@@ -281,7 +281,7 @@
 \begin{frame}{Mixture-Order Extrapolation}
   \scriptsize
   \setlength{\tabcolsep}{3pt}
-  \slidecaption{Table: Best high-order test model by property.}
+  \slidecaption{Table 3: Best high-order test model by property.}
   \begin{tabular}{L{0.21\linewidth}L{0.26\linewidth}L{0.15\linewidth}L{0.28\linewidth}}
     \toprule
     Property & Best test model & Test $r$ & Interpretation \\
@@ -308,7 +308,7 @@
       }{%
         \figmissing{Density correlation grid}
       }
-      \slidecaption{Figure: Density prediction-reference correlations.}
+      \slidecaption{Figure 3: Density prediction-reference correlations.}
     \end{column}
     \begin{column}{0.38\textwidth}
       \footnotesize
@@ -331,7 +331,7 @@
       }{%
         \figmissing{Surface-tension correlation grid}
       }
-      \slidecaption{Figure: Surface-tension prediction-reference correlations.}
+      \slidecaption{Figure 4: Surface-tension prediction-reference correlations.}
     \end{column}
     \begin{column}{0.38\textwidth}
       \footnotesize
@@ -355,7 +355,7 @@
       }{%
         \figmissing{Viscosity correlation grid}
       }
-      \slidecaption{Figure: Viscosity prediction-reference correlations.}
+      \slidecaption{Figure 5: Viscosity prediction-reference correlations.}
     \end{column}
     \begin{column}{0.38\textwidth}
       \footnotesize
@@ -378,7 +378,7 @@
       }{%
         \figmissing{Electrical-conductivity correlation grid}
       }
-      \slidecaption{Figure: Electrical-conductivity prediction-reference correlations.}
+      \slidecaption{Figure 6: Electrical-conductivity prediction-reference correlations.}
     \end{column}
     \begin{column}{0.38\textwidth}
       \footnotesize
@@ -419,7 +419,7 @@
   \best{Use physics as a property-specific inductive bias, not as a universal constraint.}
 \end{frame}
 
-\begin{frame}{Limitations And Next Steps}
+\begin{frame}{Limitations and Next Steps}
   \begin{columns}[T,onlytextwidth]
     \begin{column}{0.48\textwidth}
       \begin{block}{Current limitations}
