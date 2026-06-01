@@ -15,6 +15,11 @@ tmp/
 Rplots.pdf
 scripts/
 
+# Local SaltGen / inverse-generation experiments
+salt_gen/
+salt-generation/
+salt_generation/
+
 # Data policy: keep curated JSON, Janz PDF, and MSTDB pointer text only
 data/**/*.png
 data/Janz_1988/*
@@ -24,42 +29,18 @@ data/**/*mstdb*
 data/mstdb-tp-v4/*
 !data/mstdb-tp-v4/README.md
 
-# Output policy: ignore all outputs by default, then allow selected results
-outputs/*
+# Output policy: ignore generated runs by default. Keep only curated lightweight summaries/figures.
+outputs/**
+!outputs/
+!outputs/README.md
+!outputs/selected_results/
+!outputs/selected_results/**
 !outputs/2026_05_20_17_51/
-outputs/2026_05_20_17_51/*
-
-!outputs/2026_05_20_17_51/density/
-outputs/2026_05_20_17_51/density/*
-!outputs/2026_05_20_17_51/density/results_processed/
-!outputs/2026_05_20_17_51/density/results_processed/**
-!outputs/2026_05_20_17_51/density/phys_true_rk_true_n_0/
-!outputs/2026_05_20_17_51/density/phys_true_rk_true_n_0/**
-
-!outputs/2026_05_20_17_51/viscosity/
-outputs/2026_05_20_17_51/viscosity/*
-!outputs/2026_05_20_17_51/viscosity/results_processed/
-!outputs/2026_05_20_17_51/viscosity/results_processed/**
-!outputs/2026_05_20_17_51/viscosity/phys_true_arrhenius/
-!outputs/2026_05_20_17_51/viscosity/phys_true_arrhenius/**
-
-!outputs/2026_05_20_17_51/surface_tension/
-outputs/2026_05_20_17_51/surface_tension/*
-!outputs/2026_05_20_17_51/surface_tension/results_processed/
-!outputs/2026_05_20_17_51/surface_tension/results_processed/**
-!outputs/2026_05_20_17_51/surface_tension/phys_true_linear/
-!outputs/2026_05_20_17_51/surface_tension/phys_true_linear/**
-
-!outputs/2026_05_20_17_51/electrical_conductivity/
-outputs/2026_05_20_17_51/electrical_conductivity/*
-!outputs/2026_05_20_17_51/electrical_conductivity/results_processed/
-!outputs/2026_05_20_17_51/electrical_conductivity/results_processed/**
-!outputs/2026_05_20_17_51/electrical_conductivity/phys_true_arrhenius/
-!outputs/2026_05_20_17_51/electrical_conductivity/phys_true_arrhenius/**
-
-# Keep processed output summaries and PNG figures, not duplicate large SVG exports
-outputs/**/.DS_Store
-outputs/**/fig_svg/
+!outputs/2026_05_20_17_51/*/
+!outputs/2026_05_20_17_51/*/results_processed/
+!outputs/2026_05_20_17_51/*/results_processed/*.csv
+!outputs/2026_05_20_17_51/*/results_processed/fig_png/
+!outputs/2026_05_20_17_51/*/results_processed/fig_png/*.png
 
 # LaTeX/editor temporary files
 docs/jctc-latex-template/tmp_toc_check/
@@ -76,10 +57,17 @@ docs/jctc-latex-template/*.synctex.gz
 docs/jctc-latex-template/figures/*.svg
 docs/jctc-latex-template/figures-SI/*.svg
 
-# Keep local Chinese README/manuscript copies out of the remote repository
+# Keep local manuscript/paper builds out of the remote repository
 README.zh.md
 docs/Salt.md
 docs/Salt_zh.md
+docs/*Manuscript*/
+docs/*Manuscript*.zip
+docs/*manuscript*/
+docs/*manuscript*.zip
+docs/springer-nature-latex-template*/
+docs/springer-nature-latex-template*.zip
+docs/SaltMix_Mechanism.*
 docs/jctc-latex-template/acs-manuscript.bib
 docs/jctc-latex-template/main.pdf
 docs/jctc-latex-template/manuscript.bbl
