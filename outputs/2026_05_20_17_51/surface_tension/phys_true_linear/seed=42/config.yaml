@@ -1,0 +1,30 @@
+data:
+  raw_surface_tension_dir: /root/shared-nvme/Salt/data/surface_tension
+  validation_ratio: 0.2
+  temperatures_per_record: 5
+  excluded_systems: []
+model:
+  embed_dim: 128
+  encoder_dim: 128
+  num_heads: 4
+  num_layers: 2
+  ff_dim: 256
+  subnet_dim: 128
+  use_phy: true
+  use_arrhenius: false
+  use_linear: true
+  use_rk: false
+  rk_order: 0
+  dropout: 0.1
+training:
+  seed: 42
+  low_data_learning: false
+  batch_size: 64
+  learning_rate: 0.0005
+  grad_clip_max_norm: 1.0
+  weight_decay: 0.0001
+  ema_decay: 0.98
+  early_stopping_patience: 20
+  loss: mse
+  epochs: 200
+  output_dir: /root/shared-nvme/Salt/outputs/2026_05_20_17_51/surface_tension/phys_true_linear/seed=42

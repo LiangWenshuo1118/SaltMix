@@ -1,0 +1,19 @@
+{
+  "property": "density",
+  "validation": {
+    "rmse": 0.19416877340098526,
+    "mae": 0.08205483063875911,
+    "pearson_r": 0.9870542855901084,
+    "rmse_log": null,
+    "mae_log": null,
+    "pearson_r_log": null
+  },
+  "ternary_test": {
+    "rmse": 0.13000760844947282,
+    "mae": 0.08345418907905537,
+    "pearson_r": 0.9903061708850395,
+    "rmse_log": null,
+    "mae_log": null,
+    "pearson_r_log": null
+  }
+}

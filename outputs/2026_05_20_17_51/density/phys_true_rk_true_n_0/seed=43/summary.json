@@ -1,0 +1,24 @@
+{
+  "property": "density",
+  "normalized_records": 3780,
+  "filtered_records": 363,
+  "excluded_systems": [
+    "AlI3-SbI3"
+  ],
+  "validation_ratio": 0.2,
+  "temperature_interval": null,
+  "temperature_mean": 942.3394291516246,
+  "temperature_std": 263.56886515468267,
+  "composition_interval": null,
+  "low_data_learning": false,
+  "low_data_learning_ratio": 1.0,
+  "train_records": 2672,
+  "val_records": 668,
+  "test_records": 440,
+  "train_samples_before_low_data": 13296,
+  "train_samples": 13296,
+  "val_samples": 3316,
+  "test_samples": 2196,
+  "systems_train": 569,
+  "systems_val": 342
+}

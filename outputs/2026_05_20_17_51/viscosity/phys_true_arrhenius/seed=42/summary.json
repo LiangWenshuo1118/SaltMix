@@ -1,0 +1,22 @@
+{
+  "property": "viscosity",
+  "normalized_records": 1469,
+  "filtered_records": 252,
+  "excluded_systems": [],
+  "validation_ratio": 0.2,
+  "temperature_interval": null,
+  "temperature_mean": 853.3749627421759,
+  "temperature_std": 279.1026688687613,
+  "composition_interval": null,
+  "low_data_learning": false,
+  "low_data_learning_ratio": 1.0,
+  "train_records": 972,
+  "val_records": 243,
+  "test_records": 254,
+  "train_samples_before_low_data": 4697,
+  "train_samples": 4697,
+  "val_samples": 1187,
+  "test_samples": 1270,
+  "systems_train": 242,
+  "systems_val": 136
+}

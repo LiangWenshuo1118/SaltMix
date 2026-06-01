@@ -1,0 +1,19 @@
+{
+  "property": "surface_tension",
+  "validation": {
+    "rmse": 11.972307564371786,
+    "mae": 4.546523668286464,
+    "pearson_r": 0.9760681749229221,
+    "rmse_log": null,
+    "mae_log": null,
+    "pearson_r_log": null
+  },
+  "ternary_test": {
+    "rmse": 7.691433246042862,
+    "mae": 4.857259893930086,
+    "pearson_r": 0.9840326325850451,
+    "rmse_log": null,
+    "mae_log": null,
+    "pearson_r_log": null
+  }
+}
