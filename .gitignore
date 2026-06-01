@@ -17,8 +17,6 @@ scripts/
 
 # Local SaltGen / inverse-generation experiments
 salt_gen/
-salt-generation/
-salt_generation/
 
 # Data policy: keep curated JSON, Janz PDF, and MSTDB pointer text only
 data/**/*.png
