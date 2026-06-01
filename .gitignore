@@ -29,18 +29,26 @@ data/**/*mstdb*
 data/mstdb-tp-v4/*
 !data/mstdb-tp-v4/README.md
 
-# Output policy: ignore generated runs by default. Keep only curated lightweight summaries/figures.
+# Output policy: ignore generated runs by default. Keep only selected best model seeds.
 outputs/**
 !outputs/
-!outputs/README.md
-!outputs/selected_results/
-!outputs/selected_results/**
 !outputs/2026_05_20_17_51/
-!outputs/2026_05_20_17_51/*/
-!outputs/2026_05_20_17_51/*/results_processed/
-!outputs/2026_05_20_17_51/*/results_processed/*.csv
-!outputs/2026_05_20_17_51/*/results_processed/fig_png/
-!outputs/2026_05_20_17_51/*/results_processed/fig_png/*.png
+!outputs/2026_05_20_17_51/density/
+!outputs/2026_05_20_17_51/density/phys_true_rk_true_n_0/
+!outputs/2026_05_20_17_51/density/phys_true_rk_true_n_0/seed=4[2-6]/
+!outputs/2026_05_20_17_51/density/phys_true_rk_true_n_0/seed=4[2-6]/**
+!outputs/2026_05_20_17_51/surface_tension/
+!outputs/2026_05_20_17_51/surface_tension/phys_true_linear/
+!outputs/2026_05_20_17_51/surface_tension/phys_true_linear/seed=4[2-6]/
+!outputs/2026_05_20_17_51/surface_tension/phys_true_linear/seed=4[2-6]/**
+!outputs/2026_05_20_17_51/viscosity/
+!outputs/2026_05_20_17_51/viscosity/phys_true_arrhenius/
+!outputs/2026_05_20_17_51/viscosity/phys_true_arrhenius/seed=4[2-6]/
+!outputs/2026_05_20_17_51/viscosity/phys_true_arrhenius/seed=4[2-6]/**
+!outputs/2026_05_20_17_51/electrical_conductivity/
+!outputs/2026_05_20_17_51/electrical_conductivity/phys_true_arrhenius/
+!outputs/2026_05_20_17_51/electrical_conductivity/phys_true_arrhenius/seed=4[2-6]/
+!outputs/2026_05_20_17_51/electrical_conductivity/phys_true_arrhenius/seed=4[2-6]/**
 
 # LaTeX/editor temporary files
 docs/jctc-latex-template/tmp_toc_check/
