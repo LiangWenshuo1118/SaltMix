@@ -48,37 +48,8 @@ outputs/**
 !outputs/2026_05_20_17_51/electrical_conductivity/phys_true_arrhenius/seed=4[2-6]/
 !outputs/2026_05_20_17_51/electrical_conductivity/phys_true_arrhenius/seed=4[2-6]/**
 
-# LaTeX/editor temporary files
-docs/jctc-latex-template/tmp_toc_check/
-docs/jctc-latex-template/*.aux
-docs/jctc-latex-template/*.blg
-docs/jctc-latex-template/*.log
-docs/jctc-latex-template/*.out
-docs/jctc-latex-template/*.toc
-docs/jctc-latex-template/*.fls
-docs/jctc-latex-template/*.fdb_latexmk
-docs/jctc-latex-template/*.synctex.gz
-
-# Duplicate vector exports; manuscript TeX uses PNG figures
-docs/jctc-latex-template/figures/*.svg
-docs/jctc-latex-template/figures-SI/*.svg
-
 # Keep local manuscript/paper builds out of the remote repository
 README.zh.md
-docs/Salt.md
-docs/Salt_zh.md
 docs/*Manuscript*/
 docs/*Manuscript*.zip
-docs/*manuscript*/
-docs/*manuscript*.zip
-docs/springer-nature-latex-template*/
-docs/springer-nature-latex-template*.zip
 docs/SaltMix_Mechanism.*
-docs/jctc-latex-template/acs-manuscript.bib
-docs/jctc-latex-template/main.pdf
-docs/jctc-latex-template/manuscript.bbl
-docs/jctc-latex-template/manuscript.pdf
-docs/jctc-latex-template/manuscript.tex
-docs/jctc-latex-template/manuscript_zh.tex
-docs/jctc-latex-template/supporting-information.pdf
-docs/jctc-latex-template/supporting-information.tex
